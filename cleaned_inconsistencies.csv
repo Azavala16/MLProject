@@ -1,0 +1,1068 @@
+Year,Weekday of incident,Shift,Hospital department or location of incident,"Type of injury incurred, if any",Presence of companion at time of incident,Location or environment in which the incident ocurred,Fall risk level,Reason for incident,Whether a fall prevention protocol was implemented,Involvement of medication associated with fall risk,Severity of incident,Sex,Age range
+2012,monday,afternoon,diagnostic support,bruising,0,waiting room,moderate,loss of balance,0,0,adverse event,f,0
+2012,friday,night,inpatient units,cut,0,room,moderate,trip,1,0,adverse event,f,1
+2012,tuesday,afternoon,emergency depart,cut,1,room,high,trip,1,1,adverse event,m,2
+2012,saturday,night,inpatient units,no injury,0,room,high,mental confusion,1,0,adverse event,m,3
+2012,tuesday,night,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,f,3
+2012,tuesday,morning,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,2
+2012,monday,afternoon,inpatient units,no injury,0,bathroom/shower,moderate,mental confusion,1,1,adverse event,f,0
+2012,friday,afternoon,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,m,3
+2012,saturday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,m,4
+2012,saturday,morning,inpatient units,no injury,0,room,moderate,motor deficit,1,0,adverse event,m,1
+2012,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,f,3
+2012,wednesday,night,inpatient units,cut,0,hallway,moderate,trip,1,0,adverse event,m,5
+2012,saturday,night,inpatient units,no injury,1,room,moderate,syncope,1,0,adverse event,m,6
+2012,saturday,night,inpatient units,no injury,0,room,high,hypotension,1,1,adverse event,f,7
+2012,monday,night,emergency depart,cut,0,room,high,mental confusion,1,0,adverse event,f,3
+2012,saturday,night,ob&gynbirth,no injury,1,room,moderate,dizziness,1,0,adverse event,m,6
+2012,tuesday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,0
+2012,wednesday,night,inpatient units,no injury,0,room,high,mental confusion,1,0,adverse event,m,3
+2012,friday,night,emergency depart,no injury,0,bathroom/shower,moderate,motor deficit,1,0,adverse event,m,0
+2012,thursday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,m,0
+2012,friday,night,inpatient units,no injury,0,bathroom/shower,high,slip,1,0,adverse event,m,3
+2012,friday,morning,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,m,3
+2012,saturday,night,inpatient units,excoriation,0,room,moderate,slip,1,1,adverse event,m,3
+2012,thursday,night,inpatient units,fracture,1,room,high,loss of balance,1,1,serious adverse event,f,8
+2012,monday,afternoon,emergency depart,no injury,1,bathroom/shower,moderate,muscle weakness,1,0,adverse event,f,0
+2012,monday,night,inpatient units,excoriation,1,bathroom/shower,high,loss of balance,1,0,adverse event,m,8
+2012,thursday,night,inpatient units,no injury,0,room,high,hypotension,1,1,adverse event,m,3
+2012,sunday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,0,adverse event,m,6
+2012,tuesday,morning,oncology,cut,1,room,moderate,trip,1,0,adverse event,f,5
+2012,friday,night,inpatient units,hematoma,0,room,high,mental confusion,1,1,adverse event,f,2
+2012,monday,afternoon,diagnostic support,no injury,0,bathroom/shower,moderate,muscle weakness,0,0,adverse event,m,2
+2012,friday,afternoon,diagnostic support,no injury,1,recovery room,moderate,mental confusion,0,1,adverse event,m,9
+2012,friday,morning,inpatient units,no injury,0,room,low,loss of balance,0,0,adverse event,f,5
+2012,saturday,night,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2012,sunday,night,inpatient units,cut,0,room,moderate,mental confusion,1,0,adverse event,m,0
+2012,sunday,morning,inpatient units,excoriation,0,room,high,loss of balance,1,1,adverse event,m,2
+2012,monday,morning,inpatient units,no injury,0,room,high,slip,1,0,adverse event,m,3
+2012,saturday,morning,inpatient units,no injury,1,room,high,slip,1,1,adverse event,f,8
+2012,wednesday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,f,2
+2012,thursday,morning,inpatient units,no injury,1,room,low,hypotension,0,1,adverse event,m,1
+2012,saturday,night,inpatient units,no injury,0,room,high,muscle weakness,1,0,adverse event,m,2
+2012,sunday,morning,inpatient units,no injury,0,bathroom/shower,moderate,slip,0,0,adverse event,f,9
+2012,sunday,afternoon,diagnostic support,no injury,1,others,moderate,loss of balance,0,0,adverse event,f,5
+2012,sunday,night,inpatient units,cut,1,room,high,loss of balance,1,1,adverse event,f,3
+2012,monday,morning,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,3
+2012,friday,morning,inpatient units,hematoma,0,room,high,trip,1,1,adverse event,m,0
+2012,saturday,morning,inpatient units,excoriation,1,bathroom/shower,high,hypotension,1,1,adverse event,m,4
+2012,monday,morning,inpatient units,no injury,0,room,moderate,trip,1,0,adverse event,f,0
+2012,monday,afternoon,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,3
+2012,monday,night,inpatient units,hematoma,0,bathroom/shower,high,slip,1,0,adverse event,m,3
+2012,monday,night,inpatient units,no injury,0,room,high,mental confusion,1,0,adverse event,m,3
+2012,wednesday,night,inpatient units,no injury,0,room,high,muscle weakness,1,0,adverse event,m,2
+2012,thursday,night,inpatient units,cut,0,room,high,mental confusion,1,0,adverse event,f,3
+2012,friday,night,inpatient units,excoriation,1,bathroom/shower,high,mental confusion,1,1,adverse event,m,2
+2012,sunday,afternoon,inpatient units,no injury,0,room,high,trip,1,1,adverse event,f,3
+2012,tuesday,afternoon,diagnostic support,no injury,1,others,low,hypotension,1,1,adverse event,f,3
+2012,friday,night,inpatient units,excoriation,0,room,high,slip,1,0,adverse event,m,8
+2012,wednesday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,3
+2012,thursday,morning,inpatient units,no injury,1,room,moderate,mental confusion,1,1,adverse event,f,7
+2012,friday,night,inpatient units,no injury,0,room,moderate,mental confusion,1,0,adverse event,f,3
+2012,monday,morning,inpatient units,excoriation,0,room,low,loss of balance,0,0,adverse event,f,0
+2012,tuesday,morning,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,m,2
+2012,wednesday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,m,3
+2012,thursday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,m,2
+2012,tuesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,f,3
+2012,friday,afternoon,inpatient units,cut,0,room,high,mental confusion,1,1,adverse event,f,2
+2012,wednesday,night,inpatient units,no injury,0,room,high,mental confusion,0,0,adverse event,f,3
+2012,thursday,afternoon,emergency depart,bruising,0,hallway,moderate,loss of balance,1,1,adverse event,f,9
+2012,saturday,night,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,2
+2012,monday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,8
+2012,wednesday,morning,emergency depart,no injury,0,room,moderate,mental confusion,1,0,adverse event,f,9
+2012,thursday,afternoon,diagnostic support,no injury,1,room,moderate,loss of balance,0,0,adverse event,m,2
+2012,thursday,night,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,8
+2012,sunday,afternoon,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,3
+2012,monday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,3
+2012,wednesday,afternoon,emergency depart,no injury,1,hallway,moderate,loss of balance,1,0,adverse event,m,4
+2012,friday,morning,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,1,adverse event,m,9
+2012,monday,afternoon,inpatient units,excoriation,1,hallway,moderate,loss of balance,1,1,adverse event,f,1
+2012,tuesday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,1
+2012,friday,afternoon,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,1
+2012,friday,morning,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,1,adverse event,f,5
+2012,tuesday,night,operating room/recovery,no injury,1,others,moderate,loss of balance,0,1,adverse event,f,3
+2012,tuesday,night,inpatient units,no injury,0,room,high,slip,0,0,adverse event,f,8
+2012,tuesday,afternoon,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,6
+2012,wednesday,night,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,3
+2012,wednesday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,3
+2012,thursday,afternoon,emergency depart,no injury,1,medication room,low,hypotension,0,0,adverse event,f,9
+2012,tuesday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,mental confusion,1,0,adverse event,f,4
+2012,tuesday,morning,inpatient units,no injury,0,room,moderate,mental confusion,1,0,adverse event,m,3
+2012,tuesday,night,emergency depart,no injury,0,room,high,loss of balance,1,0,adverse event,f,3
+2012,wednesday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,0
+2012,thursday,morning,inpatient units,excoriation,1,bathroom/shower,high,equipment,1,1,adverse event,m,2
+2012,saturday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,3
+2012,tuesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,0
+2012,friday,night,inpatient units,bruising,1,room,high,muscle weakness,1,0,adverse event,f,0
+2012,wednesday,night,inpatient units,excoriation,0,bathroom/shower,moderate,loss of balance,1,0,adverse event,m,0
+2012,friday,night,emergency depart,no injury,1,room,moderate,loss of balance,0,1,adverse event,f,9
+2012,saturday,morning,inpatient units,bruising,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,9
+2012,sunday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,9
+2012,wednesday,morning,inpatient units,no injury,0,bathroom/shower,moderate,muscle weakness,1,0,adverse event,f,3
+2012,wednesday,afternoon,inpatient units,bruising,0,room,high,muscle weakness,0,1,adverse event,m,3
+2012,thursday,night,ob&gynbirth,no injury,1,room,high,muscle weakness,0,0,adverse event,f,6
+2012,friday,afternoon,emergency depart,hematoma,0,room,moderate,mental confusion,0,0,adverse event,f,8
+2012,monday,night,inpatient units,no injury,0,room,high,trip,1,1,adverse event,m,3
+2012,wednesday,morning,inpatient units,cut,1,room,moderate,trip,1,0,adverse event,m,6
+2012,thursday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,2
+2012,sunday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,m,3
+2012,tuesday,afternoon,diagnostic support,excoriation,1,others,low,trip,0,0,adverse event,m,9
+2012,tuesday,afternoon,inpatient units,cut,1,room,moderate,muscle weakness,1,0,adverse event,m,3
+2012,wednesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2012,friday,afternoon,dialysis,no injury,0,bathroom/shower,moderate,muscle weakness,0,1,adverse event,f,1
+2012,monday,afternoon,emergency depart,no injury,1,bathroom/shower,high,hypotension,1,0,adverse event,f,3
+2012,monday,night,inpatient units,edema,1,room,high,loss of balance,1,0,adverse event,m,6
+2012,tuesday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,3
+2012,friday,morning,inpatient units,bruising,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,4
+2012,friday,morning,inpatient units,no injury,1,room,high,equipment,1,0,adverse event,f,1
+2012,sunday,night,inpatient units,excoriation,1,room,high,mental confusion,1,0,adverse event,m,0
+2012,monday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,3
+2012,monday,morning,diagnostic support,excoriation,1,others,moderate,loss of balance,1,0,adverse event,f,3
+2012,wednesday,night,inpatient units,edema,0,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,5
+2012,thursday,morning,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,3
+2012,friday,morning,inpatient units,cut,0,room,high,loss of balance,1,1,adverse event,f,2
+2012,tuesday,night,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,8
+2012,thursday,afternoon,operating room/recovery,excoriation,1,waiting room,high,loss of balance,0,0,adverse event,m,2
+2012,saturday,night,inpatient units,excoriation,1,room,high,muscle weakness,1,1,adverse event,f,3
+2012,friday,night,inpatient units,no injury,1,bathroom/shower,low,hypotension,0,0,adverse event,f,0
+2012,thursday,night,emergency depart,no injury,1,room,high,muscle weakness,1,0,adverse event,f,3
+2012,friday,afternoon,operating room/recovery,no injury,1,room,high,hypotension,0,0,adverse event,m,3
+2012,tuesday,night,dialysis,hematoma,0,bathroom/shower,moderate,loss of balance,0,0,adverse event,f,0
+2012,tuesday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,0,adverse event,m,8
+2012,tuesday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,0,adverse event,m,8
+2012,thursday,morning,inpatient units,no injury,0,room,high,slip,1,1,adverse event,f,2
+2012,friday,night,emergency depart,edema,1,exam room,moderate,loss of balance,0,0,adverse event,m,6
+2012,sunday,afternoon,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,3
+2012,monday,morning,inpatient units,no injury,0,room,high,hypotension,1,1,adverse event,f,3
+2012,wednesday,morning,emergency depart,no injury,1,others,low,hypotension,0,0,adverse event,m,4
+2012,friday,morning,diagnostic support,no injury,1,room,high,muscle weakness,1,1,adverse event,f,2
+2012,saturday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,3
+2012,monday,night,inpatient units,no injury,1,room,low,muscle weakness,0,1,adverse event,f,0
+2012,friday,morning,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,0
+2012,friday,night,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,3
+2012,sunday,morning,inpatient units,edema,1,room,moderate,human error,1,0,adverse event,f,6
+2012,monday,morning,diagnostic support,no injury,1,others,moderate,trip,0,0,adverse event,f,0
+2012,thursday,morning,inpatient units,hematoma,0,bathroom/shower,moderate,muscle weakness,1,0,adverse event,f,0
+2012,monday,morning,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,0,adverse event,f,2
+2012,tuesday,morning,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,m,3
+2012,thursday,afternoon,emergency depart,no injury,1,bathroom/shower,high,loss of balance,0,0,adverse event,f,3
+2013,monday,morning,inpatient units,hematoma,0,room,high,loss of balance,1,1,adverse event,f,3
+2013,thursday,night,inpatient units,hematoma,1,bathroom/shower,high,muscle weakness,1,0,adverse event,f,3
+2013,friday,morning,inpatient units,no injury,1,bathroom/shower,low,loss of balance,1,0,adverse event,m,1
+2013,sunday,night,emergency depart,no injury,0,room,high,mental confusion,1,0,adverse event,f,2
+2013,thursday,night,emergency depart,hematoma,1,bathroom/shower,high,loss of balance,1,0,adverse event,f,2
+2013,friday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,0
+2013,monday,night,inpatient units,excoriation,0,hallway,high,loss of balance,1,0,adverse event,f,2
+2013,friday,morning,emergency depart,no injury,0,hallway,moderate,muscle weakness,0,0,adverse event,f,1
+2013,monday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,1
+2013,tuesday,night,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,4
+2013,friday,morning,inpatient units,cut,1,bathroom/shower,high,slip,1,0,adverse event,m,3
+2013,sunday,afternoon,emergency depart,edema,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,0
+2013,monday,morning,inpatient units,cut,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,2
+2013,tuesday,morning,inpatient units,cut,0,room,high,mental confusion,1,1,adverse event,f,0
+2013,friday,night,inpatient units,no injury,1,room,high,hypotension,1,0,adverse event,f,0
+2013,sunday,morning,inpatient units,cut,1,room,moderate,loss of balance,0,0,adverse event,f,3
+2013,sunday,night,emergency depart,cut,0,room,high,loss of balance,1,1,serious adverse event,f,2
+2013,saturday,night,inpatient units,no injury,1,bathroom/shower,low,loss of balance,1,1,adverse event,m,9
+2013,monday,afternoon,ob&gynbirth,no injury,1,outpatient aradverse event,high,human error,0,0,adverse event,f,10
+2013,sunday,night,ob&gynbirth,no injury,1,bathroom/shower,low,hypotension,0,0,adverse event,f,9
+2013,friday,afternoon,inpatient units,no injury,1,hallway,moderate,muscle weakness,1,1,adverse event,f,4
+2013,saturday,morning,inpatient units,hematoma,1,bathroom/shower,moderate,slip,0,1,adverse event,f,5
+2013,saturday,night,inpatient units,no injury,1,room,moderate,hypotension,0,0,adverse event,f,4
+2013,monday,morning,inpatient units,no injury,0,room,moderate,loss of balance,1,0,adverse event,m,3
+2013,wednesday,night,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,m,8
+2013,saturday,night,inpatient units,cut,1,room,moderate,mental confusion,1,0,adverse event,m,2
+2013,monday,afternoon,inpatient units,bruising,0,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,7
+2013,tuesday,night,inpatient units,no injury,1,room,moderate,hypotension,1,1,adverse event,f,4
+2013,tuesday,afternoon,emergency depart,no injury,1,outpatient aradverse event,high,equipment,0,0,adverse event,f,5
+2013,tuesday,morning,emergency depart,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,3
+2013,sunday,morning,inpatient units,no injury,1,room,high,human error,1,1,adverse event,f,2
+2013,monday,morning,inpatient units,cut,0,room,high,loss of balance,1,0,sentinel event,f,2
+2013,tuesday,morning,emergency depart,no injury,1,room,moderate,human error,1,0,adverse event,f,6
+2013,wednesday,morning,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,0,0,adverse event,f,4
+2013,sunday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,3
+2013,wednesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,0,adverse event,m,3
+2013,wednesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,0,adverse event,m,3
+2013,saturday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,m,4
+2013,monday,morning,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,3
+2013,friday,morning,inpatient units,hematoma,0,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,0
+2013,friday,morning,inpatient units,cut,0,room,moderate,loss of balance,1,1,adverse event,f,3
+2013,monday,night,inpatient units,excoriation,0,room,high,muscle weakness,0,0,adverse event,f,5
+2013,monday,night,inpatient units,excoriation,1,room,high,muscle weakness,1,0,adverse event,m,0
+2013,wednesday,morning,inpatient units,no injury,1,room,moderate,slip,1,0,adverse event,f,0
+2013,saturday,morning,emergency depart,head trauma,1,exam room,high,human error,0,0,serious adverse event,f,10
+2013,monday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,0,adverse event,f,2
+2013,thursday,morning,diagnostic support,excoriation,1,outpatient aradverse event,moderate,hypotension,0,0,adverse event,m,4
+2013,thursday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,f,6
+2013,thursday,afternoon,emergency depart,no injury,0,hallway,high,loss of balance,1,0,adverse event,f,2
+2013,saturday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,5
+2013,sunday,night,emergency depart,no injury,1,room,moderate,loss of balance,1,1,adverse event,m,3
+2013,monday,night,inpatient units,excoriation,0,bathroom/shower,high,slip,1,0,adverse event,f,8
+2013,tuesday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,2
+2013,tuesday,morning,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,8
+2013,friday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2013,friday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2013,monday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2013,tuesday,morning,inpatient units,bruising,1,bathroom/shower,moderate,muscle weakness,1,0,adverse event,m,1
+2013,tuesday,morning,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,0,adverse event,f,3
+2013,wednesday,night,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,0,adverse event,f,3
+2013,wednesday,night,inpatient units,no injury,0,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,5
+2013,friday,night,inpatient units,excoriation,1,room,moderate,muscle weakness,1,0,adverse event,f,0
+2013,saturday,night,inpatient units,no injury,1,hallway,high,muscle weakness,1,1,adverse event,f,0
+2013,saturday,afternoon,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,0
+2013,sunday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,0
+2013,friday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2013,thursday,night,emergency depart,no injury,1,bathroom/shower,high,equipment,1,1,adverse event,m,2
+2013,saturday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,2
+2013,monday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,0
+2013,friday,night,inpatient units,excoriation,0,room,moderate,loss of balance,1,1,adverse event,m,3
+2013,friday,morning,inpatient units,no injury,1,surgical table,moderate,sedation,0,1,serious adverse event,f,3
+2013,saturday,morning,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,1
+2013,sunday,night,inpatient units,no injury,1,room,moderate,slip,1,0,adverse event,f,3
+2013,tuesday,night,inpatient units,cut,1,bathroom/shower,high,slip,1,1,adverse event,m,3
+2013,friday,night,dialysis,no injury,0,waiting room,moderate,loss of balance,1,0,adverse event,m,9
+2013,saturday,night,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,m,2
+2013,saturday,afternoon,inpatient units,excoriation,1,bathroom/shower,moderate,slip,1,0,adverse event,m,3
+2013,tuesday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,3
+2013,thursday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,f,3
+2013,friday,morning,inpatient units,excoriation,1,room,high,loss of balance,1,0,adverse event,m,2
+2013,sunday,night,inpatient units,excoriation,0,room,high,loss of balance,1,1,adverse event,m,3
+2013,sunday,afternoon,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,9
+2013,sunday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,0,adverse event,f,2
+2013,monday,afternoon,diagnostic support,no injury,0,waiting room,moderate,slip,0,0,adverse event,f,3
+2013,tuesday,night,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,2
+2013,tuesday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,m,2
+2013,tuesday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,5
+2013,wednesday,night,inpatient units,no injury,1,room,moderate,hypotension,1,0,adverse event,m,5
+2013,thursday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2013,thursday,morning,inpatient units,no injury,0,room,low,slip,0,0,adverse event,m,5
+2013,sunday,morning,emergency depart,hematoma,1,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,0
+2013,tuesday,afternoon,diagnostic support,no injury,1,medical office,moderate,slip,0,0,adverse event,m,2
+2013,tuesday,afternoon,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,0
+2013,thursday,afternoon,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,8
+2013,friday,night,inpatient units,edema,1,room,high,slip,1,0,adverse event,f,1
+2013,tuesday,morning,oncology,no injury,1,bathroom/shower,moderate,loss of balance,0,0,adverse event,f,2
+2013,friday,night,diagnostic support,hematoma,0,waiting room,high,loss of balance,0,0,adverse event,f,2
+2013,tuesday,night,inpatient units,excoriation,1,room,high,loss of balance,0,0,adverse event,m,0
+2013,saturday,morning,inpatient units,cut,0,room,high,mental confusion,1,0,adverse event,m,0
+2013,monday,afternoon,emergency depart,no injury,0,room,high,loss of balance,1,0,adverse event,f,3
+2013,sunday,afternoon,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2013,saturday,night,inpatient units,no injury,1,room,high,trip,1,1,adverse event,m,2
+2013,saturday,afternoon,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,f,2
+2013,sunday,afternoon,inpatient units,fracture,1,room,high,loss of balance,1,1,serious adverse event,m,3
+2013,thursday,night,emergency depart,cut,0,room,high,slip,1,0,adverse event,m,3
+2013,thursday,morning,a1,excoriation,1,room,moderate,slip,0,0,adverse event,m,2
+2013,thursday,afternoon,diagnostic support,excoriation,1,room,moderate,trip,0,0,adverse event,f,3
+2013,saturday,night,inpatient units,cut,0,room,high,loss of balance,1,1,adverse event,m,2
+2013,sunday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,8
+2013,sunday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,3
+2013,thursday,afternoon,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,2
+2013,sunday,afternoon,emergency depart,no injury,0,hallway,low,trip,0,0,adverse event,f,4
+2013,thursday,morning,inpatient units,no injury,1,hallway,low,slip,1,0,adverse event,m,4
+2013,monday,afternoon,inpatient units,bruising,1,room,moderate,trip,1,0,adverse event,m,0
+2013,wednesday,morning,inpatient units,fracture,1,hallway,high,slip,0,0,serious adverse event,f,3
+2013,friday,afternoon,inpatient units,no injury,1,room,low,muscle weakness,1,1,adverse event,m,4
+2013,saturday,afternoon,emergency depart,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,3
+2013,monday,morning,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,3
+2013,friday,night,pediatric/neonatal icu,no injury,1,room,high,trip,1,0,adverse event,f,6
+2013,sunday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,2
+2013,sunday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2013,monday,afternoon,inpatient units,no injury,0,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,4
+2013,tuesday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,3
+2013,wednesday,night,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,0
+2013,friday,night,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,2
+2013,saturday,morning,inpatient units,no injury,1,room,moderate,mental confusion,1,0,adverse event,m,0
+2013,saturday,morning,inpatient units,hematoma,1,room,high,loss of balance,1,1,adverse event,f,0
+2013,monday,morning,inpatient units,no injury,0,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,3
+2013,tuesday,night,inpatient units,no injury,1,room,high,slip,1,1,adverse event,f,2
+2013,wednesday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,m,4
+2013,friday,night,inpatient units,excoriation,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2013,saturday,night,inpatient units,hematoma,0,room,high,loss of balance,1,1,adverse event,f,3
+2013,friday,morning,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,9
+2013,saturday,morning,inpatient units,excoriation,1,bathroom/shower,high,slip,1,0,adverse event,m,8
+2013,monday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,2
+2013,wednesday,morning,inpatient units,no injury,1,hallway,high,muscle weakness,1,1,adverse event,f,5
+2013,wednesday,afternoon,diagnostic support,no injury,1,waiting room,low,equipment,0,0,adverse event,f,5
+2013,wednesday,night,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,f,5
+2013,friday,morning,inpatient units,hematoma,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2013,monday,morning,diagnostic support,no injury,1,medical office,high,trip,0,0,adverse event,m,4
+2013,tuesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,3
+2013,tuesday,afternoon,inpatient units,no injury,0,room,moderate,hypotension,1,1,adverse event,f,0
+2013,thursday,morning,inpatient units,excoriation,0,bathroom/shower,high,slip,1,1,adverse event,m,2
+2013,saturday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,0,adverse event,m,2
+2013,wednesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,1
+2013,thursday,afternoon,inpatient units,excoriation,1,room,high,loss of balance,1,0,adverse event,m,3
+2013,saturday,afternoon,inpatient units,edema,1,room,high,loss of balance,1,1,adverse event,m,2
+2013,sunday,night,inpatient units,bruising,0,room,moderate,loss of balance,1,1,adverse event,f,3
+2013,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,f,2
+2013,tuesday,night,inpatient units,cut,1,room,high,mental confusion,1,0,adverse event,m,8
+2013,wednesday,afternoon,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,f,0
+2013,friday,morning,diagnostic support,no injury,0,bathroom/shower,moderate,hypotension,0,1,adverse event,f,5
+2013,sunday,afternoon,inpatient units,excoriation,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,2
+2013,tuesday,night,emergency depart,no injury,0,room,moderate,loss of balance,1,0,adverse event,m,0
+2013,wednesday,afternoon,diagnostic support,excoriation,0,exam room,moderate,loss of balance,0,1,adverse event,m,1
+2013,friday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,8
+2013,saturday,night,inpatient units,no injury,1,room,low,muscle weakness,1,1,adverse event,f,0
+2013,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,m,2
+2013,saturday,afternoon,inpatient units,fracture,0,room,moderate,loss of balance,1,1,serious adverse event,m,1
+2013,sunday,night,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,0,0,adverse event,f,9
+2013,monday,morning,inpatient units,spinal cord injury,1,bathroom/shower,high,muscle weakness,1,1,serious adverse event,m,2
+2014,saturday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,0
+2014,saturday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,4
+2014,monday,morning,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,m,0
+2014,tuesday,night,inpatient units,no injury,0,hallway,high,muscle weakness,1,0,adverse event,m,2
+2014,wednesday,morning,inpatient units,cut,0,room,high,loss of balance,1,1,adverse event,f,0
+2014,saturday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,2
+2014,tuesday,afternoon,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,3
+2014,friday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2014,saturday,night,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,2
+2014,sunday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,3
+2014,tuesday,night,inpatient units,no injury,0,room,moderate,loss of balance,0,0,adverse event,m,5
+2014,wednesday,night,inpatient units,excoriation,1,room,high,mental confusion,1,1,adverse event,m,2
+2014,monday,night,inpatient units,hematoma,1,room,high,loss of balance,1,1,adverse event,f,2
+2014,tuesday,night,inpatient units,fracture,1,room,high,mental confusion,1,1,serious adverse event,m,3
+2014,wednesday,afternoon,adult aci,edema,1,room,high,loss of balance,1,0,adverse event,f,0
+2014,thursday,night,operating room/recovery,cut,0,exam room,moderate,hypotension,0,0,adverse event,f,1
+2014,thursday,afternoon,comunity,no injury,1,exam room,moderate,muscle weakness,1,0,adverse event,m,0
+2014,thursday,night,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,3
+2014,sunday,night,inpatient units,no injury,0,room,moderate,slip,1,1,adverse event,f,0
+2014,sunday,afternoon,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,8
+2014,monday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,3
+2014,wednesday,night,inpatient units,hematoma,1,room,high,loss of balance,1,1,adverse event,f,2
+2014,saturday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,0
+2014,tuesday,night,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,9
+2014,wednesday,night,inpatient units,excoriation,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,1
+2014,friday,night,inpatient units,hematoma,1,bathroom/shower,high,slip,1,1,adverse event,m,2
+2014,saturday,afternoon,inpatient units,no injury,0,bathroom/shower,moderate,slip,0,1,adverse event,m,5
+2014,sunday,afternoon,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,0,0,adverse event,f,9
+2014,monday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,5
+2014,wednesday,night,inpatient units,no injury,0,room,moderate,muscle weakness,1,0,adverse event,f,1
+2014,wednesday,morning,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,2
+2014,wednesday,morning,diagnostic support,excoriation,1,waiting room,low,slip,0,1,adverse event,f,0
+2014,thursday,night,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,0
+2014,friday,night,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,1
+2014,friday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,f,6
+2014,saturday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,8
+2014,monday,morning,inpatient units,cut,0,bathroom/shower,high,slip,1,1,adverse event,m,5
+2014,friday,night,inpatient units,bruising,1,bathroom/shower,high,mental confusion,1,1,adverse event,m,2
+2014,saturday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2014,saturday,afternoon,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,m,3
+2014,saturday,night,inpatient units,hematoma,0,room,moderate,loss of balance,1,1,adverse event,f,3
+2014,saturday,night,inpatient units,fracture,1,bathroom/shower,high,muscle weakness,1,1,serious adverse event,m,2
+2014,sunday,morning,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,m,2
+2014,friday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2014,sunday,morning,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,1,adverse event,f,5
+2014,tuesday,night,inpatient units,no injury,1,room,low,loss of balance,1,0,adverse event,m,9
+2014,tuesday,night,inpatient units,cut,0,room,high,mental confusion,1,1,adverse event,m,2
+2014,wednesday,morning,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,2
+2014,thursday,morning,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,f,0
+2014,friday,morning,dialysis,fracture,1,room,moderate,loss of balance,1,1,serious adverse event,f,3
+2014,thursday,night,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,9
+2014,friday,morning,inpatient units,excoriation,1,bathroom/shower,high,hypotension,1,0,adverse event,f,2
+2014,sunday,afternoon,inpatient units,excoriation,1,room,low,trip,1,1,adverse event,f,1
+2014,sunday,night,inpatient units,no injury,0,room,moderate,slip,1,1,adverse event,f,1
+2014,tuesday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,2
+2014,tuesday,night,inpatient units,hematoma,1,room,high,loss of balance,1,1,sentinel event,m,2
+2014,tuesday,afternoon,inpatient units,no injury,1,room,high,slip,1,0,adverse event,m,3
+2014,friday,morning,inpatient units,no injury,0,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,9
+2014,saturday,morning,inpatient units,no injury,1,bathroom/shower,low,loss of balance,1,1,adverse event,f,5
+2014,saturday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,8
+2014,sunday,morning,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,9
+2014,monday,morning,inpatient units,edema,0,room,moderate,trip,1,0,adverse event,f,5
+2014,wednesday,night,emergency depart,no injury,0,room,moderate,slip,1,0,adverse event,m,0
+2014,thursday,morning,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,m,1
+2014,thursday,afternoon,inpatient units,no injury,1,exam room,high,muscle weakness,1,1,adverse event,f,5
+2014,wednesday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,0,adverse event,f,3
+2014,thursday,afternoon,diagnostic support,no injury,0,exam room,moderate,loss of balance,0,0,adverse event,m,3
+2014,thursday,night,emergency depart,no injury,1,room,high,loss of balance,1,0,adverse event,f,8
+2014,monday,afternoon,operating room/recovery,no injury,0,exam room,low,hypotension,0,0,adverse event,f,1
+2014,tuesday,afternoon,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,m,3
+2014,thursday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,5
+2014,friday,night,inpatient units,excoriation,1,room,high,muscle weakness,1,1,adverse event,m,3
+2014,friday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2014,tuesday,morning,comunity,excoriation,1,exam room,moderate,trip,0,0,adverse event,f,3
+2014,wednesday,morning,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,1
+2014,thursday,night,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,1
+2014,friday,morning,inpatient units,no injury,1,exam room,moderate,muscle weakness,0,1,adverse event,m,0
+2014,friday,afternoon,comunity,no injury,1,hallway,low,hypotension,0,0,adverse event,f,9
+2014,sunday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,8
+2014,sunday,morning,inpatient units,excoriation,0,room,high,muscle weakness,1,1,adverse event,f,8
+2014,wednesday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2014,sunday,afternoon,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,2
+2014,tuesday,afternoon,diagnostic support,excoriation,1,others,moderate,trip,0,0,adverse event,f,5
+2014,tuesday,afternoon,operating room/recovery,no injury,1,surgical table,high,mental confusion,1,1,adverse event,m,5
+2014,tuesday,night,emergency depart,no injury,0,room,high,mental confusion,1,0,adverse event,m,2
+2014,wednesday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2014,thursday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2014,sunday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,0
+2014,tuesday,morning,inpatient units,excoriation,0,room,moderate,muscle weakness,1,0,adverse event,f,5
+2014,tuesday,morning,diagnostic support,no injury,0,exam room,moderate,loss of balance,1,1,adverse event,m,3
+2014,wednesday,morning,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,f,6
+2014,wednesday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,8
+2014,wednesday,afternoon,inpatient units,excoriation,0,room,high,slip,1,1,adverse event,m,3
+2014,sunday,afternoon,inpatient units,excoriation,1,room,high,muscle weakness,1,0,adverse event,m,3
+2014,monday,night,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,m,1
+2014,monday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,0
+2014,thursday,afternoon,inpatient units,hematoma,1,room,moderate,loss of balance,1,0,adverse event,f,6
+2014,saturday,morning,diagnostic support,no injury,1,exam room,low,loss of balance,0,1,adverse event,m,1
+2014,tuesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,3
+2014,tuesday,afternoon,emergency depart,no injury,1,bathroom/shower,high,loss of balance,1,0,adverse event,m,2
+2014,thursday,afternoon,emergency depart,hematoma,0,room,moderate,loss of balance,1,0,adverse event,f,3
+2014,friday,morning,inpatient units,bruising,0,bathroom/shower,moderate,trip,1,1,adverse event,f,0
+2014,saturday,morning,inpatient units,cut,1,room,high,muscle weakness,1,1,adverse event,m,2
+2014,thursday,morning,inpatient units,edema,1,bathroom/shower,moderate,slip,1,1,adverse event,m,0
+2014,sunday,night,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,0
+2014,thursday,morning,inpatient units,excoriation,1,room,moderate,slip,1,1,adverse event,m,2
+2014,thursday,morning,inpatient units,bruising,1,bathroom/shower,low,slip,0,0,adverse event,m,0
+2014,friday,night,emergency depart,excoriation,0,room,high,muscle weakness,1,1,adverse event,m,2
+2014,tuesday,morning,inpatient units,excoriation,1,room,moderate,muscle weakness,1,0,adverse event,m,0
+2014,sunday,morning,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,1
+2014,sunday,morning,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,m,0
+2014,wednesday,morning,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,f,3
+2014,thursday,morning,emergency depart,excoriation,0,room,high,loss of balance,1,1,adverse event,f,2
+2014,friday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,2
+2014,sunday,night,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,2
+2014,tuesday,night,emergency depart,excoriation,0,room,moderate,loss of balance,1,1,adverse event,m,2
+2014,thursday,morning,dialysis,no injury,0,room,moderate,trip,1,1,adverse event,f,3
+2014,friday,morning,diagnostic support,no injury,0,room,high,muscle weakness,1,0,adverse event,m,3
+2014,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2014,wednesday,night,inpatient units,no injury,0,room,moderate,slip,1,0,adverse event,m,3
+2014,thursday,afternoon,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,5
+2014,friday,morning,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,9
+2014,tuesday,afternoon,diagnostic support,hematoma,1,exam room,high,loss of balance,0,0,adverse event,f,2
+2014,tuesday,night,inpatient units,no injury,1,room,moderate,hypotension,1,0,adverse event,f,9
+2014,thursday,afternoon,inpatient units,no injury,0,bathroom/shower,moderate,muscle weakness,1,0,adverse event,m,3
+2014,thursday,afternoon,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,2
+2014,thursday,morning,inpatient units,cut,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,9
+2014,friday,morning,inpatient units,fracture,1,room,high,hypotension,1,1,serious adverse event,f,2
+2014,monday,afternoon,operating room/recovery,no injury,1,recovery room,moderate,slip,0,1,adverse event,f,2
+2014,monday,afternoon,comunity,no injury,1,hallway,high,trip,1,0,adverse event,f,3
+2014,monday,afternoon,inpatient units,no injury,0,bathroom/shower,moderate,hypotension,1,0,adverse event,f,0
+2014,thursday,night,emergency depart,no injury,0,room,moderate,mental confusion,1,1,adverse event,m,2
+2014,friday,afternoon,diagnostic support,fracture,0,bathroom/shower,moderate,trip,1,0,serious adverse event,f,3
+2014,thursday,night,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,5
+2014,tuesday,morning,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,2
+2014,tuesday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,0,adverse event,m,8
+2014,tuesday,night,emergency depart,no injury,1,exam room,moderate,loss of balance,1,0,adverse event,f,0
+2014,thursday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2014,saturday,afternoon,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,m,5
+2014,monday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,0
+2014,wednesday,night,emergency depart,no injury,1,exam room,high,mental confusion,1,1,adverse event,m,1
+2014,wednesday,morning,inpatient units,excoriation,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,8
+2014,wednesday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2014,thursday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,3
+2014,saturday,morning,inpatient units,no injury,1,room,high,hypotension,1,1,adverse event,f,2
+2014,tuesday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2014,wednesday,night,emergency depart,no injury,0,room,moderate,slip,1,1,adverse event,m,3
+2014,thursday,night,operating room/recovery,excoriation,1,recovery room,moderate,muscle weakness,0,1,adverse event,f,5
+2014,thursday,night,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,m,3
+2014,friday,afternoon,inpatient units,no injury,0,room,high,muscle weakness,1,0,adverse event,f,1
+2014,sunday,morning,pediatric/neonatal icu,cut,1,room,moderate,hypotension,1,0,adverse event,f,9
+2014,monday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,m,3
+2014,tuesday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,m,3
+2014,thursday,night,inpatient units,edema,1,room,high,mental confusion,1,0,adverse event,m,2
+2014,monday,night,adult aci,no injury,0,room,high,mental confusion,1,1,adverse event,m,5
+2014,monday,afternoon,diagnostic support,no injury,1,surgical prep aradverse event,moderate,loss of balance,1,1,adverse event,f,0
+2014,thursday,afternoon,operating room/recovery,no injury,1,recovery room,moderate,slip,1,0,adverse event,f,0
+2014,saturday,morning,inpatient units,no injury,0,room,moderate,slip,1,1,adverse event,f,3
+2014,sunday,night,inpatient units,edema,0,hallway,moderate,trip,1,0,adverse event,f,5
+2014,tuesday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,2
+2014,tuesday,afternoon,diagnostic support,excoriation,0,exam room,low,muscle weakness,0,0,adverse event,f,3
+2014,saturday,morning,inpatient units,no injury,0,bathroom/shower,moderate,slip,1,1,adverse event,m,3
+2014,thursday,morning,emergency depart,no injury,1,triage aradverse event,low,trip,0,0,adverse event,f,6
+2014,friday,night,diagnostic support,no injury,0,waiting room,low,muscle weakness,0,0,adverse event,f,1
+2014,saturday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2014,sunday,afternoon,emergency depart,no injury,1,bathroom/shower,high,slip,1,0,adverse event,m,2
+2014,sunday,afternoon,inpatient units,cut,1,room,moderate,mental confusion,1,1,adverse event,m,3
+2014,friday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,2
+2014,friday,night,inpatient units,no injury,1,room,moderate,hypotension,1,0,adverse event,m,3
+2014,tuesday,afternoon,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,m,9
+2014,wednesday,night,inpatient units,excoriation,1,room,high,slip,1,1,adverse event,m,3
+2014,wednesday,night,operating room/recovery,no injury,1,recovery room,moderate,hypotension,1,0,adverse event,f,0
+2014,wednesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,f,3
+2014,saturday,night,inpatient units,excoriation,0,room,high,loss of balance,1,1,adverse event,m,2
+2014,thursday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2014,friday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,3
+2014,saturday,night,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,m,0
+2014,saturday,afternoon,inpatient units,fracture,1,room,high,loss of balance,1,0,serious adverse event,f,3
+2014,sunday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2014,monday,afternoon,ob&gynbirth,no injury,1,room,moderate,loss of balance,1,0,adverse event,f,4
+2014,tuesday,afternoon,inpatient units,no injury,0,room,high,slip,1,1,adverse event,f,3
+2014,thursday,night,inpatient units,bruising,1,room,moderate,trip,1,1,adverse event,f,3
+2014,thursday,morning,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,0
+2014,saturday,morning,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,m,5
+2014,monday,morning,inpatient units,no injury,1,hallway,high,muscle weakness,1,0,adverse event,m,3
+2014,thursday,afternoon,inpatient units,no injury,1,hallway,high,trip,1,0,adverse event,f,3
+2014,tuesday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,0
+2014,wednesday,night,inpatient units,no injury,0,bathroom/shower,moderate,mental confusion,1,1,adverse event,f,0
+2014,wednesday,morning,inpatient units,hematoma,1,bathroom/shower,high,slip,1,0,adverse event,f,3
+2014,friday,morning,inpatient units,hematoma,0,room,moderate,trip,1,1,adverse event,f,0
+2014,sunday,night,emergency depart,no injury,0,room,moderate,muscle weakness,0,1,adverse event,m,5
+2014,sunday,night,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,2
+2014,tuesday,morning,inpatient units,no injury,0,bathroom/shower,moderate,muscle weakness,1,1,adverse event,m,1
+2014,sunday,night,inpatient units,edema,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2014,wednesday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,0,adverse event,f,1
+2014,thursday,night,inpatient units,cut,0,room,high,mental confusion,1,1,adverse event,f,2
+2014,thursday,night,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,2
+2014,saturday,afternoon,adult aci,no injury,0,bathroom/shower,moderate,mental confusion,1,1,adverse event,m,2
+2015,wednesday,night,ob&gynbirth,fracture,1,room,moderate,human error,1,0,serious adverse event,m,10
+2015,thursday,afternoon,emergency depart,bruising,1,waiting room,high,trip,1,0,adverse event,f,6
+2015,friday,night,emergency depart,cut,1,hallway,moderate,trip,0,0,adverse event,m,6
+2015,monday,morning,inpatient units,no injury,1,room,moderate,loss of balance,1,0,adverse event,m,6
+2015,thursday,afternoon,inpatient units,no injury,1,room,high,human error,1,1,adverse event,f,6
+2015,thursday,afternoon,inpatient units,cut,1,room,moderate,loss of balance,1,0,adverse event,f,6
+2015,friday,afternoon,diagnostic support,no injury,1,vaccination room,moderate,trip,1,0,adverse event,f,6
+2015,wednesday,afternoon,diagnostic support,excoriation,0,exam room,moderate,loss of balance,1,1,adverse event,m,6
+2015,tuesday,night,emergency depart,edema,1,waiting room,high,slip,0,0,adverse event,m,6
+2015,monday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,1,adverse event,m,6
+2015,tuesday,afternoon,comunity,cut,1,exam room,low,loss of balance,0,0,adverse event,m,4
+2015,tuesday,morning,adult aci,no injury,1,bathroom/shower,moderate,hypotension,0,0,adverse event,m,4
+2015,tuesday,night,emergency depart,no injury,0,exam room,moderate,muscle weakness,1,0,adverse event,f,4
+2015,monday,night,inpatient units,hematoma,0,room,moderate,trip,1,0,adverse event,f,4
+2015,saturday,night,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,1,adverse event,f,9
+2015,wednesday,night,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,9
+2015,saturday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,9
+2015,wednesday,morning,inpatient units,edema,1,room,moderate,hypotension,1,0,adverse event,m,9
+2015,friday,night,emergency depart,no injury,1,bathroom/shower,low,hypotension,0,0,adverse event,f,9
+2015,wednesday,morning,diagnostic support,no injury,1,exam room,high,muscle weakness,0,0,adverse event,f,9
+2015,thursday,morning,adult aci,no injury,0,room,high,mental confusion,1,1,adverse event,m,9
+2015,wednesday,night,emergency depart,no injury,0,room,moderate,loss of balance,0,1,adverse event,f,1
+2015,friday,afternoon,diagnostic support,no injury,0,exam room,low,hypotension,0,0,adverse event,f,1
+2015,sunday,night,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,1
+2015,wednesday,afternoon,inpatient units,no injury,1,hallway,moderate,slip,1,1,adverse event,f,1
+2015,tuesday,morning,inpatient units,cut,1,room,moderate,mental confusion,1,1,adverse event,m,1
+2015,thursday,morning,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,1
+2015,monday,afternoon,emergency depart,no injury,0,hallway,low,muscle weakness,0,0,adverse event,m,1
+2015,tuesday,night,inpatient units,excoriation,0,room,moderate,loss of balance,1,0,adverse event,m,1
+2015,tuesday,morning,inpatient units,no injury,0,bathroom/shower,moderate,hypotension,1,1,adverse event,f,1
+2015,friday,morning,inpatient units,no injury,1,room,moderate,slip,1,0,adverse event,f,1
+2015,sunday,night,emergency depart,no injury,0,waiting room,low,hypotension,0,0,adverse event,f,5
+2015,friday,morning,inpatient units,no injury,1,hallway,moderate,muscle weakness,1,1,adverse event,f,5
+2015,saturday,night,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,f,5
+2015,thursday,morning,inpatient units,fracture,0,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,5
+2015,wednesday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,5
+2015,saturday,morning,inpatient units,no injury,1,hallway,moderate,trip,1,0,adverse event,m,5
+2015,sunday,morning,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,f,5
+2015,thursday,morning,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,5
+2015,tuesday,morning,diagnostic support,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,5
+2015,friday,morning,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,5
+2015,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,equipment,1,1,adverse event,m,5
+2015,monday,night,emergency depart,excoriation,0,room,moderate,mental confusion,1,1,adverse event,m,5
+2015,monday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,5
+2015,wednesday,night,inpatient units,excoriation,0,bathroom/shower,moderate,slip,1,1,adverse event,m,5
+2015,friday,night,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,5
+2015,tuesday,night,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,5
+2015,monday,night,inpatient units,no injury,0,bathroom/shower,moderate,hypotension,1,1,adverse event,m,5
+2015,tuesday,afternoon,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,0,adverse event,f,5
+2015,wednesday,morning,emergency depart,no injury,0,room,moderate,human error,1,1,adverse event,f,5
+2015,tuesday,afternoon,diagnostic support,no injury,1,exam room,moderate,loss of balance,0,0,adverse event,f,5
+2015,thursday,night,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,f,5
+2015,saturday,morning,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,5
+2015,thursday,afternoon,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,5
+2015,friday,morning,inpatient units,edema,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,5
+2015,tuesday,morning,diagnostic support,no injury,1,exam room,moderate,slip,1,1,adverse event,f,0
+2015,wednesday,afternoon,inpatient units,no injury,1,room,moderate,mental confusion,1,1,adverse event,m,0
+2015,sunday,night,inpatient units,excoriation,1,room,moderate,muscle weakness,1,1,adverse event,f,0
+2015,thursday,night,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,0
+2015,saturday,morning,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,0
+2015,monday,afternoon,inpatient units,no injury,0,exam room,moderate,loss of balance,0,0,adverse event,m,0
+2015,wednesday,afternoon,diagnostic support,no injury,1,waiting room,high,slip,0,0,adverse event,f,0
+2015,saturday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,f,0
+2015,thursday,morning,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,0
+2015,friday,morning,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,0
+2015,saturday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,0
+2015,monday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,m,0
+2015,sunday,night,inpatient units,excoriation,1,bathroom/shower,moderate,slip,1,0,adverse event,f,0
+2015,tuesday,morning,inpatient units,no injury,1,room,moderate,slip,1,1,adverse event,m,0
+2015,thursday,morning,emergency depart,no injury,0,exam room,high,equipment,1,1,adverse event,m,0
+2015,friday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,0
+2015,monday,morning,diagnostic support,no injury,1,exam room,high,slip,1,0,adverse event,m,0
+2015,tuesday,night,inpatient units,no injury,1,room,high,mental confusion,1,0,adverse event,f,0
+2015,tuesday,afternoon,diagnostic support,no injury,1,exam room,low,human error,0,0,adverse event,f,0
+2015,tuesday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,0
+2015,monday,morning,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,0
+2015,thursday,morning,inpatient units,no injury,0,room,moderate,mental confusion,1,1,adverse event,f,0
+2015,wednesday,morning,emergency depart,no injury,1,hallway,moderate,human error,1,0,adverse event,f,0
+2015,wednesday,night,inpatient units,fracture,1,room,moderate,mental confusion,1,1,serious adverse event,f,0
+2015,friday,afternoon,diagnostic support,no injury,0,exam room,high,loss of balance,0,0,adverse event,f,0
+2015,sunday,morning,inpatient units,no injury,1,room,high,slip,1,1,adverse event,f,0
+2015,thursday,night,emergency depart,no injury,1,bathroom/shower,moderate,hypotension,0,1,adverse event,m,0
+2015,tuesday,night,inpatient units,no injury,1,room,high,mental confusion,1,0,adverse event,m,0
+2015,thursday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,0
+2015,wednesday,morning,oncology,no injury,1,exam room,moderate,muscle weakness,0,0,adverse event,m,3
+2015,wednesday,night,emergency depart,head trauma,0,room,moderate,mental confusion,1,0,serious adverse event,f,3
+2015,tuesday,night,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2015,wednesday,night,inpatient units,cut,0,room,high,loss of balance,1,1,adverse event,m,3
+2015,tuesday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,0,adverse event,f,3
+2015,sunday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,3
+2015,saturday,afternoon,emergency depart,no injury,0,medication room,moderate,loss of balance,1,0,adverse event,f,3
+2015,monday,night,emergency depart,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,3
+2015,wednesday,morning,inpatient units,excoriation,0,room,moderate,trip,1,1,adverse event,f,3
+2015,tuesday,night,inpatient units,no injury,0,bathroom/shower,moderate,muscle weakness,1,1,adverse event,m,3
+2015,tuesday,morning,emergency depart,no injury,1,exam room,high,loss of balance,1,0,adverse event,m,3
+2015,tuesday,afternoon,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,m,3
+2015,wednesday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,3
+2015,tuesday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,3
+2015,thursday,morning,inpatient units,hematoma,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,3
+2015,tuesday,night,inpatient units,excoriation,1,bathroom/shower,high,mental confusion,1,1,adverse event,f,3
+2015,monday,morning,inpatient units,cut,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,3
+2015,friday,night,inpatient units,no injury,0,bathroom/shower,moderate,slip,1,1,adverse event,f,3
+2015,thursday,night,emergency depart,no injury,0,room,moderate,mental confusion,1,1,adverse event,m,3
+2015,friday,morning,operating room/recovery,no injury,1,bathroom/shower,moderate,slip,0,0,adverse event,m,3
+2015,friday,night,inpatient units,no injury,1,room,moderate,slip,1,1,adverse event,f,3
+2015,tuesday,morning,inpatient units,excoriation,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,3
+2015,tuesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2015,sunday,night,inpatient units,edema,0,room,high,loss of balance,1,1,adverse event,m,3
+2015,friday,night,inpatient units,no injury,1,room,moderate,trip,1,1,adverse event,f,3
+2015,saturday,night,inpatient units,no injury,1,room,high,slip,1,1,adverse event,f,3
+2015,tuesday,morning,inpatient units,excoriation,0,room,high,muscle weakness,1,1,adverse event,m,3
+2015,tuesday,night,inpatient units,cut,1,room,high,hypotension,1,1,adverse event,m,3
+2015,friday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,3
+2015,thursday,afternoon,oncology,no injury,0,exam room,moderate,equipment,0,0,adverse event,f,3
+2015,friday,morning,emergency depart,edema,0,exam room,high,loss of balance,1,1,adverse event,m,3
+2015,wednesday,morning,operating room/recovery,no injury,1,operating room,high,human error,1,1,adverse event,f,3
+2015,saturday,night,inpatient units,excoriation,0,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,3
+2015,saturday,night,emergency depart,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2015,monday,night,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,3
+2015,thursday,night,inpatient units,hematoma,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2015,thursday,afternoon,oncology,no injury,1,exam room,high,muscle weakness,0,0,adverse event,m,3
+2015,friday,night,inpatient units,no injury,0,bathroom/shower,high,hypotension,1,1,adverse event,m,3
+2015,thursday,afternoon,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2015,saturday,night,inpatient units,no injury,1,hallway,high,hypotension,1,1,adverse event,m,3
+2015,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,m,3
+2015,tuesday,night,inpatient units,hematoma,1,room,high,muscle weakness,1,1,adverse event,f,3
+2015,tuesday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,2
+2015,tuesday,night,emergency depart,excoriation,0,hallway,high,slip,1,0,adverse event,m,2
+2015,wednesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,1,adverse event,f,2
+2015,friday,morning,inpatient units,excoriation,1,bathroom/shower,moderate,slip,1,1,adverse event,m,2
+2015,monday,afternoon,dialysis,no injury,1,exam room,moderate,trip,0,0,adverse event,m,2
+2015,monday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,2
+2015,tuesday,afternoon,inpatient units,excoriation,1,bathroom/shower,moderate,muscle weakness,1,0,adverse event,m,2
+2015,saturday,morning,inpatient units,no injury,0,bathroom/shower,moderate,loss of balance,1,0,adverse event,m,2
+2015,monday,afternoon,diagnostic support,excoriation,0,bathroom/shower,moderate,loss of balance,1,0,adverse event,f,2
+2015,thursday,night,emergency depart,no injury,0,room,high,mental confusion,1,0,adverse event,m,2
+2015,saturday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2015,thursday,morning,diagnostic support,no injury,1,exam room,high,slip,1,1,adverse event,f,2
+2015,thursday,afternoon,comunity,no injury,1,exam room,low,hypotension,0,0,adverse event,f,2
+2015,saturday,night,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,f,2
+2015,sunday,night,inpatient units,hematoma,1,room,high,mental confusion,1,1,adverse event,f,2
+2015,friday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,f,2
+2015,monday,morning,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2015,sunday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,2
+2015,saturday,morning,inpatient units,hematoma,1,room,high,loss of balance,1,1,adverse event,f,2
+2015,wednesday,morning,operating room/recovery,excoriation,0,bathroom/shower,moderate,muscle weakness,0,0,adverse event,m,2
+2015,saturday,morning,emergency depart,cut,1,medication room,moderate,hypotension,0,0,adverse event,f,2
+2015,sunday,night,inpatient units,cut,0,room,high,muscle weakness,1,1,adverse event,m,2
+2015,saturday,morning,diagnostic support,no injury,1,waiting room,moderate,loss of balance,0,0,adverse event,f,2
+2015,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,2
+2015,thursday,morning,inpatient units,cut,1,bathroom/shower,high,slip,1,0,adverse event,f,2
+2015,wednesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2015,wednesday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,2
+2015,friday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,2
+2015,sunday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,2
+2015,friday,afternoon,diagnostic support,cut,1,exam room,high,loss of balance,0,0,adverse event,f,2
+2015,friday,afternoon,adult aci,no injury,0,room,high,slip,1,0,adverse event,f,2
+2015,friday,afternoon,emergency depart,no injury,0,bathroom/shower,moderate,loss of balance,1,0,adverse event,m,2
+2015,thursday,morning,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,m,2
+2015,friday,afternoon,inpatient units,no injury,1,hallway,high,muscle weakness,1,1,adverse event,f,2
+2015,tuesday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,2
+2015,monday,night,emergency depart,no injury,0,room,high,loss of balance,1,0,adverse event,f,2
+2015,saturday,morning,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,0,adverse event,f,2
+2015,thursday,night,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,f,2
+2015,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,0,adverse event,f,2
+2015,sunday,afternoon,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,2
+2015,monday,morning,emergency depart,no injury,0,bathroom/shower,high,slip,1,0,adverse event,f,2
+2015,thursday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,8
+2015,tuesday,night,emergency depart,excoriation,1,room,high,slip,1,1,adverse event,f,8
+2015,thursday,night,emergency depart,cut,0,medication room,high,mental confusion,0,0,adverse event,f,8
+2015,friday,morning,inpatient units,no injury,1,hallway,moderate,trip,1,1,adverse event,f,8
+2015,thursday,morning,diagnostic support,no injury,1,exam room,high,slip,1,0,adverse event,f,8
+2015,monday,afternoon,emergency depart,no injury,0,room,high,loss of balance,1,0,adverse event,f,8
+2015,sunday,morning,inpatient units,no injury,1,room,moderate,equipment,1,1,adverse event,f,8
+2015,friday,afternoon,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,0,adverse event,f,8
+2015,tuesday,afternoon,inpatient units,no injury,1,room,high,trip,1,1,adverse event,f,8
+2015,friday,afternoon,ob&gynbirth,no injury,1,room,high,slip,1,0,adverse event,m,10
+2016,friday,afternoon,diagnostic support,cut,0,exam room,high,muscle weakness,1,1,adverse event,m,0
+2016,monday,afternoon,diagnostic support,excoriation,0,exam room,moderate,muscle weakness,0,0,adverse event,f,0
+2016,wednesday,night,emergency depart,no injury,1,bathroom/shower,high,muscle weakness,1,0,adverse event,f,3
+2016,sunday,afternoon,inpatient units,cut,1,bathroom/shower,low,loss of balance,1,0,adverse event,m,0
+2016,tuesday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2016,saturday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,8
+2016,sunday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,5
+2016,monday,morning,diagnostic support,excoriation,1,exam room,moderate,loss of balance,0,0,adverse event,f,2
+2016,saturday,morning,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,m,8
+2016,friday,morning,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,m,8
+2016,saturday,night,inpatient units,bruising,1,room,high,slip,1,1,adverse event,f,2
+2016,thursday,morning,diagnostic support,head trauma,1,waiting room,high,loss of balance,1,1,serious adverse event,f,0
+2016,friday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,8
+2016,sunday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,m,3
+2016,tuesday,afternoon,inpatient units,no injury,0,bathroom/shower,moderate,mental confusion,1,1,adverse event,f,0
+2016,wednesday,night,diagnostic support,no injury,1,hallway,moderate,hypotension,0,0,adverse event,f,5
+2016,thursday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,3
+2016,saturday,morning,ob&gynbirth,no injury,1,bathroom/shower,moderate,hypotension,0,0,adverse event,f,9
+2016,wednesday,morning,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,m,2
+2016,thursday,night,inpatient units,no injury,1,bathroom/shower,low,hypotension,1,1,adverse event,f,5
+2016,thursday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,2
+2016,thursday,night,inpatient units,no injury,1,room,moderate,hypotension,1,0,adverse event,f,4
+2016,friday,morning,emergency depart,no injury,1,room,high,hypotension,1,1,adverse event,m,3
+2016,saturday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,f,0
+2016,wednesday,morning,diagnostic support,no injury,1,surgical prep aradverse event,moderate,hypotension,1,1,adverse event,m,0
+2016,wednesday,afternoon,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,m,3
+2016,friday,morning,inpatient units,excoriation,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,1
+2016,saturday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2016,sunday,morning,inpatient units,no injury,1,hallway,moderate,loss of balance,1,1,adverse event,m,3
+2016,tuesday,night,emergency depart,no injury,1,waiting room,moderate,muscle weakness,0,0,adverse event,m,9
+2016,wednesday,morning,inpatient units,excoriation,1,bathroom/shower,high,slip,1,1,adverse event,m,3
+2016,wednesday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,2
+2016,thursday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,5
+2016,friday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,0
+2016,sunday,morning,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,0
+2016,tuesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,0
+2016,sunday,afternoon,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,3
+2016,wednesday,afternoon,oncology,cut,1,room,moderate,hypotension,1,1,adverse event,f,7
+2016,saturday,night,emergency depart,cut,0,exam room,high,loss of balance,1,0,adverse event,m,3
+2016,saturday,afternoon,comunity,excoriation,0,exam room,low,slip,0,0,adverse event,m,9
+2016,sunday,night,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,m,3
+2016,tuesday,afternoon,comunity,fracture,1,exam room,moderate,trip,0,0,adverse event,f,2
+2016,wednesday,morning,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2016,tuesday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,m,3
+2016,thursday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2016,sunday,night,ob&gynbirth,no injury,1,room,high,slip,1,0,adverse event,f,10
+2016,monday,night,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,2
+2016,wednesday,night,inpatient units,no injury,0,room,moderate,slip,1,1,adverse event,f,0
+2016,friday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2016,friday,morning,emergency depart,cut,1,exam room,high,loss of balance,1,0,adverse event,f,2
+2016,saturday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,m,5
+2016,saturday,afternoon,inpatient units,no injury,0,room,high,loss of balance,1,0,adverse event,m,3
+2016,monday,morning,inpatient units,no injury,0,room,moderate,muscle weakness,1,1,adverse event,m,3
+2016,tuesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,0,adverse event,m,2
+2016,tuesday,morning,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,9
+2016,tuesday,afternoon,inpatient units,no injury,0,room,moderate,hypotension,1,0,adverse event,f,3
+2016,tuesday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2016,wednesday,night,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,f,0
+2016,saturday,afternoon,inpatient units,excoriation,1,bathroom/shower,high,slip,1,1,adverse event,m,3
+2016,monday,morning,adult aci,no injury,0,room,moderate,mental confusion,1,1,adverse event,m,5
+2016,thursday,night,emergency depart,no injury,1,exam room,high,slip,1,1,adverse event,f,3
+2016,thursday,morning,inpatient units,no injury,0,room,moderate,muscle weakness,1,0,adverse event,f,0
+2016,monday,afternoon,inpatient units,cut,1,room,high,mental confusion,1,1,adverse event,m,0
+2016,tuesday,night,emergency depart,excoriation,0,room,high,loss of balance,1,0,adverse event,f,8
+2016,thursday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,5
+2016,saturday,afternoon,comunity,hematoma,1,hallway,high,loss of balance,1,1,adverse event,f,2
+2016,wednesday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,0
+2016,wednesday,afternoon,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,1
+2016,thursday,morning,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,9
+2016,thursday,afternoon,inpatient units,bruising,0,room,high,muscle weakness,1,1,adverse event,f,3
+2016,thursday,afternoon,inpatient units,bruising,1,room,high,loss of balance,1,1,adverse event,f,3
+2016,friday,morning,emergency depart,no injury,0,exam room,high,mental confusion,1,0,adverse event,m,0
+2016,wednesday,night,emergency depart,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,2
+2016,thursday,afternoon,emergency depart,no injury,0,exam room,high,loss of balance,0,0,adverse event,m,0
+2016,sunday,morning,emergency depart,cut,0,exam room,high,slip,1,1,adverse event,m,3
+2016,sunday,afternoon,inpatient units,edema,1,room,high,loss of balance,1,1,adverse event,f,5
+2016,sunday,afternoon,emergency depart,cut,1,bathroom/shower,high,slip,1,1,adverse event,f,2
+2016,monday,night,inpatient units,no injury,1,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,3
+2016,wednesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,3
+2016,thursday,morning,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,1,adverse event,f,5
+2016,friday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,4
+2016,saturday,afternoon,inpatient units,cut,1,room,moderate,slip,1,0,adverse event,f,6
+2016,sunday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,1
+2016,tuesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2016,thursday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,1
+2016,saturday,night,operating room/recovery,edema,1,bathroom/shower,moderate,hypotension,1,1,adverse event,f,1
+2016,saturday,morning,diagnostic support,no injury,1,bathroom/shower,moderate,hypotension,1,1,adverse event,m,1
+2016,monday,afternoon,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,f,1
+2016,monday,morning,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,m,3
+2016,wednesday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,0
+2016,sunday,night,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,3
+2016,friday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,m,0
+2016,tuesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,2
+2016,sunday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,9
+2016,thursday,morning,emergency depart,no injury,1,exam room,moderate,slip,1,1,adverse event,m,3
+2016,saturday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,2
+2016,thursday,morning,inpatient units,excoriation,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,5
+2016,thursday,afternoon,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,0,adverse event,m,5
+2016,thursday,morning,diagnostic support,no injury,0,waiting room,moderate,loss of balance,0,0,adverse event,f,0
+2016,tuesday,night,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,8
+2016,thursday,morning,emergency depart,edema,1,exam room,high,trip,0,0,adverse event,f,3
+2016,friday,night,emergency depart,bruising,0,room,moderate,hypotension,1,1,adverse event,f,3
+2016,sunday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,0
+2016,wednesday,morning,ob&gynbirth,no injury,1,room,moderate,hypotension,1,1,adverse event,f,9
+2016,wednesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,0
+2016,wednesday,morning,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,1,adverse event,m,3
+2016,wednesday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,f,8
+2016,thursday,night,inpatient units,no injury,0,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,1
+2016,friday,night,inpatient units,no injury,1,room,high,hypotension,1,0,adverse event,m,1
+2016,friday,morning,inpatient units,excoriation,0,bathroom/shower,high,slip,1,1,adverse event,m,0
+2016,friday,afternoon,oncology,no injury,1,bathroom/shower,high,loss of balance,1,0,adverse event,f,0
+2016,tuesday,night,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,1
+2016,tuesday,afternoon,inpatient units,no injury,1,bathroom/shower,low,slip,0,0,adverse event,m,5
+2016,wednesday,night,emergency depart,no injury,0,room,moderate,muscle weakness,1,0,adverse event,m,0
+2016,wednesday,afternoon,emergency depart,no injury,0,room,high,loss of balance,1,0,adverse event,f,9
+2016,friday,afternoon,emergency depart,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,2
+2016,saturday,afternoon,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,m,3
+2016,saturday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2016,monday,afternoon,inpatient units,no injury,0,bathroom/shower,high,hypotension,1,1,adverse event,f,1
+2016,saturday,night,emergency depart,bruising,0,room,moderate,loss of balance,1,1,adverse event,f,0
+2016,monday,night,inpatient units,hematoma,1,room,high,loss of balance,1,1,adverse event,f,8
+2016,monday,afternoon,diagnostic support,no injury,0,waiting room,high,loss of balance,0,1,adverse event,m,2
+2016,wednesday,night,emergency depart,excoriation,1,room,high,slip,1,1,adverse event,m,3
+2016,sunday,afternoon,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,0
+2016,monday,morning,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,5
+2016,tuesday,morning,inpatient units,hematoma,1,others,high,trip,1,0,adverse event,f,6
+2016,tuesday,night,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,0
+2016,wednesday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,1
+2016,friday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,0
+2016,saturday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,3
+2016,thursday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,m,3
+2016,thursday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,3
+2016,saturday,morning,emergency depart,no injury,0,bathroom/shower,moderate,muscle weakness,1,0,adverse event,f,0
+2016,thursday,morning,inpatient units,cut,0,room,high,slip,1,1,adverse event,f,3
+2016,monday,morning,inpatient units,hematoma,1,bathroom/shower,moderate,hypotension,1,1,adverse event,f,4
+2016,tuesday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,0
+2016,sunday,afternoon,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,0,adverse event,m,0
+2016,saturday,morning,diagnostic support,excoriation,1,exam room,low,hypotension,1,0,adverse event,m,0
+2016,wednesday,night,inpatient units,cut,1,room,high,loss of balance,1,1,adverse event,f,2
+2016,friday,night,emergency depart,excoriation,0,room,high,muscle weakness,1,1,adverse event,m,0
+2016,tuesday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,0
+2016,saturday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,1
+2016,saturday,night,inpatient units,cut,1,room,high,loss of balance,1,1,adverse event,m,3
+2016,wednesday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,2
+2016,saturday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,0
+2016,monday,morning,emergency depart,excoriation,0,bathroom/shower,high,hypotension,1,1,adverse event,m,0
+2016,thursday,night,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,3
+2016,friday,night,inpatient units,no injury,0,room,high,slip,1,0,adverse event,f,2
+2016,friday,night,inpatient units,fracture,1,room,high,mental confusion,1,1,serious adverse event,f,8
+2016,tuesday,afternoon,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,m,4
+2016,tuesday,morning,inpatient units,no injury,1,room,low,hypotension,0,0,adverse event,m,0
+2016,wednesday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,f,3
+2016,wednesday,afternoon,inpatient units,no injury,1,room,high,trip,1,1,adverse event,m,3
+2016,sunday,morning,inpatient units,excoriation,1,room,high,muscle weakness,1,1,adverse event,f,2
+2016,monday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2016,thursday,morning,inpatient units,excoriation,0,room,high,mental confusion,1,0,adverse event,m,2
+2016,friday,morning,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,m,3
+2016,friday,morning,diagnostic support,no injury,1,exam room,moderate,hypotension,0,0,adverse event,m,0
+2016,friday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,3
+2016,sunday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,8
+2016,sunday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,3
+2016,wednesday,afternoon,dialysis,excoriation,0,room,high,loss of balance,1,1,adverse event,m,0
+2016,friday,afternoon,inpatient units,no injury,1,room,high,trip,1,1,adverse event,m,0
+2016,wednesday,afternoon,inpatient units,cut,1,room,high,mental confusion,1,1,adverse event,f,2
+2016,wednesday,afternoon,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,0,1,adverse event,f,1
+2016,thursday,night,emergency depart,no injury,0,room,high,slip,1,1,adverse event,f,2
+2016,monday,night,inpatient units,excoriation,0,room,moderate,muscle weakness,1,1,adverse event,m,0
+2016,tuesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,0
+2016,thursday,night,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,3
+2017,sunday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,m,0
+2017,sunday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,f,9
+2017,tuesday,morning,dialysis,no injury,0,exam room,high,mental confusion,1,1,adverse event,m,0
+2017,wednesday,morning,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,m,2
+2017,friday,night,inpatient units,excoriation,0,bathroom/shower,high,loss of balance,1,1,adverse event,m,0
+2017,sunday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,0
+2017,tuesday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,4
+2017,thursday,afternoon,diagnostic support,no injury,1,exam room,high,loss of balance,1,0,adverse event,f,6
+2017,saturday,afternoon,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,3
+2017,sunday,afternoon,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,1
+2017,thursday,morning,inpatient units,hematoma,1,bathroom/shower,high,trip,1,1,adverse event,m,2
+2017,saturday,morning,inpatient units,excoriation,1,room,high,muscle weakness,1,1,adverse event,f,1
+2017,monday,night,emergency depart,no injury,1,exam room,high,hypotension,0,0,adverse event,m,0
+2017,monday,morning,inpatient units,bruising,1,bathroom/shower,high,slip,1,1,adverse event,m,2
+2017,friday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,3
+2017,friday,afternoon,emergency depart,no injury,0,bathroom/shower,high,slip,1,1,adverse event,f,2
+2017,monday,night,emergency depart,no injury,0,room,high,muscle weakness,1,0,adverse event,m,0
+2017,sunday,morning,inpatient units,hematoma,1,room,high,trip,1,0,adverse event,f,6
+2017,tuesday,afternoon,inpatient units,excoriation,0,room,high,mental confusion,1,0,adverse event,m,2
+2017,tuesday,afternoon,emergency depart,head trauma,0,hallway,high,slip,0,0,serious adverse event,m,3
+2017,monday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2017,tuesday,afternoon,diagnostic support,no injury,1,exam room,low,loss of balance,0,0,adverse event,f,5
+2017,wednesday,morning,inpatient units,bruising,0,bathroom/shower,high,slip,1,1,adverse event,m,3
+2017,thursday,night,inpatient units,excoriation,1,bathroom/shower,high,slip,1,1,adverse event,f,5
+2017,friday,morning,diagnostic support,no injury,1,waiting room,high,slip,1,0,adverse event,f,2
+2017,saturday,afternoon,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,m,3
+2017,saturday,afternoon,emergency depart,excoriation,1,room,high,muscle weakness,1,1,adverse event,m,3
+2017,sunday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,4
+2017,thursday,afternoon,oncology,excoriation,1,bathroom/shower,high,loss of balance,0,1,adverse event,m,0
+2017,friday,morning,inpatient units,no injury,0,room,high,mental confusion,1,0,adverse event,m,4
+2017,tuesday,morning,emergency depart,no injury,0,room,moderate,loss of balance,1,0,adverse event,f,3
+2017,tuesday,night,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,0,adverse event,f,9
+2017,thursday,night,inpatient units,no injury,0,bathroom/shower,moderate,hypotension,1,1,adverse event,f,3
+2017,thursday,night,ob&gynbirth,no injury,1,room,moderate,hypotension,1,0,adverse event,f,9
+2017,friday,afternoon,comunity,no injury,0,waiting room,low,hypotension,0,0,adverse event,f,1
+2017,monday,night,emergency depart,no injury,0,waiting room,moderate,muscle weakness,0,0,adverse event,f,0
+2017,monday,afternoon,inpatient units,cut,0,bathroom/shower,moderate,muscle weakness,1,0,adverse event,m,9
+2017,thursday,night,inpatient units,no injury,1,room,moderate,hypotension,1,0,adverse event,f,5
+2017,thursday,night,inpatient units,no injury,1,exam room,moderate,human error,0,0,adverse event,m,10
+2017,friday,afternoon,diagnostic support,no injury,1,waiting room,moderate,loss of balance,0,0,adverse event,f,6
+2017,saturday,morning,inpatient units,excoriation,0,room,high,mental confusion,1,0,adverse event,f,8
+2017,saturday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2017,sunday,morning,pediatric/neonatal icu,hematoma,1,bathroom/shower,high,slip,1,0,adverse event,m,6
+2017,sunday,night,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,m,3
+2017,tuesday,morning,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,2
+2017,tuesday,afternoon,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,f,2
+2017,wednesday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,0
+2017,wednesday,morning,emergency depart,no injury,0,room,high,slip,1,1,adverse event,m,0
+2017,monday,afternoon,inpatient units,hematoma,1,room,high,muscle weakness,1,1,adverse event,f,8
+2017,tuesday,morning,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,5
+2017,thursday,afternoon,emergency depart,no injury,1,room,moderate,loss of balance,1,0,adverse event,f,4
+2017,friday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2017,sunday,morning,inpatient units,excoriation,1,hallway,high,muscle weakness,1,1,adverse event,m,3
+2017,monday,morning,inpatient units,no injury,1,hallway,moderate,trip,1,1,adverse event,m,9
+2017,tuesday,night,inpatient units,no injury,1,room,moderate,slip,1,1,adverse event,f,2
+2017,tuesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,0,adverse event,m,0
+2017,thursday,morning,inpatient units,no injury,0,hallway,moderate,muscle weakness,1,1,adverse event,f,4
+2017,thursday,night,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,0
+2017,wednesday,morning,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,2
+2017,thursday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,5
+2017,thursday,morning,inpatient units,bruising,1,bathroom/shower,moderate,hypotension,1,1,adverse event,m,9
+2017,thursday,night,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,m,3
+2017,friday,morning,diagnostic support,excoriation,1,waiting room,moderate,loss of balance,0,0,adverse event,m,0
+2017,friday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,1
+2017,monday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,9
+2017,tuesday,morning,diagnostic support,cut,0,waiting room,moderate,trip,0,0,adverse event,m,2
+2017,wednesday,morning,diagnostic support,no injury,1,exam room,moderate,trip,0,0,adverse event,f,3
+2017,thursday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,m,4
+2017,friday,morning,inpatient units,excoriation,1,room,high,slip,1,0,adverse event,m,2
+2017,sunday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,3
+2017,monday,morning,operating room,no injury,1,operating room,moderate,slip,1,0,adverse event,f,5
+2017,saturday,morning,diagnostic support,no injury,1,bathroom/shower,moderate,loss of balance,0,0,adverse event,m,0
+2017,tuesday,afternoon,inpatient units,no injury,1,room,moderate,human error,1,1,adverse event,m,3
+2017,tuesday,afternoon,diagnostic support,no injury,0,waiting room,high,trip,0,0,adverse event,f,3
+2017,thursday,night,emergency depart,no injury,1,room,high,mental confusion,1,0,adverse event,f,2
+2017,thursday,night,emergency depart,no injury,1,room,high,mental confusion,1,0,adverse event,m,0
+2017,thursday,night,inpatient units,no injury,0,bathroom/shower,moderate,slip,1,0,adverse event,f,0
+2017,friday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2017,friday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,0
+2017,wednesday,morning,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,1,adverse event,m,1
+2017,monday,morning,dialysis,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,m,2
+2017,friday,night,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,m,5
+2017,wednesday,night,inpatient units,no injury,1,bathroom/shower,moderate,hypotension,1,1,adverse event,m,0
+2017,wednesday,night,inpatient units,head trauma,1,room,high,muscle weakness,1,1,serious adverse event,m,5
+2017,wednesday,morning,diagnostic support,no injury,1,exam room,high,trip,1,1,adverse event,f,3
+2017,wednesday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,0,adverse event,m,3
+2017,friday,morning,inpatient units,no injury,1,room,high,loss of balance,1,0,adverse event,m,2
+2017,sunday,morning,inpatient units,no injury,1,room,moderate,muscle weakness,1,0,adverse event,f,0
+2017,monday,morning,diagnostic support,no injury,1,exam room,moderate,mental confusion,1,1,adverse event,m,6
+2017,thursday,afternoon,diagnostic support,hematoma,1,bathroom/shower,high,slip,1,1,adverse event,f,2
+2017,wednesday,afternoon,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2017,friday,morning,inpatient units,no injury,1,room,moderate,hypotension,1,1,adverse event,m,5
+2017,monday,morning,inpatient units,no injury,1,room,high,slip,1,0,adverse event,m,2
+2017,monday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,3
+2017,wednesday,afternoon,inpatient units,excoriation,1,room,high,muscle weakness,1,1,adverse event,m,0
+2017,wednesday,afternoon,inpatient units,no injury,1,room,moderate,loss of balance,0,1,adverse event,m,3
+2017,friday,afternoon,inpatient units,no injury,1,exam room,high,loss of balance,1,0,adverse event,m,1
+2017,sunday,night,emergency depart,no injury,1,hallway,low,slip,0,0,adverse event,m,10
+2017,monday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,m,5
+2017,tuesday,morning,diagnostic support,excoriation,1,hallway,moderate,slip,1,1,adverse event,f,3
+2017,monday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2017,wednesday,night,inpatient units,no injury,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,2
+2017,wednesday,afternoon,diagnostic support,cut,1,exam room,moderate,slip,0,1,adverse event,f,0
+2017,friday,night,inpatient units,cut,1,room,high,muscle weakness,1,1,adverse event,m,2
+2017,saturday,morning,inpatient units,no injury,1,bathroom/shower,moderate,slip,1,1,adverse event,f,2
+2017,saturday,afternoon,inpatient units,no injury,1,bathroom/shower,high,slip,1,0,adverse event,m,1
+2017,tuesday,night,inpatient units,no injury,1,room,moderate,loss of balance,1,1,adverse event,f,0
+2017,tuesday,morning,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,5
+2017,friday,afternoon,emergency depart,no injury,1,bathroom/shower,moderate,loss of balance,1,0,adverse event,m,2
+2017,monday,night,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,f,5
+2017,tuesday,night,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,f,0
+2017,tuesday,afternoon,diagnostic support,no injury,0,surgical prep aradverse event,low,hypotension,0,0,adverse event,m,5
+2017,friday,night,emergency depart,no injury,0,room,high,mental confusion,0,0,adverse event,m,3
+2017,wednesday,night,emergency depart,no injury,1,others,high,loss of balance,1,0,adverse event,m,6
+2017,wednesday,night,inpatient units,no injury,0,room,moderate,loss of balance,1,1,adverse event,f,5
+2017,wednesday,morning,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,2
+2017,friday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,8
+2017,friday,afternoon,diagnostic support,no injury,1,exam room,moderate,muscle weakness,1,0,adverse event,f,3
+2017,monday,night,emergency depart,no injury,1,room,high,loss of balance,1,1,adverse event,f,3
+2017,monday,night,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,2
+2017,wednesday,night,inpatient units,excoriation,0,room,moderate,loss of balance,1,1,adverse event,f,3
+2017,saturday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,2
+2017,sunday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2017,wednesday,night,inpatient units,no injury,0,bathroom/shower,moderate,loss of balance,1,1,adverse event,m,0
+2017,wednesday,morning,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,f,1
+2017,friday,afternoon,dialysis,no injury,1,waiting room,moderate,loss of balance,0,1,adverse event,m,3
+2017,saturday,morning,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2017,sunday,night,emergency depart,no injury,1,room,high,human error,0,0,adverse event,m,6
+2017,monday,afternoon,inpatient units,no injury,1,bathroom/shower,moderate,trip,0,1,adverse event,f,5
+2017,tuesday,night,inpatient units,no injury,1,room,high,loss of balance,1,1,adverse event,m,3
+2017,wednesday,night,inpatient units,cut,0,room,high,loss of balance,1,1,adverse event,m,3
+2017,wednesday,morning,inpatient units,no injury,0,room,high,slip,1,1,adverse event,f,5
+2017,wednesday,morning,emergency depart,bruising,1,bathroom/shower,high,loss of balance,1,0,adverse event,f,4
+2017,thursday,night,emergency depart,no injury,1,room,high,slip,1,1,adverse event,m,2
+2017,thursday,night,inpatient units,fracture,1,bathroom/shower,high,loss of balance,1,1,adverse event,m,0
+2017,sunday,night,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,3
+2017,monday,morning,inpatient units,no injury,1,bathroom/shower,moderate,muscle weakness,1,1,adverse event,m,0
+2017,tuesday,morning,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,1,adverse event,f,2
+2017,wednesday,night,inpatient units,fracture,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,8
+2017,saturday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,f,0
+2017,wednesday,night,inpatient units,no injury,1,bathroom/shower,high,hypotension,1,1,adverse event,m,9
+2017,friday,morning,inpatient units,no injury,1,room,moderate,muscle weakness,1,1,adverse event,m,0
+2017,tuesday,morning,dialysis,no injury,1,room,high,hypotension,1,1,adverse event,m,1
+2017,tuesday,morning,diagnostic support,bruising,1,others,low,hypotension,0,0,adverse event,m,1
+2017,tuesday,afternoon,dialysis,no injury,0,hallway,moderate,muscle weakness,1,1,adverse event,m,5
+2017,wednesday,afternoon,comunity,fracture,1,exam room,moderate,trip,0,0,serious adverse event,f,0
+2017,tuesday,morning,inpatient units,no injury,0,bathroom/shower,high,slip,1,1,adverse event,m,3
+2017,friday,night,inpatient units,excoriation,1,room,moderate,loss of balance,1,1,adverse event,m,3
+2017,friday,morning,diagnostic support,hematoma,0,bathroom/shower,high,hypotension,1,1,adverse event,f,9
+2017,sunday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,m,3
+2017,sunday,night,inpatient units,fracture,0,bathroom/shower,high,loss of balance,1,1,serious adverse event,f,3
+2017,tuesday,morning,inpatient units,wound dehiscence,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,5
+2017,friday,night,diagnostic support,no injury,0,bathroom/shower,moderate,muscle weakness,1,1,adverse event,f,9
+2017,friday,night,operating room,no injury,1,others,moderate,trip,1,0,adverse event,f,9
+2017,tuesday,night,diagnostic support,no injury,1,hallway,moderate,trip,1,0,adverse event,f,3
+2017,sunday,morning,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,f,3
+2017,wednesday,afternoon,operating room,excoriation,0,bathroom/shower,moderate,hypotension,1,1,adverse event,f,9
+2017,tuesday,morning,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,f,0
+2017,thursday,night,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,1,adverse event,m,2
+2017,thursday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,f,2
+2017,wednesday,afternoon,diagnostic support,no injury,1,others,high,trip,1,1,adverse event,f,5
+2017,monday,morning,inpatient units,no injury,1,room,moderate,human error,1,1,adverse event,f,5
+2017,wednesday,night,inpatient units,excoriation,0,bathroom/shower,high,loss of balance,1,0,adverse event,f,3
+2017,thursday,afternoon,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,m,1
+2017,sunday,night,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,m,2
+2017,monday,morning,inpatient units,excoriation,1,room,high,loss of balance,1,0,adverse event,m,8
+2017,monday,afternoon,inpatient units,no injury,1,room,high,hypotension,1,1,adverse event,f,3
+2017,tuesday,night,inpatient units,no injury,0,room,high,trip,1,1,adverse event,m,2
+2017,friday,night,inpatient units,cut,1,room,high,loss of balance,1,1,adverse event,m,0
+2017,friday,morning,inpatient units,edema,1,room,high,trip,1,1,adverse event,f,9
+2017,saturday,night,inpatient units,no injury,0,room,moderate,slip,1,1,adverse event,f,3
+2017,saturday,afternoon,inpatient units,no injury,1,hallway,moderate,muscle weakness,1,1,adverse event,f,3
+2017,sunday,morning,diagnostic support,no injury,0,room,high,loss of balance,1,1,adverse event,m,0
+2017,tuesday,afternoon,inpatient units,no injury,1,room,high,slip,1,0,adverse event,f,5
+2017,tuesday,afternoon,inpatient units,no injury,0,room,high,mental confusion,1,1,adverse event,m,3
+2017,wednesday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,f,9
+2017,wednesday,night,inpatient units,no injury,0,nursing station,high,loss of balance,1,1,adverse event,f,0
+2017,thursday,night,inpatient units,no injury,1,bathroom/shower,high,human error,1,1,adverse event,m,3
+2017,friday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,3
+2017,saturday,night,inpatient units,excoriation,0,bathroom/shower,high,loss of balance,1,1,adverse event,f,0
+2017,monday,morning,inpatient units,no injury,1,bathroom/shower,low,muscle weakness,1,0,adverse event,f,4
+2017,tuesday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,2
+2017,wednesday,afternoon,adult aci,no injury,1,hallway,moderate,muscle weakness,1,1,adverse event,f,5
+2017,friday,afternoon,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,0
+2017,friday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,2
+2017,sunday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,f,0
+2017,saturday,night,inpatient units,excoriation,0,bathroom/shower,high,mental confusion,1,1,adverse event,f,0
+2017,saturday,afternoon,inpatient units,excoriation,1,room,high,mental confusion,1,1,adverse event,m,0
+2017,sunday,morning,inpatient units,excoriation,0,bathroom/shower,high,muscle weakness,1,1,adverse event,f,3
+2017,tuesday,morning,inpatient units,no injury,1,bathroom/shower,high,muscle weakness,1,0,adverse event,m,8
+2017,tuesday,morning,diagnostic support,no injury,0,waiting room,moderate,loss of balance,1,1,adverse event,f,3
+2017,tuesday,afternoon,inpatient units,no injury,0,bathroom/shower,high,loss of balance,1,1,adverse event,m,0
+2017,wednesday,night,inpatient units,no injury,1,room,high,muscle weakness,1,1,adverse event,m,2
+2017,monday,morning,inpatient units,no injury,1,bathroom/shower,high,slip,1,1,adverse event,m,1
+2017,thursday,night,inpatient units,no injury,0,room,high,muscle weakness,1,1,adverse event,m,0
+2017,thursday,night,inpatient units,no injury,1,bathroom/shower,high,mental confusion,1,1,adverse event,m,0
+2017,wednesday,night,inpatient units,no injury,0,room,high,loss of balance,1,1,adverse event,f,0
+2017,monday,afternoon,inpatient units,no injury,0,room,high,hypotension,1,1,adverse event,m,3
+2017,tuesday,night,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,0,0,adverse event,m,1
+2017,thursday,morning,diagnostic support,hematoma,1,exam room,high,slip,1,0,adverse event,f,3
+2017,thursday,afternoon,dialysis,no injury,1,hallway,high,loss of balance,1,0,adverse event,m,3
+2017,friday,afternoon,inpatient units,hematoma,1,bathroom/shower,high,muscle weakness,1,1,adverse event,f,0
+2017,friday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,m,1
+2017,sunday,night,inpatient units,excoriation,1,room,high,mental confusion,1,1,adverse event,f,2
+2017,wednesday,night,inpatient units,no injury,1,room,high,mental confusion,1,1,adverse event,m,3
+2017,friday,morning,inpatient units,no injury,0,room,high,slip,1,1,adverse event,m,2
+2017,sunday,night,diagnostic support,no injury,1,room,high,muscle weakness,1,1,adverse event,f,9
+2017,sunday,night,inpatient units,no injury,0,bathroom/shower,high,muscle weakness,1,1,adverse event,f,9
+2017,tuesday,afternoon,oncology,no injury,0,others,moderate,loss of balance,1,1,adverse event,f,3
+2017,tuesday,afternoon,inpatient units,no injury,1,room,high,muscle weakness,1,0,adverse event,f,7
+2017,wednesday,afternoon,oncology,hematoma,0,hallway,low,trip,0,0,adverse event,f,0
+2017,friday,night,inpatient units,excoriation,1,room,high,loss of balance,1,1,adverse event,f,3
+2017,tuesday,morning,oncology,bruising,1,others,moderate,trip,0,0,adverse event,m,2
+2017,wednesday,morning,oncology,excoriation,1,hallway,high,trip,0,0,adverse event,f,2
+2017,sunday,afternoon,inpatient units,no injury,1,room,high,slip,1,1,adverse event,m,2
