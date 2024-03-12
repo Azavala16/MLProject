@@ -155,7 +155,7 @@ def test_data():
         results_df = pd.DataFrame()
         results_df['Actual Fall Risk Level'] = y_test.values.ravel()
         results_df['Predicted Fall Risk Level'] = predictions
-        # results_df.to_csv('knn_predictions_entire_dataset.csv', index=False)
+        results_df.to_csv('knn_predictions_entire_dataset.csv', index=False)
 
 
     elif choice == 2:
