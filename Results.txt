@@ -1,0 +1,108 @@
+
+-----Checking for null values for each attribute-----
+ Year                                                     0
+Weekday of incident                                      0
+Shift                                                    0
+Hospital department or location of incident              0
+Type of injury incurred, if any                          0
+Presence of companion at time of incident                0
+Location or environment in which the incident ocurred    0
+Fall risk level                                          0
+Reason for incident                                      0
+Whether a fall prevention protocol was implemented       0
+Involvement of medication associated with fall risk      0
+Severity of incident                                     0
+Sex                                                      0
+Age range                                                0
+dtype: int64
+Accuracy for 30% of entire dataset: 59.19%  /  number of samples: 321 samples
+general statistics:
+              Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
+Accuracy on 35% of data for Year 2012: 48.08%  /  number of samples: 52 samples
+general statistics for Year 2012:
+               Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
+Accuracy on 35% of data for Year 2013: 47.37%  /  number of samples: 57 samples
+general statistics for Year 2013:
+               Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
+Accuracy on 35% of data for Year 2014: 52.86%  /  number of samples: 70 samples
+general statistics for Year 2014:
+               Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
+Accuracy on 35% of data for Year 2015: 59.68%  /  number of samples: 62 samples
+general statistics for Year 2015:
+               Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
+Accuracy on 35% of data for Year 2016: 58.33%  /  number of samples: 60 samples
+general statistics for Year 2016:
+               Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
+Accuracy on 35% of data for Year 2017: 61.84%  /  number of samples: 76 samples
+general statistics for Year 2017:
+               Year  ...    Age range
+count  1067.000000  ...  1067.000000
+mean   2014.660731  ...     3.064667
+std       1.697362  ...     2.534664
+min    2012.000000  ...     0.000000
+25%    2013.000000  ...     2.000000
+50%    2015.000000  ...     3.000000
+75%    2016.000000  ...     4.000000
+max    2017.000000  ...    10.000000
+
+[8 rows x 5 columns]
