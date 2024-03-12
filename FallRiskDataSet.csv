@@ -1,0 +1,1072 @@
+﻿Number,Year,Date of incident,Weekday of incident,Shift,Hospital department or location of incident,Age range of patient,"Type of injury incurred, if any",Presence of companion at time of incident,Location or environment in which the incident ocurred,Fall risk level,Reason for incident,Whether a fall prevention protocol was implemented,Involvement of medication associated with fall risk,Severity of incident,Sex
+1,2012,1/2/2012,monday,Afternoon,diagnostic support ,60<70,Bruising,No,Waiting room,Moderate,Loss of balance,No,No,adverse event,Female
+2,2012,1/6/2012,friday,Night,inpatient units ,40<50,cut,No,Room,Moderate,Trip,Yes,No,adverse event,Female
+3,2012,1/10/2012,tuesday,Afternoon,emergency depart,80<90,cut,Yes/Family,Room,High,Trip,Yes,Yes,adverse event,Male
+4,2012,1/14/2012,saturday,Night,inpatient units ,70<80,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,Male
+5,2012,1/24/2012,tuesday,Night,inpatient units ,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,Female
+6,2012,1/24/2012,tuesday,Morning ,inpatient units ,80<90,no injury,yes/Nurse,Room,High,Slip,Yes,Yes,adverse event,Male
+7,2012,1/30/2012,monday,Afternoon,inpatient units ,60<70,no injury,No,Bathroom/shower,Moderate,Mental confusion,Yes,Yes,adverse event,Female
+8,2012,2/3/2012,friday,Afternoon,inpatient units ,70<80,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,Male
+9,2012,2/4/2012,saturday,Afternoon,inpatient units ,20<30,no injury,Yes/Family,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,Male
+10,2012,2/4/2012,saturday,Morning ,inpatient units ,40<50,no injury,No,Room,Moderate,Motor Deficit,Yes,No,adverse event,Male
+11,2012,2/5/2012,sunday,Morning ,inpatient units ,70<80,no injury,yes/Nurse,Bathroom/shower,High,Slip,Yes,No,adverse event,Female
+12,2012,2/8/2012,wednesday,Night,inpatient units ,50<60,cut,No,Hallway,Moderate,Trip,Yes,No,adverse event,Male
+13,2012,2/11/2012,saturday,Night,inpatient units ,1<13 ,no injury,Yes/Family,Room,Moderate,Syncope,Yes,No,adverse event,Male
+14,2012,2/11/2012,saturday,Night,inpatient units ,13<20,no injury,No,Room,High,Hypotension,Yes,Yes,adverse event,Female
+15,2012,2/20/2012,monday,Night,emergency depart,70<80,cut,No,Room,High,Mental confusion,Yes,No,adverse event,Female
+16,2012,2/25/2012,saturday,Night,Ob&GynBirth ,1<13 ,no injury,Yes/Family,Room,Moderate,Dizziness,Yes,No,adverse event,Male
+17,2012,2/28/2012,tuesday,Morning ,inpatient units ,60<70,no injury,yes/Nurse,Room,High,Mental confusion,Yes,Yes,adverse event,Female
+18,2012,2/29/2012,wednesday,Night,inpatient units ,70<80,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,Male
+19,2012,3/2/2012,friday,Night,emergency depart,60<70,no injury,No,Bathroom/shower,Moderate,Deficit Motor,Yes,No,adverse event,Male
+20,2012,3/15/2012,thursday,Morning ,inpatient units ,60<70,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,Male
+21,2012,3/16/2012,friday,Night,inpatient units ,70<80,no injury,No,Bathroom/shower,High,Slip,Yes,No,adverse event,Male
+22,2012,3/16/2012,friday,Morning ,inpatient units ,70<80,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,Male
+23,2012,3/17/2012,saturday,Night,inpatient units ,70<80,excoriation,No,Room,Moderate,Slip,Yes,Yes,adverse event,Male
+24,2012,3/22/2012,thursday,Night,inpatient units ,≥ 90,Fracture ,Yes/Family,Room,High,Loss of balance,Yes,Yes,serious adverse event,Female
+25,2012,3/26/2012,monday,Afternoon,emergency depart,60<70,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,Female
+26,2012,3/26/2012,monday,Night,inpatient units ,≥ 90,excoriation,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,Male
+27,2012,3/29/2012,thursday,Night,inpatient units ,70<80,no injury,No,Room,High,Hypotension,Yes,Yes,adverse event,Male
+28,2012,4/1/2012,sunday,Night,inpatient units ,1<13 ,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,Male
+29,2012,4/3/2012,tuesday,Morning ,oncology,50<60,cut,Yes/Family,Room,Moderate,Trip,Yes,No,adverse event,Female
+30,2012,4/6/2012,friday,Night,inpatient units ,80<90,HEMATOMA,No,Room,High,Mental confusion,Yes,Yes,adverse event,Female
+31,2012,4/9/2012,monday,Afternoon,diagnostic support ,80<90,no injury,No,Bathroom/shower,Moderate,Muscle weakness,No,No,adverse event,Male
+32,2012,4/13/2012,friday,Afternoon,diagnostic support ,30<40,no injury,yes/Nurse,Recovery room ,Moderate,Mental confusion,No,Yes,adverse event,Male
+33,2012,4/13/2012,friday,Morning ,inpatient units ,50<60,no injury,No,Room,Low,Loss of balance,No,No,adverse event,Female
+34,2012,4/14/2012,saturday,Night,inpatient units ,80<90,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,Female
+35,2012,4/15/2012,sunday,Night,inpatient units ,60<70,cut,No,Room,Moderate,Mental confusion,Yes,No,adverse event,Male
+36,2012,4/15/2012,sunday,Morning ,inpatient units ,80<90,excoriation,No,Room,High,Loss of balance,Yes,Yes,adverse event,Male
+37,2012,4/16/2012,monday,Morning ,inpatient units ,70<80,no injury,No,Room,High,Slip,Yes,No,adverse event,Male
+38,2012,4/21/2012,saturday,Morning ,inpatient units ,≥ 90,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,Female
+39,2012,4/25/2012,wednesday,Afternoon,inpatient units ,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,No,adverse event,Female
+40,2012,4/26/2012,thursday,Morning ,inpatient units ,40<50,no injury,Yes,Room,Low,Hypotension,No,Yes,adverse event,Male
+41,2012,4/28/2012,saturday,Night,inpatient units ,80<90,no injury,No,Room,High,Muscle weakness,Yes,No,adverse event,Male
+42,2012,4/29/2012,sunday,Morning ,inpatient units ,30<40,no injury,No,Bathroom/shower,Moderate,Slip,No,No,adverse event,Female
+43,2012,4/29/2012,sunday,Afternoon,diagnostic support ,50<60,no injury,Yes/Family,Others,Moderate,Loss of balance,No,No,adverse event,Female
+44,2012,4/29/2012,sunday,Night,inpatient units ,70<80,cut,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,Female
+45,2012,4/30/2012,monday,Morning ,inpatient units ,70<80,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,Male
+46,2012,5/4/2012,friday,Morning ,inpatient units ,60<70,HEMATOMA,No,Room,High,Trip,Yes,Yes,adverse event,Male
+47,2012,5/5/2012,saturday,Morning ,inpatient units ,20<30,excoriation,Yes/Family,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,Male
+48,2012,5/7/2012,monday,Morning ,inpatient units ,60<70,no injury,No,Room,Moderate,Trip,Yes,No,adverse event,Female
+49,2012,5/7/2012,monday,Afternoon,inpatient units ,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+50,2012,5/14/2012,monday,Night,inpatient units ,70<80,HEMATOMA,No,Bathroom/shower,High,Slip,Yes,No,adverse event,Male
+51,2012,5/14/2012,monday,Night,inpatient units ,70<80,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,Male
+52,2012,5/16/2012,wednesday,Night,inpatient units ,80<90,no injury,No,Room,High,Muscle weakness,Yes,No,adverse event,Male
+53,2012,5/17/2012,thursday,Night,inpatient units ,70<80,cut,No,Room,High,Mental confusion,Yes,No,adverse event,Female
+54,2012,5/18/2012,friday,Night,inpatient units ,80<90,excoriation,Yes/Family,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,Male
+55,2012,5/20/2012,sunday,Afternoon,inpatient units ,70<80,no injury,No,Room,High,Trip,Yes,Yes,adverse event,Female
+56,2012,5/22/2012,tuesday,Afternoon,diagnostic support ,70<80,no injury,Yes/Family,Others,Low,Hypotension,Yes,Yes,adverse event,Female
+57,2012,5/25/2012,friday,Night,inpatient units ,≥ 90,excoriation,No,Room,High,Slip,Yes,No,adverse event,Male
+58,2012,5/30/2012,wednesday,Afternoon,inpatient units ,70<80,no injury,Yes/EQUIPE,Room,Moderate,Muscle weakness,Yes,No,adverse event,Female
+59,2012,5/31/2012,thursday,Morning ,inpatient units ,13<20,no injury,Yes/Family,Room,Moderate,Mental confusion,Yes,Yes,adverse event,Female
+60,2012,5/31/2012,thursday,Morning ,inpatient units ,60<70,no injury,,Room,Moderate,Loss of balance,Yes,No,adverse event,Male
+61,2012,6/1/2012,friday,Night,inpatient units ,70<80,no injury,No,Room,Moderate,Mental confusion,Yes,No,adverse event,Female
+62,2012,6/4/2012,monday,Morning ,inpatient units ,60<70,excoriation,No,Room,Low,Loss of balance,No,No,adverse event,Female
+63,2012,6/5/2012,tuesday,Morning ,inpatient units ,80<90,excoriation,yes/Nurse,Room,High,Loss of balance,Yes,Yes,adverse event,Male
+64,2012,6/6/2012,wednesday,Morning ,inpatient units ,70<80,no injury,yes/Caregiver,Bathroom/shower,High,Slip,Yes,Yes,adverse event,Male
+65,2012,6/7/2012,thursday,Afternoon,inpatient units ,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,No,adverse event,Male
+66,2012,6/12/2012,tuesday,Morning ,inpatient units ,70<80,no injury,Yes/Family,Room,High,Muscle weakness,Yes,No,adverse event,Female
+67,2012,6/15/2012,friday,Afternoon,inpatient units ,80<90,cut,No,Room,High,Mental confusion,Yes,Yes,adverse event,Female
+68,2012,6/20/2012,wednesday,Night,inpatient units ,70<80,no injury,No,Room,High,Mental confusion,No,No,adverse event,Female
+69,2012,6/21/2012,thursday,Afternoon,emergency depart,30<40,Bruising,No,Hallway,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+70,2012,6/23/2012,saturday,Night,inpatient units ,80<90,no injury,Yes/Family,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,Male
+71,2012,6/25/2012,monday,Night,inpatient units ,≥ 90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,Female
+72,2012,6/27/2012,wednesday,Morning ,emergency depart,30<40,no injury,No,Room,Moderate,Mental confusion,Yes,No,adverse event,Female
+73,2012,6/28/2012,thursday,Afternoon,diagnostic support ,80<90,no injury,Yes/Family,Room,Moderate,Loss of balance,No,No,adverse event,Male
+74,2012,6/28/2012,thursday,Night,inpatient units ,≥ 90,no injury,yes/Nurse,Room,High,Slip,Yes,No,adverse event,Female
+75,2012,7/1/2012,sunday,Afternoon,inpatient units ,70<80,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,Female
+76,2012,7/2/2012,monday,Night,inpatient units ,70<80,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,Female
+77,2012,7/4/2012,wednesday,Afternoon,emergency depart,20<30,no injury,Yes/Family,Hallway,Moderate,Loss of balance,Yes,No,adverse event,Male
+78,2012,7/6/2012,friday,Morning ,inpatient units ,30<40,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,Male
+79,2012,7/9/2012,monday,Afternoon,inpatient units ,40<50,excoriation,Yes/Family,Hallway,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+80,2012,7/10/2012,tuesday,Night,inpatient units ,40<50,no injury,yes/Nurse,Room,Moderate,Muscle weakness,Yes,No,adverse event,Female
+81,2012,7/13/2012,friday,Afternoon,inpatient units ,40<50,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,Female
+82,2012,7/13/2012,friday,Morning ,inpatient units ,50<60,no injury,Yes/Family,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,Female
+83,2012,7/17/2012,tuesday,Night,operating room/recovery,70<80,no injury,yes/Nurse,Others,Moderate,Loss of balance,No,Yes,adverse event,Female
+84,2012,7/17/2012,tuesday,Night,inpatient units ,≥ 90,no injury,No,Room,High,Slip,No,No,adverse event,Female
+85,2012,7/24/2012,tuesday,Afternoon,inpatient units ,1<13 ,no injury,Yes/Family,Room,High,Slip,Yes,No,adverse event,Female
+86,2012,7/25/2012,wednesday,Night,inpatient units ,70<80,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,Male
+87,2012,7/25/2012,wednesday,Night,inpatient units ,70<80,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,Male
+88,2012,7/26/2012,thursday,Afternoon,emergency depart,30<40,no injury,yes/Nurse,Medication room,Low,Hypotension,No,No,adverse event,Female
+89,2012,8/7/2012,tuesday,Afternoon,inpatient units ,20<30,no injury,Yes,Bathroom/shower,Moderate,Mental confusion,Yes,No,adverse event,Female
+90,2012,8/7/2012,tuesday,Morning ,inpatient units ,70<80,no injury,No,Room,Moderate,Mental confusion,Yes,No,adverse event,Male
+91,2012,8/7/2012,tuesday,Night,emergency depart,70<80,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,Female
+92,2012,8/8/2012,wednesday,Night,inpatient units ,60<70,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+93,2012,8/9/2012,thursday,Morning ,inpatient units ,80<90,excoriation,yes/Nurse,Bathroom/shower,High,Equipment,Yes,Yes,adverse event,Male
+94,2012,8/11/2012,saturday,Afternoon,inpatient units ,70<80,no injury,yes/Nurse,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+95,2012,8/14/2012,tuesday,Morning ,inpatient units ,60<70,no injury,Yes,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,Female
+96,2012,8/17/2012,friday,Night,inpatient units ,60<70,Bruising,Yes,Room,High,Muscle weakness,Yes,No,adverse event,Female
+97,2012,8/22/2012,wednesday,Night,inpatient units ,60<70,excoriation,No,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,Male
+98,2012,8/24/2012,friday,Night,emergency depart,30<40,no injury,Yes,Room,Moderate,Loss of balance,No,Yes,adverse event,Female
+99,2012,8/25/2012,saturday,Morning ,inpatient units ,30<40,Bruising,Yes,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,Female
+100,2012,8/26/2012,sunday,Night,inpatient units ,30<40,no injury,Yes,Room,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+101,2012,8/29/2012,wednesday,Morning ,inpatient units ,70<80,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,Female
+102,2012,8/29/2012,wednesday,Afternoon,inpatient units ,70<80,Bruising,No,Room,High,Muscle weakness,No,Yes,adverse event,Male
+103,2012,8/30/2012,thursday,Night,Ob&GynBirth ,1<13 ,no injury,Yes,Room,High,Muscle weakness,No,No,adverse event,Female
+104,2012,9/7/2012,friday,Afternoon,emergency depart,≥ 90,HEMATOMA,No,Room,Moderate,Mental confusion,No,No,adverse event,Female
+105,2012,9/10/2012,monday,Night,inpatient units ,70<80,no injury,No,Room,High,Trip,Yes,Yes,adverse event,Male
+106,2012,9/12/2012,wednesday,Morning ,inpatient units ,1<13 ,cut,Yes,Room,Moderate,Trip,Yes,No,adverse event,Male
+107,2012,9/13/2012,thursday,Afternoon,inpatient units ,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,Male
+108,2012,9/16/2012,sunday,Night,inpatient units ,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,Male
+109,2012,9/18/2012,tuesday,Afternoon,diagnostic support ,30<40,excoriation,yes/Nurse,Others,Low,Trip,No,No,adverse event,Male
+110,2012,9/18/2012,tuesday,Afternoon,inpatient units ,70<80,cut,Yes,Room,Moderate,Muscle weakness,Yes,No,adverse event,Male
+111,2012,9/19/2012,wednesday,Night,inpatient units ,80<90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,Female
+112,2012,9/21/2012,friday,Afternoon,dialysis,40<50,no injury,No,Bathroom/shower,Moderate,Muscle weakness,No,Yes,adverse event,Female
+113,2012,10/1/2012,monday,Afternoon,emergency depart,70<80,no injury,Yes,Bathroom/shower,High,Hypotension,Yes,No,adverse event,Female
+114,2012,10/8/2012,monday,Night,inpatient units ,1<13 ,EDEMA,Yes,Room,High,Loss of balance,Yes,No,adverse event,Male
+115,2012,10/9/2012,tuesday,Night,inpatient units ,70<80,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,Female
+116,2012,10/12/2012,friday,Morning ,inpatient units ,20<30,Bruising,Yes,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+117,2012,10/12/2012,friday,Morning ,inpatient units ,40<50,no injury,yes/Nurse,Room,High,Equipment,Yes,No,adverse event,Female
+118,2012,10/14/2012,sunday,Night,inpatient units ,60<70,excoriation,Yes,Room,High,Mental confusion,Yes,No,adverse event,Male
+119,2012,10/15/2012,monday,Afternoon,inpatient units ,70<80,no injury,yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,Female
+120,2012,10/15/2012,monday,Morning ,diagnostic support ,70<80,excoriation,yes/Nurse,Others,Moderate,Loss of balance,Yes,No,adverse event,Female
+121,2012,10/17/2012,wednesday,Night,inpatient units ,50<60,EDEMA,No,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+122,2012,10/18/2012,thursday,Morning ,inpatient units ,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,Female
+123,2012,10/19/2012,friday,Morning ,inpatient units ,80<90,cut,No,Room,High,Loss of balance,Yes,Yes,adverse event,Female
+124,2012,10/23/2012,tuesday,Night,inpatient units ,≥ 90,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,Male
+125,2012,10/25/2012,thursday,Afternoon,operating room/recovery,80<90,excoriation,Yes,Waiting room,High,Loss of balance,No,No,adverse event,Male
+126,2012,10/27/2012,saturday,Night,inpatient units ,70<80,excoriation,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,Female
+127,2012,11/2/2012,friday,Night,inpatient units ,60<70,no injury,Yes,Bathroom/shower,Low,Hypotension,No,No,adverse event,Female
+128,2012,11/8/2012,thursday,Night,emergency depart,70<80,no injury,Yes,Room,High,Muscle weakness,Yes,No,adverse event,Female
+129,2012,11/9/2012,friday,Afternoon,operating room/recovery,70<80,no injury,yes/Nurse,Room,High,Hypotension,No,No,adverse event,Male
+130,2012,11/13/2012,tuesday,Night,dialysis,60<70,HEMATOMA,No,Bathroom/shower,Moderate,Loss of balance,No,No,adverse event,Female
+131,2012,11/13/2012,tuesday,Afternoon,inpatient units ,≥ 90,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,Male
+132,2012,11/13/2012,tuesday,Afternoon,inpatient units ,≥ 90,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,Male
+133,2012,11/15/2012,thursday,Morning ,inpatient units ,80<90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,Female
+134,2012,11/16/2012,friday,Night,emergency depart,1<13 ,EDEMA,Yes,Exam room ,Moderate,Loss of balance,No,No,adverse event,Male
+135,2012,11/18/2012,sunday,Afternoon,inpatient units ,70<80,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,Female
+136,2012,11/19/2012,monday,Morning ,inpatient units ,70<80,no injury,No,Room,High,Hypotension,Yes,Yes,adverse event,Female
+137,2012,11/21/2012,wednesday,Morning ,emergency depart,20<30,no injury,yes/Nurse,Others,Low,Hypotension,No,No,adverse event,Male
+138,2012,11/23/2012,friday,Morning ,diagnostic support ,80<90,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,Female
+139,2012,11/24/2012,saturday,Morning ,inpatient units ,70<80,no injury,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,Female
+140,2012,11/26/2012,monday,Night,inpatient units ,60<70,no injury,Yes,Room,Low,Muscle weakness,No,Yes,adverse event,Female
+141,2012,11/30/2012,friday,Morning ,inpatient units ,60<70,no injury,yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,Male
+142,2012,11/30/2012,friday,Night,inpatient units ,70<80,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,Male
+143,2012,12/2/2012,sunday,Morning ,inpatient units ,1<13 ,EDEMA,Yes,Room,Moderate,Human error,Yes,No,adverse event,Female
+144,2012,12/3/2012,monday,Morning ,diagnostic support ,60<70,no injury,yes/Nurse,Others,Moderate,Trip,No,No,adverse event,Female
+145,2012,12/6/2012,thursday,Morning ,inpatient units ,60<70,HEMATOMA,No,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,Female
+146,2012,12/10/2012,monday,Morning ,inpatient units ,80<90,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,Female
+147,2012,12/18/2012,tuesday,Morning ,inpatient units ,70<80,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,Male
+148,2012,12/20/2012,thursday,Afternoon,emergency depart,70<80,no injury,Yes,Bathroom/shower,High,Loss of balance,No,No,adverse event,Female
+1,2013,1/7/2013,monday,Morning ,inpatient units,70<80,HEMATOMA,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+2,2013,1/17/2013,thursday,Night,inpatient units,70<80,HEMATOMA,Yes,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,F
+3,2013,1/18/2013,friday,Morning ,inpatient units,40<50,no injury,Yes,Bathroom/shower,Low,Loss of balance,Yes,No,adverse event,M
+4,2013,1/20/2013,sunday,Night,emergency department,80<90,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,F
+5,2013,1/24/2013,thursday,Night,emergency department,80<90,HEMATOMA,Yes,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+6,2013,1/25/2013,friday,Afternoon,inpatient units,60<70,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+7,2013,1/28/2013,monday,Night,inpatient units,80<90,excoriation,No,Hallway,High,Loss of balance,Yes,No,adverse event,F
+8,2013,2/1/2013,friday,Morning ,emergency department,40<50,no injury,No,Hallway,Moderate,Muscle weakness,No,No,adverse event,F
+9,2013,2/4/2013,monday,Night,inpatient units,40<50,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+10,2013,2/4/2013,monday,Night,inpatient units,70<80,excoriation,Yes,Bathroom/shower,Low,Muscle weakness,No,No,adverse event,
+11,2013,2/5/2013,tuesday,Night,inpatient units,20<30,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+12,2013,2/15/2013,friday,Morning ,inpatient units,70<80,cut,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+13,2013,2/17/2013,sunday,Afternoon,emergency department,60<70,EDEMA,Yes,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,F
+14,2013,2/25/2013,monday,Morning ,inpatient units,80<90,cut,Yes,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+15,2013,2/26/2013,tuesday,Morning ,inpatient units,60<70,cut,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+16,2013,3/1/2013,friday,Night,inpatient units,60<70,no injury,Yes/Family,Room,High,Hypotension,Yes,No,adverse event,F
+17,2013,3/3/2013,sunday,Morning ,inpatient units,70<80,cut,yes/Physician,Room,Moderate,Loss of balance,No,No,adverse event,F
+18,2013,3/3/2013,sunday,Night,emergency department,80<90,cut,No,Room,High,Loss of balance,Yes,Yes,serious adverse event,F
+19,2013,3/9/2013,saturday,Night,inpatient units,30<40,no injury,Yes/Family,Bathroom/shower,Low,Loss of balance,Yes,Yes,adverse event,M
+20,2013,3/11/2013,monday,Afternoon,Ob&Gyn/Birth,< 1,no injury,Yes/Family,Outpatient aradverse event,High,Human error,No,No,adverse event,F
+21,2013,3/17/2013,sunday,Night,Ob&Gyn/Birth,30<40,no injury,Yes/Family,Bathroom/shower,Low,Hypotension,No,No,adverse event,F
+22,2013,3/22/2013,friday,Afternoon,inpatient units,20<30,no injury,yes/Nurse,Hallway,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+23,2013,3/23/2013,saturday,Morning ,inpatient units,50<60,HEMATOMA,Yes,Bathroom/shower,Moderate,Slip,No,Yes,adverse event,F
+24,2013,3/30/2013,saturday,Night,inpatient units,20<30,no injury,Yes/Family,Room,Moderate,Hypotension,No,No,adverse event,F
+25,2013,4/1/2013,monday,Morning ,inpatient units,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,No,adverse event,M
+26,2013,4/3/2013,wednesday,Night,inpatient units,≥ 90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,No,adverse event,M
+27,2013,4/6/2013,saturday,Night,inpatient units,80<90,cut,Yes/Family,Room,Moderate,Mental confusion,Yes,No,adverse event,M
+28,2013,4/8/2013,monday,Afternoon,inpatient units,13<20,Bruising,No,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+29,2013,4/9/2013,tuesday,Night,inpatient units,20<30,no injury,Yes/Family,Room,Moderate,Hypotension,Yes,Yes,adverse event,F
+30,2013,4/9/2013,tuesday,Afternoon,emergency department,50<60,no injury,yes/Nurse,Outpatient aradverse event,High, Equipment,No,No,adverse event,F
+31,2013,4/9/2013,tuesday,Morning ,emergency department,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+32,2013,4/14/2013,sunday,Morning ,inpatient units,80<90,no injury,Yes/Family,Room,High,Human error,Yes,Yes,adverse event,F
+33,2013,4/15/2013,monday,Morning ,inpatient units,80<90,cut,No,Room,High,Loss of balance,Yes,No,Sentinel event,F
+34,2013,4/16/2013,tuesday,Morning ,emergency department,1<13,no injury,Yes/Family,Room,Moderate,Human error,Yes,No,adverse event,F
+35,2013,4/17/2013,wednesday,Morning ,Ob&Gyn/Birth,20<30,no injury,Yes/Family,Bathroom/shower,Moderate,Hypotension,No,No,adverse event,F
+36,2013,4/21/2013,sunday,Morning ,inpatient units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+37,2013,4/24/2013,wednesday,Morning ,inpatient units,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,M
+38,2013,4/24/2013,wednesday,Morning ,inpatient units,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,M
+39,2013,4/27/2013,saturday,Afternoon,inpatient units,20<30,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+40,2013,4/29/2013,monday,Morning ,inpatient units,70<80,no injury,yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+41,2013,5/3/2013,friday,Morning ,inpatient units,60<70,HEMATOMA,No,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+42,2013,5/3/2013,friday,Morning ,inpatient units,70<80,cut,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+43,2013,5/6/2013,monday,Night,inpatient units,50<60,excoriation,No,Room,High,Muscle weakness,No,No,adverse event,F
+44,2013,5/6/2013,monday,Night,inpatient units,60<70,excoriation,Yes/Family,Room,High,Muscle weakness,Yes,No,adverse event,M
+45,2013,5/8/2013,wednesday,Morning ,inpatient units,60<70,no injury,Yes/Family,Room,Moderate,Slip,Yes,No,adverse event,F
+46,2013,5/11/2013,saturday,Morning ,emergency department,< 1,Head trauma ,Yes/Family,Exam room ,High,Human error,No,No,serious adverse event,F
+47,2013,5/13/2013,monday,Night,inpatient units,80<90,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+48,2013,5/16/2013,thursday,Morning ,diagnostic support,20<30,excoriation,Yes/Family,Outpatient aradverse event,Moderate,Hypotension,No,No,adverse event,M
+49,2013,5/16/2013,thursday,Afternoon,inpatient units,1<13,no injury,Yes/Family,Room,High,Loss of balance,Yes,No,adverse event,F
+50,2013,5/16/2013,thursday,Afternoon,emergency department,80<90,no injury,No,Hallway,High,Loss of balance,Yes,No,adverse event,F
+51,2013,5/25/2013,saturday,Morning ,inpatient units,50<60,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+52,2013,5/26/2013,sunday,Night,emergency department,70<80,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+53,2013,5/27/2013,monday,Night,inpatient units,≥ 90,excoriation,No,Bathroom/shower,High,Slip,Yes,No,adverse event,F
+54,2013,5/28/2013,tuesday,Night,inpatient units,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+55,2013,5/28/2013,tuesday,Morning ,inpatient units,≥ 90,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+56,2013,5/31/2013,friday,Night,inpatient units,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+57,2013,5/31/2013,friday,Night,inpatient units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+58,2013,6/3/2013,monday,Night,inpatient units,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+59,2013,6/4/2013,tuesday,Morning ,inpatient units,40<50,Bruising,yes/Nurse,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,M
+60,2013,6/4/2013,tuesday,Morning ,inpatient units,70<80,no injury,No,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+61,2013,6/5/2013,wednesday,Night,inpatient units,70<80,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,F
+62,2013,6/12/2013,wednesday,Night,inpatient units,50<60,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,F
+63,2013,6/14/2013,friday,Night,inpatient units,60<70,excoriation,Yes/Family,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+64,2013,6/15/2013,saturday,Night,inpatient units,60<70,no injury,Yes/Family,Hallway,High,Muscle weakness,Yes,Yes,adverse event,F
+65,2013,6/15/2013,saturday,Afternoon,inpatient units,60<70,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+66,2013,6/16/2013,sunday,Morning ,inpatient units,60<70,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+67,2013,6/21/2013,friday,Night,inpatient units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+68,2013,6/27/2013,thursday,Night,emergency department,80<90,no injury,Yes/Family,Bathroom/shower,High,Equipment,Yes,Yes,adverse event,M
+69,2013,6/29/2013,saturday,Night,inpatient units,80<90,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+70,2013,7/1/2013,monday,Morning ,inpatient units,60<70,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+71,2013,7/5/2013,friday,Night,inpatient units,70<80,excoriation,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+72,2013,7/5/2013,friday,Morning ,inpatient units,70<80,no injury,Yes,Surgical table,Moderate,Sedation,No,Yes,serious adverse event,F
+73,2013,7/6/2013,saturday,Morning ,inpatient units,40<50,no injury,Yes,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+74,2013,7/7/2013,sunday,Night,inpatient units,70<80,no injury,Yes,Room,Moderate,Slip,Yes,No,adverse event,F
+75,2013,7/9/2013,tuesday,Night,inpatient units,70<80,cut,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+76,2013,7/12/2013,friday,Night,dialysis,30<40,no injury,No,Waiting room,Moderate,Loss of balance,Yes,No,adverse event,M
+77,2013,7/13/2013,saturday,Night,inpatient units,80<90,no injury,Yes,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,M
+78,2013,7/13/2013,saturday,Afternoon,inpatient units,70<80,excoriation,Yes,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,M
+79,2013,7/16/2013,tuesday,Afternoon,inpatient units,70<80,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+80,2013,7/18/2013,thursday,Morning ,inpatient units,70<80,no injury,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,F
+81,2013,7/19/2013,friday,Morning ,inpatient units,80<90,excoriation,Yes,Room,High,Loss of balance,Yes,No,adverse event,M
+82,2013,7/21/2013,sunday,Night,inpatient units,70<80,excoriation,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+83,2013,7/21/2013,sunday,Afternoon,Ob&Gyn/Birth,30<40,no injury,Yes,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+84,2013,7/21/2013,sunday,Night,inpatient units,80<90,no injury,Yes,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+85,2013,7/22/2013,monday,Afternoon,diagnostic support,70<80,no injury,No,Waiting room,Moderate,Slip,No,No,adverse event,F
+86,2013,7/23/2013,tuesday,Night,inpatient units,80<90,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,M
+87,2013,7/23/2013,tuesday,Morning ,inpatient units,80<90,no injury,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+88,2013,7/23/2013,tuesday,Afternoon,inpatient units,50<60,no injury,Yes,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+89,2013,7/24/2013,wednesday,Night,inpatient units,50<60,no injury,Yes,Room,Moderate,Hypotension,Yes,No,adverse event,M
+90,2013,7/25/2013,thursday,Afternoon,inpatient units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+91,2013,7/25/2013,thursday,Morning ,inpatient units,50<60,no injury,No,Room,Low,Slip,No,No,adverse event,M
+92,2013,7/28/2013,sunday,Morning ,emergency department,60<70,HEMATOMA,Yes,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+93,2013,7/30/2013,tuesday,Afternoon,diagnostic support,80<90,no injury,Yes,Medical office,Moderate,Slip,No,No,adverse event,M
+94,2013,7/30/2013,tuesday,Afternoon,inpatient units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+95,2013,8/1/2013,thursday,Afternoon,inpatient units,≥ 90,no injury,Yes,Room,High,Slip,Yes,No,adverse event,F
+96,2013,8/2/2013,friday,Night,inpatient units,40<50,EDEMA,Yes,Room,High,Slip,Yes,No,adverse event,F
+97,2013,8/6/2013,tuesday,Morning ,Oncology,80<90,no injury,Yes,Bathroom/shower,Moderate,Loss of balance,No,No,adverse event,F
+98,2013,8/9/2013,friday,Night,diagnostic support,80<90,HEMATOMA,No,Waiting room,High,Loss of balance,No,No,adverse event,F
+99,2013,8/13/2013,tuesday,Night,inpatient units,60<70,excoriation,Yes,Room,High,Loss of balance,No,No,adverse event,M
+100,2013,8/17/2013,saturday,Morning ,inpatient units,60<70,cut,No,Room,High,Mental confusion,Yes,No,adverse event,M
+101,2013,8/19/2013,monday,Afternoon,emergency department,70<80,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,F
+102,2013,8/25/2013,sunday,Afternoon,inpatient units,80<90,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+103,2013,8/30/2013,saturday,Night,inpatient units,80<90,no injury,Yes,Room,High,Trip,Yes,Yes,adverse event,M
+104,2013,8/30/2013,saturday,Afternoon,inpatient units,80<90,excoriation,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+105,2013,8/31/2013,sunday,Afternoon,inpatient units,70<80,Fracture ,Yes,Room,High,Loss of balance,Yes,Yes,serious adverse event,M
+106,2013,9/5/2013,thursday,Night,emergency department,70<80,cut,No,Room,High,Slip,Yes,No,adverse event,M
+107,2013,9/5/2013,thursday,Morning ,A1,80<90,excoriation,Yes,Room,Moderate,Slip,No,No,adverse event,M
+108,2013,9/5/2013,thursday,Afternoon,diagnostic support,70<80,excoriation,Yes,Room,Moderate,Trip,No,No,adverse event,F
+109,2013,9/7/2013,saturday,Night,inpatient units,80<90,cut,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+110,2013,9/8/2013,sunday,Afternoon,inpatient units,≥ 90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+111,2013,9/8/2013,sunday,Afternoon,inpatient units,70<80,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+112,2013,9/12/2013,thursday,Afternoon,inpatient units,80<90,no injury,Yes,Room,High,Slip,Yes,No,adverse event,F
+113,2013,9/15/2013,sunday,Afternoon,emergency department,20<30,no injury,No,Hallway,Low,Trip,No,No,adverse event,F
+114,2013,9/19/2013,thursday,Morning ,inpatient units,20<30,no injury,Yes,Hallway,Low,Slip,Yes,No,adverse event,M
+115,2013,9/23/2013,monday,Afternoon,inpatient units,60<70,Bruising,Yes,Room,Moderate,Trip,Yes,No,adverse event,M
+116,2013,9/25/2013,wednesday,Morning ,inpatient units,70<80,Fracture ,Yes,Hallway,High,Slip,No,No,serious adverse event,F
+117,2013,9/27/2013,friday,Afternoon,inpatient units,20<30,no injury,Yes,Room,Low,Muscle weakness,Yes,Yes,adverse event,M
+118,2013,9/28/2013,saturday,Afternoon,emergency department,70<80,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+119,2013,9/30/2013,monday,Morning ,inpatient units,70<80,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,M
+120,2013,10/4/2013,friday,Night,Pediatric/neonatal ICU,1<13,no injury,Yes,Room,High,Trip,Yes,No,adverse event,F
+121,2013,10/6/2013,sunday,Morning ,inpatient units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+122,2013,10/13/2013,sunday,Night,inpatient units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+123,2013,10/14/2013,monday,Afternoon,inpatient units,20<30,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,F
+124,2013,10/15/2013,tuesday,Morning ,inpatient units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+125,2013,10/16/2013,wednesday,Night,inpatient units,60<70,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,M
+126,2013,10/18/2013,friday,Night,inpatient units,80<90,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+127,2013,10/19/2013,saturday,Morning ,inpatient units,60<70,no injury,Yes,Room,Moderate,Mental confusion,Yes,No,adverse event,M
+128,2013,10/19/2013,saturday,Morning ,inpatient units,60<70,HEMATOMA,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+129,2013,10/21/2013,monday,Morning ,inpatient units,70<80,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+130,2013,10/22/2013,tuesday,Night,inpatient units,80<90,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,F
+131,2013,10/23/2013,wednesday,Morning ,inpatient units,20<30,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+132,2013,10/25/2013,friday,Night,inpatient units,70<80,excoriation,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+133,2013,10/26/2013,saturday,Night,inpatient units,70<80,HEMATOMA,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+134,2013,11/1/2013,friday,Morning ,inpatient units,30<40,no injury,Yes,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+135,2013,11/2/2013,saturday,Morning ,inpatient units,≥ 90,excoriation,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+136,2013,11/4/2013,monday,Morning ,inpatient units,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+137,2013,11/6/2013,wednesday,Morning ,inpatient units,50<60,no injury,Yes,Hallway,High,Muscle weakness,Yes,Yes,adverse event,F
+138,2013,11/6/2013,wednesday,Afternoon,diagnostic support,50<60,no injury,Yes,Waiting room,Low,Equipment,No,No,adverse event,F
+139,2013,11/6/2013,wednesday,Night,inpatient units,50<60,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,F
+140,2013,11/8/2013,friday,Morning ,inpatient units,80<90,HEMATOMA,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+141,2013,11/11/2013,monday,Morning ,diagnostic support,20<30,no injury,Yes,Medical office,High,Trip,No,No,adverse event,M
+142,2013,11/12/2013,tuesday,Morning ,inpatient units,70<80,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+143,2013,11/12/2013,tuesday,Afternoon,inpatient units,60<70,no injury,No,Room,Moderate,Hypotension,Yes,Yes,adverse event,F
+144,2013,11/14/2013,thursday,Morning ,inpatient units,80<90,excoriation,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+145,2013,11/16/2013,saturday,Morning ,inpatient units,80<90,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,M
+146,2013,11/20/2013,wednesday,Morning ,inpatient units,40<50,no injury,Yes,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+147,2013,11/21/2013,thursday,Afternoon,inpatient units,70<80,excoriation,Yes,Room,High,Loss of balance,Yes,No,adverse event,M
+148,2013,11/23/2013,saturday,Afternoon,inpatient units,80<90,EDEMA,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+149,2013,11/24/2013,sunday,Night,inpatient units,70<80,Bruising,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+150,2013,12/1/2013,sunday,Morning ,inpatient units,80<90,no injury,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,F
+151,2013,12/3/2013,tuesday,Night,inpatient units,≥ 90,cut,Yes,Room,High,Mental confusion,Yes,No,adverse event,M
+152,2013,12/4/2013,wednesday,Afternoon,inpatient units,60<70,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,F
+153,2013,12/6/2013,friday,Morning ,diagnostic support,50<60,no injury,No,Bathroom/shower,Moderate,Hypotension,No,Yes,adverse event,F
+154,2013,12/8/2013,sunday,Afternoon,inpatient units,80<90,excoriation,Yes,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+155,2013,12/10/2013,tuesday,Night,emergency department,60<70,no injury,No,Room,Moderate,Loss of balance,Yes,No,adverse event,M
+156,2013,12/11/2013,wednesday,Afternoon,diagnostic support,40<50,excoriation,No,Exam room ,Moderate,Loss of balance,No,Yes,adverse event,M
+157,2013,12/13/2013,friday,Night,inpatient units,≥ 90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,F
+158,2013,12/14/2013,saturday,Night,inpatient units,60<70,no injury,Yes,Room,Low,Muscle weakness,Yes,Yes,adverse event,F
+159,2013,12/15/2013,sunday,Morning ,inpatient units,80<90,no injury,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+160,2013,12/21/2013,saturday,Afternoon,inpatient units,40<50,Fracture ,No,Room,Moderate,Loss of balance,Yes,Yes,serious adverse event,M
+161,2013,12/22/2013,sunday,Night,Ob&Gyn/Birth,30<40,no injury,Yes,Bathroom/shower,Moderate,Hypotension,No,No,adverse event,F
+162,2013,12/23/2013,monday,Morning ,inpatient units,80<90,Spinal cord injury,Yes,Bathroom/shower,High,Muscle weakness,Yes,Yes,serious adverse event,M
+1,2014,1/4/2014,saturday,Morning ,inpatient units,60<70,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+2,2014,1/4/2014,saturday,Morning ,inpatient units,20<30,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+3,2014,1/6/2014,monday,Morning ,inpatient units,60<70,no injury,Yes/Family,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,M
+4,2014,1/7/2014,tuesday,Night,inpatient units,80<90,no injury,No,Hallway,High,Muscle weakness,Yes,No,adverse event,M
+5,2014,1/8/2014,wednesday,Morning ,inpatient units,60<70,cut,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+6,2014,1/11/2014,saturday,Night,inpatient units,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+7,2014,1/14/2014,tuesday,Afternoon,inpatient units,70<80,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+8,2014,1/17/2014,friday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+9,2014,1/18/2014,saturday,Night,inpatient units,80<90,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+10,2014,1/19/2014,sunday,Night,inpatient units,70<80,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+11,2014,1/21/2014,tuesday,Night,inpatient units,50<60,no injury,No,Room,Moderate,Loss of balance,No,No,adverse event,M
+12,2014,1/22/2014,wednesday,Night,inpatient units,80<90,excoriation,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+13,2014,1/27/2014,monday,Night,inpatient units,80<90,HEMATOMA,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+14,2014,1/28/2014,tuesday,Night,inpatient units,70<80,Fracture,Yes/Family,Room,High,Mental confusion,Yes,Yes,serious adverse event,M
+15,2014,1/29/2014,wednesday,Afternoon,Adult ACI,60<70,EDEMA,Yes/Nurse,Room,High,Loss of balance,Yes,No,adverse event,F
+16,2014,1/30/2014,thursday,Night,Operating room/recovery,40<50,cut,No,Exam room ,Moderate,Hypotension,No,No,adverse event,F
+17,2014,1/30/2014,thursday,Afternoon,Comunity,60<70,no injury,Yes/Family,Exam room ,Moderate,Muscle weakness,Yes,No,adverse event,M
+18,2014,1/30/2014,thursday,Night,inpatient units,70<80,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+19,2014,2/2/2014,sunday,Night,inpatient units,60<70,no injury,No,Room,Moderate,Slip,Yes,Yes,adverse event,F
+20,2014,2/2/2014,sunday,Afternoon,inpatient units,≥ 90,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+21,2014,5/3/2014,monday,Night,inpatient units,70<80,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+22,2014,2/5/2014,wednesday,Night,inpatient units,80<90,HEMATOMA,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+23,2014,2/8/2014,saturday,Night,inpatient units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+24,2014,2/11/2014,tuesday,Night,Ob&Gyn/Birth,30<40,no injury,Yes/Family,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+25,2014,2/12/2014,wednesday,Night,inpatient units,40<50,excoriation,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+26,2014,2/14/2014,friday,Night,inpatient units,80<90,HEMATOMA,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+27,2014,2/15/2014,saturday,Afternoon,inpatient units,50<60,no injury,No,Bathroom/shower,Moderate,Slip,No,Yes,adverse event,M
+28,2014,2/16/2014,sunday,Afternoon,Ob&Gyn/Birth,30<40,no injury,Yes/Nurse,Bathroom/shower,Moderate,Hypotension,No,No,adverse event,F
+29,2014,2/17/2014,monday,Night,inpatient units,50<60,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+30,2014,2/19/2014,wednesday,Night,inpatient units,40<50,no injury,No,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+31,2014,2/19/2014,wednesday,Morning ,inpatient units,80<90,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+32,2014,2/19/2014,wednesday,Morning ,diagnostic support,60<70,excotiation,Yes/Family,Waiting room,Low,Slip,No,Yes,adverse event,F
+33,2014,2/20/2014,thursday,Night,inpatient units,60<70,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,M
+34,2014,2/21/2014,friday,Night,inpatient units,40<50,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+35,2014,2/21/2014,friday,Afternoon,inpatient units,1<13,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,F
+36,2014,2/22/2014,saturday,Afternoon,inpatient units,≥ 90,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+37,2014,2/24/2014,monday,Morning ,inpatient units,50<60,cut,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+38,2014,2/28/2014,friday,Night,inpatient units,80<90,Bruising,Yes/Family,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,M
+39,2014,3/1/2014,saturday,Morning ,inpatient units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+40,2014,3/1/2014,saturday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+41,2014,3/8/2014,saturday,Night,inpatient units,70<80,HEMATOMA,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+42,2014,3/8/2014,saturday,Night,inpatient units,80<90,Fracture,Yes/Family,Bathroom/shower,High,Muscle weakness,Yes,Yes, serious adverse event,M
+43,2014,3/9/2014,sunday,Morning ,inpatient units,80<90,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+44,2014,3/10/2014,friday,Morning ,inpatient units,80<90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+45,2014,3/16/2014,sunday,Morning ,inpatient units,50<60,no injury,Yes/Family,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+46,2014,3/18/2014,tuesday,Night,inpatient units,30<40,no injury,Yes/Family,Room,Low,Loss of balance,Yes,No,adverse event,M
+47,2014,3/18/2014,tuesday,Night,inpatient units,80<90,cut,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+48,2014,3/19/2014,wednesday,Morning ,inpatient units,80<90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+49,2014,3/20/2014,thursday,Morning ,inpatient units,60<70,no injury,Yes/Nurse,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,f
+50,2014,3/21/2014,friday,Morning ,dialysis,70<80,Fracture,Yes/Nurse,Room,Moderate,Loss of balance,Yes,Yes,serious adverse event,F
+51,2014,3/27/2014,thursday,Night,inpatient units,30<40,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,F
+52,2014,3/28/2014,friday,Morning ,inpatient units,80<90,excoriation,Yes/Family,Bathroom/shower,High,Hypotension,Yes,No,adverse event,F
+53,2014,3/30/2014,sunday,Afternoon,inpatient units,40<50,excoriation,Yes/Family,Room,Low,Trip,Yes,Yes,adverse event,F
+54,2014,3/30/2014,sunday,Night,inpatient units,40<50,no injury,No,Room,Moderate,Slip,Yes,Yes,adverse event,F
+55,2014,4/1/2014,tuesday,Afternoon,inpatient units,80<90,no injury,yes/Physical therapist,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+56,2014,4/1/2014,tuesday,Night,inpatient units,80<90,HEMATOMA,yes/Caregiver,Room,High,Loss of balance,Yes,Yes,Sentinel event,M
+57,2014,4/8/2014,tuesday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Room,High,Slip,Yes,No,adverse event,M
+58,2014,4/11/2014,friday,Morning ,inpatient units,30<40,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+59,2014,4/12/2014,saturday,Morning ,inpatient units,50<60,no injury,Yes/Nurse,Bathroom/shower,Low,Loss of balance,Yes,Yes,adverse event,F
+60,2014,4/12/2014,saturday,Night,inpatient units,≥ 90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+61,2014,4/13/2014,sunday,Morning ,inpatient units,30<40,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+62,2014,4/14/2014,monday,Morning ,inpatient units,50<60,EDEMA,No,Room,Moderate,Trip,Yes,No,adverse event,F
+63,2014,4/16/2014,wednesday,Night,emergency department,60<70,no injury,No,Room,Moderate,Slip,Yes,No,adverse event,M
+64,2014,4/17/2014,thursday,Morning ,inpatient units,40<50,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+65,2014,4/17/2014,thursday,Afternoon,inpatient units,50<60,no injury,yes/Physical therapist,Exam rom ,High,Muscle weakness,Yes,Yes,adverse event,F
+66,2014,4/23/2014,wednesday,Night,inpatient units,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+67,2014,4/24/2014,thursday,Afternoon,diagnostic support,70<80,no injury,No,Exam room ,Moderate,Loss of balance,No,No,adverse event,M
+68,2014,4/24/2014,thursday,Night,emergency department,≥ 90,no injury,yes/Caregiver,Room,High,Loss of balance,Yes,No,adverse event,F
+69,2014,4/28/2014,monday,Afternoon,Operating room/recovery,40<50,no injury,No,Exam rom ,Low,Hypotension,No,No,adverse event,F
+70,2014,4/29/2014,tuesday,Afternoon,inpatient units,70<80,excoriation,Yes/Nurse,Room,High,Loss of balance,Yes,Yes,adverse event,M
+71,2014,5/1/2014,thursday,Night,inpatient units,50<60,no injury,yes/Caregiver,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+72,2014,5/2/2014,friday,Night,inpatient units,70<80,excoriation,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+73,2014,5/2/2014,friday,Morning ,inpatient units,80<90,no injury,yes/Caregiver,Room,High,Mental confusion,Yes,Yes,adverse event,M
+74,2014,5/6/2014,tuesday,Morning ,Comunity,70<80,excoriation,Yes/Family,Exam rom ,Moderate,Trip,No,No,adverse event,F
+75,2014,5/7/2014,wednesday,Morning ,inpatient units,40<50,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+76,2014,5/8/2014,thursday,Night,inpatient units,40<50,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+77,2014,5/9/2014,friday,Morning ,inpatient units,60<70,no injury,yes/Physical therapist,Exam rom ,Moderate,Muscle weakness,No,Yes,adverse event,M
+78,2014,5/9/2014,friday,Afternoon,Comunity,30<40,no injury,Yes/Nurse,Hallway,Low,Hypotension,No,No,adverse event,F
+79,2014,5/11/2014,sunday,Night,inpatient units,≥ 90,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+80,2014,5/11/2014,sunday,Morning ,inpatient units,≥ 90,excoriation,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+81,2014,5/14/2014,wednesday,Night,inpatient units,70<80,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+82,2014,5/18/2014,sunday,Afternoon,inpatient units,80<90,no injury,Yes/Family,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+83,2014,5/20/2014,tuesday,Afternoon,diagnostic support,50<60,excoriation,yes/Caregiver,Others,Moderate,Trip,No,No,adverse event,F
+84,2014,5/20/2014,tuesday,Afternoon,Operating room/recovery,50<60,no injury,Yes/Nurse,Surgical table,High,Mental confusion,Yes,Yes,adverse event,M
+85,2014,5/20/2014,tuesday,Night,emergency department,80<90,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,M
+86,2014,5/21/2014,wednesday,Night,inpatient units,70<80,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+87,2014,5/22/2014,thursday,Night,inpatient units,80<90,no injury,Yes/Nurse,Room,High,Loss of balance,Yes,Yes,adverse event,M
+88,2014,5/25/2014,sunday,Afternoon,inpatient units,60<70,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+89,2014,5/27/2014,tuesday,Morning ,inpatient units,50<60,excoriation,No,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+90,2014,5/27/2014,tuesday,Morning ,diagnostic support,70<80,no injury,No,Exam room ,Moderate,Loss of balance,Yes,Yes,adverse event,M
+91,2014,5/28/2014,wednesday,Morning ,inpatient units,1<13,no injury,Yes/Family,Room,High,Loss of balance,Yes,No,adverse event,F
+92,2014,5/28/2014,wednesday,Morning ,inpatient units,≥ 90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+93,2014,5/28/2014,wednesday,Afternoon,inpatient units,70<80,excoriation,No,Room,High,Slip,Yes,Yes,adverse event,M
+94,2014,6/1/2014,sunday,Afternoon,inpatient units,70<80,excoriation,yes/Caregiver,Room,High,Muscle weakness,Yes,No,adverse event,M
+95,2014,6/2/2014,monday,Night,inpatient units,40<50,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,M
+96,2014,6/2/2014,monday,Night,inpatient units,60<70,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+97,2014,6/5/2014,thursday,Afternoon,inpatient units,1<13,HEMATOMA,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+98,2014,6/7/2014,saturday,Morning ,diagnostic support,40<50,no injury,Yes/Nurse,Exam rom ,Low,Loss of balance,No,Yes,adverse event,M
+99,2014,6/10/2014,tuesday,Morning ,inpatient units,70<80,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+100,2014,6/10/2014,tuesday,Afternoon,emergency department,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,M
+101,2014,6/12/2014,thursday,Afternoon,emergency department,70<80,HEMATOMA,No,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+102,2014,6/13/2014,friday,Morning ,inpatient units,60<70,Bruising,No,Bathroom/shower,Moderate,Trip,Yes,Yes,adverse event,F
+103,2014,6/14/2014,saturday,Morning ,inpatient units,80<90,cut,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+104,2014,6/19/2014,thursday,Morning ,inpatient units,60<70,EDEMA,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,M
+105,2014,6/22/2014,sunday,Night,inpatient units,60<70,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+106,2014,6/26/2014,thursday,Morning ,inpatient units,80<90,excoriation,yes/Caregiver,Room,Moderate,Slip,Yes,Yes,adverse event,M
+107,2014,6/26/2014,thursday,Morning ,inpatient units,60<70,Bruising,Yes/Family,Bathroom/shower,Low,Slip,No,No,adverse event,M
+108,2014,6/27/2014,friday,Night,emergency department,80<90,excoriation,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+109,2014,7/1/2014,tuesday,Morning ,inpatient units,60<70,excoriation,yes/Physical therapist ,Room,Moderate,Muscle weakness,Yes,No,adverse event,M
+110,2014,7/6/2014,sunday,Morning ,inpatient units,40<50,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+111,2014,7/6/2014,sunday,Morning ,inpatient units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+112,2014,7/9/2014,wednesday,Morning ,inpatient units,70<80,no injury,Yes/Family,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,F
+113,2014,7/10/2014,thursday,Morning ,emergency department,80<90,excoriation,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+114,2014,7/11/2014,friday,Afternoon,inpatient units,80<90,no injury,Yes/Nurse,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+115,2014,7/13/2014,sunday,Night,inpatient units,80<90,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+116,2014,7/15/2014,tuesday,Night,emergency department,80<90,excoriation,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+117,2014,7/17/2014,thursday,Morning ,dialysis,70<80,no injury,No,Room,Moderate,Trip,Yes,Yes,adverse event,F
+118,2014,7/18/2014,friday,Morning ,diagnostic support,70<80,no injury,No,Room,High,Muscle weakness,Yes,No,adverse event,M
+119,2014,7/20/2014,sunday,Morning ,inpatient units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+120,2014,7/23/2014,wednesday,Night,inpatient units,70<80,no injury,No,Room,Moderate,Slip,Yes,No,adverse event,M
+121,2014,7/24/2014,thursday,Afternoon,inpatient units,50<60,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+122,2014,7/25/2014,friday,Morning ,inpatient units,30<40,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+123,2014,7/29/2014,tuesday,Afternoon,diagnostic support,80<90,HEMATOMA,Yes/Family,Exam rom ,High,Loss of balance,No,No,adverse event,F
+124,2014,7/29/2014,tuesday,Night,inpatient units,30<40,no injury,Yes/Nurse,Room,Moderate,Hypotension,Yes,No,adverse event,F
+125,2014,8/7/2014,thursday,Afternoon,inpatient units,70<80,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,M
+126,2014,8/7/2014,thursday,Afternoon,inpatient units,80<90,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+127,2014,8/7/2014,thursday,Morning ,inpatient units,30<40,cut,Yes/Family,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+128,2014,8/22/2014,friday,Morning ,inpatient units,80<90,Fracture,yes/Caregiver,Room,High,Hypotension,Yes,Yes,serious adverse event,F
+129,2014,8/25/2014,monday,Afternoon,Operating room/recovery,80<90,no injury,Yes/Nurse,Recovery room ,Moderate,Slip,No,Yes,adverse event,F
+130,2014,8/25/2014,monday,Afternoon,Comunity,70<80,no injury,Yes/Family,Hallway,High,Trip,Yes,No,adverse event,F
+131,2014,8/25/2014,monday,Afternoon,inpatient units,60<70,no injury,No,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+132,2014,8/28/2014,thursday,Night,emergency department,80<90,no injury,No,Room,Moderate,Mental confusion,Yes,Yes,adverse event,M
+133,2014,8/29/2014,friday,Afternoon,diagnostic support,70<80,Fracture,No,Bathroom/shower,Moderate,Trip,Yes,No,serious adverse event,F
+134,2014,9/4/2014,thursday,Night,inpatient units,50<60,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+135,2014,9/9/2014,tuesday,Morning ,inpatient units,80<90,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+136,2014,9/9/2014,tuesday,Morning ,inpatient units,≥ 90,no injury,No,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+137,2014,9/9/2014,tuesday,Night,emergency department,60<70,no injury,Yes/Nurse,Exam room ,Moderate,Loss of balance,Yes,No,adverse event,F
+138,2014,9/11/2014,thursday,Night,inpatient units,70<80,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+139,2014,9/13/2014,saturday,Afternoon,inpatient units,50<60,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+140,2014,9/15/2014,monday,Afternoon,inpatient units,60<70,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+141,2014,9/17/2014,wednesday,Night,emergency department,40<50,no injury,Yes/Nurse,Exam room ,High,Mental confusion,Yes,Yes,adverse event,M
+142,2014,9/17/2014,wednesday,Morning ,inpatient units,≥ 90,excoriation,Yes/Nurse,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+143,2014,9/17/2014,wednesday,Morning ,inpatient units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+144,2014,9/18/2014,thursday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+145,2014,9/20/2014,saturday,Morning ,inpatient units,80<90,no injury,Yes/Nurse,Room,High,Hypotension,Yes,Yes,adverse event,F
+146,2014,9/23/2014,tuesday,Afternoon,inpatient units,80<90,no injury,yes/Caregiver,Room,High,Mental confusion,Yes,Yes,adverse event,F
+147,2014,9/24/2014,wednesday,Night,emergency department,70<80,no injury,No,Room,Moderate,Slip,Yes,Yes,adverse event,M
+148,2014,9/25/2014,thursday,Night,Operating room/recovery,50<60,excoriation,Yes/Nurse,Recovery room ,Moderate,Muscle weakness,No,Yes,adverse event,F
+149,2014,9/25/2014,thursday,Night,inpatient units,70<80,no injury,yes/Caregiver,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+150,2014,9/26/2014,friday,Afternoon,inpatient units,40<50,no injury,No,Room,High,Muscle weakness,Yes,No,adverse event,F
+151,2014,9/28/2014,sunday,Morning ,Pediatric/neonatal ICU,30<40,cut,Yes/Nurse,Room,Moderate,Hypotension,Yes,No,adverse event,F
+152,2014,9/29/2014,monday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+153,2014,9/30/2014,tuesday,Night,inpatient units,70<80,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+154,2014,10/2/2014,thursday,Night,inpatient units,80<90,EDEMA,Yes/Family,Room,High,Mental confusion,Yes,No,adverse event,M
+155,2014,10/6/2014,monday,Night,Adult ICU,50<60,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+156,2014,10/6/2014,monday,Afternoon,diagnostic support,60<70,no injury,Yes/Family,Surgical prep aradverse event ,Moderate,Loss of balance,Yes,Yes,adverse event,F
+157,2014,10/9/2014,thursday,Afternoon,Operating room/recovery,60<70,no injury,Yes/Nurse,Recovery room ,Moderate,Slip,Yes,No,adverse event,F
+158,2014,10/11/2014,saturday,Morning ,inpatient units,70<80,no injury,No,Room,Moderate,Slip,Yes,Yes,adverse event,F
+159,2014,10/13/2014,sunday,Night,inpatient units,50<60,EDEMA,No,Hallway,Moderate,Trip,Yes,No,adverse event,F
+160,2014,10/15/2014,tuesday,Night,inpatient units,80<90,no injury,yes/Caregiver,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+161,2014,10/15/2014,tuesday,Afternoon,diagnostic support,70<80,excoriation,No,Exam room ,Low,Muscle weakness,No,No,adverse event,F
+162,2014,10/18/2014,saturday,Morning ,inpatient units,70<80,no injury,No,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,M
+163,2014,10/23/2014,thursday,Morning ,emergency department,1<13,no injury,Yes/ Family,Triage aradverse event,Low,Trip,No,No,adverse event,F
+164,2014,10/24/2014,friday,Night,diagnostic support,40<50,no injury,No,Waiting room,Low,Muscle weakness,No,No,adverse event,F
+165,2014,10/25/2014,saturday,Night,inpatient units,80<90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+166,2014,10/26/2014,sunday,Afternoon,emergency department,80<90,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+167,2014,10/26/2014,sunday,Afternoon,inpatient units,70<80,cut,Yes/Family,Room,Moderate,Mental confusion,Yes,Yes,adverse event,M
+168,2014,10/31/2014,friday,Morning ,inpatient units,80<90,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+169,2014,10/31/2014,friday,Night,inpatient units,70<80,no injury,Yes/Family,Room,Moderate,Hypotension,Yes,No,adverse event,M
+170,2014,11/4/2014,tuesday,Afternoon,inpatient units,30<40,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+171,2014,11/5/2014,wednesday,Night,inpatient units,70<80,excoriation,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+172,2014,11/5/2014,wednesday,Night,Operating room/recovery,60<70,no injury,Yes/Nurse,Recovery room ,Moderate,Hypotension,Yes,No,adverse event,F
+173,2014,11/5/2014,wednesday,Morning ,inpatient units,70<80,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,No,adverse event,F
+174,2014,11/8/2014,saturday,Night,inpatient units,80<90,excoriation,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+175,2014,11/13/2014,thursday,Night,inpatient units,70<80,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+176,2014,11/14/2014,friday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+177,2014,11/15/2014,saturday,Night,inpatient units,60<70,no injury,Yes/Family,Room,High,Loss of balance,Yes,No,adverse event,M
+178,2014,11/15/2014,saturday,Afternoon,inpatient units,70<80,Fracture,Yes/Family,Room,High,Loss of balance,Yes,No,serious adverse event,F
+179,2014,11/16/2014,sunday,Night,inpatient units,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+180,2014,11/17/2014,monday,Afternoon,Ob&Gyn/Birth,20<30,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+181,2014,11/18/2014,tuesday,Afternoon,inpatient units,70<80,no injury,No,Room,High,Slip,Yes,Yes,adverse event,F
+182,2014,11/20/2014,thursday,Night,inpatient units,70<80,Bruising,Yes/Family,Room,Moderate,Trip,Yes,Yes,adverse event,F
+183,2014,11/27/2014,thursday,Morning ,inpatient units,60<70,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+184,2014,11/29/2014,saturday,Morning ,inpatient units,50<60,excoriation,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+185,2014,12/1/2014,monday,Morning ,inpatient units,70<80,no injury,yes/Physical therapist,Hallway,High,Muscle weakness,Yes,No,adverse event,M
+186,2014,12/4/2014,thursday,Afternoon,inpatient units,70<80,no injury,Yes/Family,Hallway,High,Trip,Yes,No,adverse event,F
+187,2014,12/9/2014,tuesday,Afternoon,inpatient units,60<70,no injury,yes/Caregiver,Room,High,Mental confusion,Yes,Yes,adverse event,F
+188,2014,12/10/2014,wednesday,Night,inpatient units,60<70,no injury,No,Bathroom/shower,Moderate,Mental confusion,Yes,Yes,adverse event,F
+189,2014,12/10/2014,wednesday,Morning ,inpatient units,70<80,HEMATOMA,Yes/Family,Bathroom/shower,High,Slip,Yes,No,adverse event,F
+190,2014,12/12/2014,friday,Morning ,inpatient units,60<70,HEMATOMA,No,Room,Moderate,Trip,Yes,Yes,adverse event,F
+191,2014,12/14/2014,sunday,Night,emergency department,50<60,no injury,No,Room,Moderate,Muscle weakness,No,Yes,adverse event,M
+192,2014,12/14/2014,sunday,Night,inpatient units,80<90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+193,2014,12/16/2014,tuesday,Morning ,inpatient units,40<50,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+194,2014,12/14/2014,sunday,Night,inpatient units,70<80,EDEMA,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+195,2014,12/24/2014,wednesday,Night,inpatient units,40<50,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+196,2014,12/25/2014,thursday,Night,inpatient units,80<90,cut,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+197,2014,12/25/2014,thursday,Night,inpatient units,80<90,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+198,2014,12/25/2014,saturday,Afternoon,adult ICU,80<90,no injury,No,Bathroom/shower,Moderate,Mental confusion,Yes,Yes,adverse event,M
+107,2015,8/19/2015,wednesday,Night,Ob&Gyb/Birth,< 1,Fracture,Yes/Family,Room,Moderate,Human error,Yes,No,seious adverse event,M
+93,2015,7/23/2015,thursday,Afternoon,emergency department,1<13,Bruising,Yes/Family,Waiting room,High,Trip,Yes,No,adverse event,F
+24,2015,3/13/2015,friday,Night,emergency department,1<13,cut,Yes/Family,Hallway,Moderate,Trip,No,No,adverse event,M
+14,2015,2/15/2015,monday,Morning ,inpatint units,1<13,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,M
+26,2015,3/19/2015,thursday,Afternoon,inpatint units,1<13,no injury,Yes/Family,Room,High,Human error,Yes,Yes,adverse event,F
+147,2015,10/22/2015,thursday,Afternoon,inpatint units,1<13,cut,Yes/Family,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+129,2015,9/25/2015,friday,Afternoon,diagnostic support,1<13,no injury,Yes/Family,Vaccination room,Moderate,Trip,Yes,No,adverse event,F
+132,2015,9/30/2015,wednesday,Afternoon,diagnostic support,1<13,excoriation,No,Exam room ,Moderate,Loss of balance,Yes,Yes,adverse event,M
+98,2015,8/4/2015,tuesday,Night,emergency department,1<13,EDEMA,Yes/Family,Waiting room,High,Slip,No,No,adverse event,M
+91,2015,7/20/2015,monday,Afternoon,inpatint units,1<13,no injury,Yes/Nurse,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,M
+36,2015,4/7/2015,tuesday,Afternoon,comunity,20<30,cut,Yes/Family,Exam room ,Low,Loss of balance,No,No,adverse event,M
+35,2015,4/7/2015,tuesday,Morning ,adult ICU,20<30,no injury,Yes/Nurse,Bathroom/shower,Moderate,Hypotension,No,No,adverse event,M
+67,2015,6/16/2015,tuesday,Night,emergency department,20<30,no injury,No,Exam room ,Moderate,Muscle weakness,Yes,No,adverse event,F
+170,2015,12/14/2015,monday,Night,inpatint units,20<30,HEMATOMA ,No,Room,Moderate,Trip,Yes,No,adverse event,F
+130,2015,9/26/2015,saturday,Night,inpatint units,30<40,no injury,Yes/Family,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+44,2015,4/22/2015,wednesday,Night,Ob&Gyb/Birth,30<40,no injury,Yes/Nurse,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+9,2015,1/24/2015,saturday,Afternoon,inpatint units,30<40,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+33,2015,4/1/2015,wednesday,Morning ,inpatint units,30<40,EDEMA,Yes/Family,Room,Moderate,Hypotension,Yes,No,adverse event,M
+168,2015,42349,friday,Night,emergency department,30<40,no injury,Yes/Family,Bathroom/shower,Low,Hypotension,No,No,adverse event,F
+134,2015,10/7/2015,wednesday,Morning ,diagnostic support,30<40,no injury,Yes/Family,Exam rom ,High,Muscle weakness,No,No,adverse event,F
+34,2015,4/2/2015,thursday,Morning ,adult ICU,30<40,no injury,No,Room,High,Mental confusion ,Yes,Yes,adverse event,M
+88,2015,7/15/2015,wednesday,Night,emergency department,40<50,no injury,No,Room,Moderate,Loss of balance,No,Yes,adverse event,F
+79,2015,7/3/2015,friday,Afternoon,diagnostic support,40<50,no injury,No,Exam room ,Low,Hypotension,No,No,adverse event,F
+137,2015,10/11/2015,sunday,Night,inpatint units,40<50,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+87,2015,7/15/2015,wednesday,Afternoon,inpatint units,40<50,no injury,Yes/Nurse,Hallway,Moderate,Slip,Yes,Yes,adverse event,F
+126,2015,9/15/2015,tuesday,Morning ,inpatint units,40<50,cut,Yes/Family,Room,Moderate,Mental confusion,Yes,Yes,adverse event,M
+172,2015,12/17/2015,thursday,Morning ,inpatint units,40<50,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+50,2015,5/4/2015,monday,Afternoon,emergency department,40<50,no injury,No,Hallway,Low,Muscle weakness,No,No,adverse event,M
+176,2015,12/29/2015,tuesday,Night,inpatint units,40<50,excoriation,No,Room,Moderate,Loss of balance,Yes,No,adverse event,M
+19,2015,2/24/2015,tuesday,Morning ,inpatint units,40<50,no injury,No,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+111,2015,8/28/2015,friday,Morning ,inpatint units,40<50,no injury,yes/Physical therapist,Room,Moderate,Slip,Yes,No,adverse event,F
+100,2015,8/9/2015,sunday,Night,emergency department,50<60,no injury,No,Waiting room,Low,Hypotension,No,No,adverse event,F
+71,2015,6/19/2015,friday,Morning ,inpatint units,50<60,no injury,yes/Physical therapist,Hallway,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+122,2015,9/5/2015,saturday,Night,inpatint units,50<60,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+127,2015,9/24/2015,thursday,Morning ,inpatint units,50<60,Fracture,No,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+64,2015,6/3/2015,wednesday,Night,inpatint units,50<60,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+82,2015,7/11/2015,saturday,Morning ,inpatint units,50<60,no injury,yes/Physical therapist,Hallway,Moderate,Trip,Yes,No,adverse event,M
+59,2015,5/24/2015,sunday,Morning ,inpatint units,50<60,no injury,Yes/Nurse,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,F
+141,2015,10/15/2015,thursday,Morning ,inpatint units,50<60,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+92,2015,7/21/2015,tuesday,Morning ,diagnostic support,50<60,no injury,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+173,2015,12/18/2015,friday,Morning ,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+53,2015,5/10/2015,sunday,Morning ,inpatint units,50<60,no injury,Yes/Nurse,Bathroom/shower,High,Equipment,Yes,Yes,adverse event,M
+156,2015,11/9/2015,monday,Night,emergency department,50<60,excoriation,No,Room,Moderate,Mental confusion,Yes,Yes,adverse event,M
+114,2015,8/31/2015,monday,Morning ,inpatint units,50<60,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+69,2015,6/17/2015,wednesday,Night,inpatint units,50<60,excoriation,No,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,M
+30,2015,3/28/2015,friday,Night,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+163,2015,12/1/2015,tuesday,Night,inpatint units,50<60,no injury,Yes/Nurse,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+104,2015,8/17/2015,monday,Night,inpatint units,50<60,no injury,No,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,M
+6,2015,1/20/2015,tuesday,Afternoon,inpatint units,50<60,no injury,No,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+40,2015,4/15/2015,wednesday,Morning ,emergency department,50<60,no injury,No,Room,Moderate,Human error,Yes,Yes,adverse event,F
+116,2015,9/1/2015,tuesday,Afternoon,diagnostic support,50<60,no injury,Yes/Family,Exam room ,Moderate,Loss of balance,No,No,adverse event,F
+161,2015,11/26/2015,thursday,Night,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,F
+49,2015,5/2/2015,saturday,Morning ,inpatint units,50<60,no injury,Yes/Nurse,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+66,2015,6/11/2015,thursday,Afternoon,inpatint units,50<60,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+58,2015,5/22/2015,friday,Morning ,inpatint units,50<60,EDEMA,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+65,2015,6/9/2015,tuesday,Morning ,diagnostic support,60<70,no injury,Yes/Nurse,Exam room ,Moderate,Slip,Yes,Yes,adverse event,F
+41,2015,4/15/2015,wednesday,Afternoon,inpatint units,60<70,no injury,Yes/Family,Room,Moderate,Mental confusion ,Yes,Yes,adverse event,M
+75,2015,6/21/2015,sunday,Night,inpatint units,60<70,excoriation,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+140,2015,10/15/2015,thursday,Night,inpatint units,60<70,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+12,2015,2/7/2015,saturday,Morning ,inpatint units,60<70,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+115,2015,8/31/2015,monday,Afternoon,inpatint units,60<70,no injury,No,Exam room ,Moderate,Loss of balance,No,No,adverse event,M
+70,2015,6/17/2015,wednesday,Afternoon,diagnostic support,60<70,no injury,Yes/Family,Waiting room,High,Slip,No,No,adverse event,F
+142,2015,10/17/2015,saturday,Afternoon,inpatint units,60<70,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,F
+145,2015,10/22/2015,thursday,Morning ,inpatint units,60<70,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+154,2015,11/6/2015,friday,Morning ,inpatint units,60<70,no injury,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+18,2015,2/21/2015,saturday,Night,inpatint units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+60,2015,5/25/2015,monday,Night,inpatint units,60<70,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+94,2015,7/26/2015,sunday,Night,inpatint units,60<70,excoriation,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,F
+51,2015,5/5/2015,tuesday,Morning ,inpatint units,60<70,no injury,Yes/Family,Room,Moderate,Slip,Yes,Yes,adverse event,M
+57,2015,5/21/2015,thursday,Morning ,emergency department,60<70,no injury,No,Exam room ,High,Equipment,Yes,Yes,adverse event,M
+27,2015,3/20/2015,friday,Night,inpatint units,60<70,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+5,2015,1/19/2015,monday,Morning ,diagnostic support,60<70,no injury,Yes/Nurse,Exam room ,High,Slip,Yes,No,adverse event,M
+2,2015,1/13/2015,tuesday,Night,inpatint units,60<70,no injury,Yes/Family,Room,High,Mental confusion,Yes,No,adverse event,F
+8,2015,1/20/2015,tuesday,Afternoon,diagnostic support,60<70,no injury,Yes/Nurse,Exam room ,Low,Human error,No,No,adverse event,F
+61,2015,5/26/2015,tuesday,Night,inpatint units,60<70,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+43,2015,4/20/2015,monday,Morning ,inpatint units,60<70,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+11,2015,2/5/2015,thursday,Morning ,inpatint units,60<70,no injury,No,Room,Moderate,Mental confusion,Yes,Yes,adverse event,F
+10,2015,1/28/2015,wednesday,Morning ,emergency department,60<70,no injury,Yes/Family,Hallway,Moderate,Human error,Yes,No,adverse event,F
+171,2015,12/16/2015,wednesday,Night,inpatint units,60<70,Fracture,Yes/cargiver,Room,Moderate,Mental confusion,Yes,Yes,serious adverse event,F
+138,2015,10/16/2015,friday,Afternoon,diagnostic support,60<70,no injury,No,Exam room ,High,Loss of balance,No,No,adverse event,F
+74,2015,6/21/2015,sunday,Morning ,inpatint units,60<70,no injury,Yes/Nurse,Room,High,Slip,Yes,Yes,adverse event,F
+159,2015,11/12/2015,thursday,Night,emergency department,60<70,no injury,Yes,Bathroom/shower,Moderate,Hypotension,No,Yes,adverse event,M
+85,2015,7/14/2015,tuesday,Night,inpatint units,60<70,no injury,Yes/Family,Room,High,Mental confusion,Yes,No,adverse event,M
+89,2015,7/16/2015,thursday,Night,inpatint units,60<70,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+55,2015,5/13/2015,wednesday,Morning ,oncology,70<80,no injury,Yes/Family,Exam room ,Moderate,Muscle weakness,No,No,adverse event,M
+13,2015,2/11/2015,wednesday,Night,emergency department,70<80,Head trauma ,No,Room,Moderate,Mental confusion,Yes,No,serious adverse event,F
+38,2015,4/14/2015,tuesday,Night,inpatint units,70<80,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+47,2015,4/29/2015,wednesday,Night,inpatint units,70<80,cut,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+96,2015,8/4/2015,tuesday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,No,adverse event,F
+102,2015,8/16/2015,sunday,Night,inpatint units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+143,2015,10/17/2015,saturday,Afternoon,emergency department,70<80,no injury,No,Medication room,Moderate,Loss of balance,Yes,No,adverse event,F
+144,2015,10/19/2015,monday,Night,emergency department,70<80,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+148,2015,10/21/2015,wednesday,Morning ,inpatint units,70<80,excoriation,No,Room,Moderate,Trip,Yes,Yes,adverse event,F
+151,2015,10/27/2015,tuesday,Night,inpatint units,70<80,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+150,2015,10/27/2015,tuesday,Morning ,emergency department,70<80,no injury,Yes/Family,Exam room  ,High,Loss of balance,Yes,No,adverse event,M
+152,2015,10/27/2015,tuesday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+42,2015,4/15/2015,wednesday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+76,2015,6/23/2015,tuesday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+52,2015,5/7/2015,thursday,Morning ,inpatint units,70<80,HEMATOMA,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+90,2015,7/14/2015,tuesday,Night,inpatint units,70<80,excoriation,Yes/Family,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,F
+25,2015,3/16/2015,monday,Morning ,inpatint units,70<80,cut,yes/Physical therapist,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+4,2015,1/16/2015,friday,Night,inpatint units,70<80,no injury,No,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,F
+22,2015,3/12/2015,thursday,Night,emergency department,70<80,no injury,No,Room,Moderate,Mental confusion ,Yes,Yes,adverse event,M
+112,2015,8/28/2015,friday,Morning ,operating room/recovery,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,No,No,adverse event,M
+99,2015,8/7/2015,friday,Night,inpatint units,70<80,no injury,Yes/Family,Room,Moderate,Slip,Yes,Yes,adverse event,F
+32,2015,3/31/2015,tuesday,Morning ,inpatint units,70<80,excoriation,Yes/Family,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+84,2015,7/14/2015,tuesday,Night,inpatint units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+37,2015,4/12/2015,sunday,Night,inpatint units,70<80,EDEMA,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+174,2015,12/18/2015,friday,Night,inpatint units,70<80,no injury,Yes/Family,Room,Moderate,Trip,Yes,Yes,adverse event,F
+155,2015,11/7/2015,saturday,Night,inpatint units,70<80,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,F
+20,2015,3/3/2015,tuesday,Morning ,inpatint units,70<80,excoriation,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+68,2015,6/16/2015,tuesday,Night,inpatint units,70<80,cut,Yes/Family,Room,High,Hypotension,Yes,Yes,adverse event,M
+128,2015,9/25/2015,friday,Morning ,inpatint units,70<80,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+29,2015,3/25/2015,thursday,Afternoon,oncology,70<80,no injury,No,Exam room ,Moderate,Equipment,No,No,adverse event,F
+48,2015,5/1/2015,friday,Morning ,emergency department,70<80,EDEMA,No,Exam room ,High,Loss of balance,Yes,Yes,adverse event,M
+45,2015,4/22/2015,wednesday,Morning ,operating room/recovery,70<80,no injury,Yes/Nurse,Operating room,High,Human error,Yes,Yes,adverse event,F
+149,2015,10/24/2015,saturday,Night,inpatint units,70<80,excoriation,No,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+121,2015,9/5/2015,saturday,Night,emergency department,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+125,2015,9/14/2015,monday,Night,inpatint units,70<80,no injury,Yes/Nurse,Room,High,Slip,Yes,No,adverse event,F
+46,2015,4/23/2015,thursday,Night,inpatint units,70<80,HEMATOMA,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+80,2015,7/9/2015,thursday,Afternoon,oncology,70<80,no injury,Yes/Family,Exam room ,High,Muscle weakness,No,No,adverse event,M
+63,2015,5/29/2015,friday,Night,inpatint units,70<80,no injury,No,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,M
+175,2015,12/24/2015,thursday,Afternoon,inpatint units,70<80,no injury,Yes/Nurse,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+77,2015,6/27/2015,saturday,Night,inpatint units,70<80,no injury,Yes/Family,Hallway,High,Hypotension,Yes,Yes,adverse event,M
+56,2015,5/17/2015,sunday,Morning ,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+39,2015,4/14/2015,tuesday,Night,inpatint units,70<80,HEMATOMA,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+28,2015,3/24/2015,tuesday,Night,inpatint units,80<90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+54,2015,5/12/2015,tuesday,Night,emergency department,80<90,excoriation,No,Hallway,High,Slip,Yes,No,adverse event,M
+108,2015,8/26/2015,wednesday,Morning ,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,F
+165,2015,12/4/2015,friday,Morning ,inpatint units,80<90,excoriation,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,M
+31,2015,3/30/2015,monday,Afternoon,dialysis,80<90,no injury,Yes/Family,Exam room ,Moderate,Trip,No,No,adverse event,M
+101,2015,8/10/2015,monday,Afternoon,inpatint units,80<90,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+7,2015,1/20/2015,tuesday,Afternoon,inpatint units,80<90,excoriation,Yes/Family,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,M
+135,2015,10/10/2015,saturday,Morning ,inpatint units,80<90,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,M
+106,2015,8/17/2015,monday,Afternoon,diagnostic support,80<90,excoriation,No,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,F
+110,2015,8/27/2015,thursday,Night,emergency department,80<90,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,M
+162,2015,11/28/2015,saturday,Night,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+23,2015,3/12/2015,thursday,Morning ,diagnostic support,80<90,no injury,Yes/Family,Exam room ,High,Slip,Yes,Yes,adverse event,F
+146,2015,10/22/2015,thursday,Afternoon,comunity,80<90,no injury,Yes/Family,Exam room ,Low,Hypotension,No,No,adverse event,F
+83,2015,7/11/2015,saturday,Night,inpatint units,80<90,no injury,Yes/Family,Room,High,Loss of balance,Yes,No,adverse event,F
+136,2015,10/11/2015,sunday,Night,inpatint units,80<90,HEMATOMA ,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+73,2015,6/19/2015,friday,Afternoon,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,F
+153,2015,11/2/2015,monday,Morning ,inpatint units,80<90,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+103,2015,8/16/2015,sunday,Afternoon,inpatint units,80<90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+17,2015,2/21/2015,saturday,Morning ,inpatint units,80<90,HEMATOMA,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+86,2015,7/15/2015,wednesday,Morning ,operating room/recovery,80<90,excoriation,No,Bathroom/shower,Moderate,Muscle weakness,No,No,adverse event,M
+166,2015,12/5/2015,saturday,Morning ,emergency department,80<90,cut,Yes/Family,Medication room,Moderate,Hypotension,No,No,adverse event,F
+113,2015,8/30/2015,sunday,Night,inpatint units,80<90,cut,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+158,2015,11/21/2015,saturday,Morning ,diagnostic support,80<90,no injury,Yes/Family,Waiting room,Moderate,Loss of balance,No,No,adverse event,F
+124,2015,9/7/2015,sunday,Morning ,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+177,2015,12/31/2015,thursday,Morning ,inpatint units,80<90,cut,Yes/Nurse,Bathroom/shower,High,Slip,Yes,No,adverse event,F
+109,2015,8/26/2015,wednesday,Night,inpatint units,80<90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+117,2015,9/2/2015,wednesday,Morning ,inpatint units,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+119,2015,9/4/2015,friday,Afternoon,inpatint units,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+123,2015,9/7/2015,sunday,Afternoon,inpatint units,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+1,2015,1/9/2015,friday,Afternoon,diagnostic support,80<90,cut,Yes/Family,Exam room ,High,Loss of balance,No,No,adverse event,F
+95,2015,7/31/2015,friday,Afternoon,adult ICU,80<90,no injury,No,Room,High,Slip,Yes,No,adverse event,F
+120,2015,9/4/2015,friday,Afternoon,emergency department,80<90,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,M
+118,2015,9/3/2015,thursday,Morning ,inpatint units,80<90,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+72,2015,6/19/2015,friday,Afternoon,inpatint units,80<90,no injury,yes/Physical therapist,Hallway,High,Muscle weakness,Yes,Yes,adverse event,F
+97,2015,8/4/2015,tuesday,Afternoon,inpatint units,80<90,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+15,2015,2/16/2015,monday,Night,emergency department,80<90,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,F
+133,2015,10/2/2015,saturday,Morning ,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,High,Hypotension,Yes,No,adverse event,F
+164,2015,12/3/2015,thursday,Night,inpatint units,80<90,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+167,2015,12/6/2015,sunday,Morning ,inpatint units,80<90,no injury,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,F
+169,2015,12/13/2015,sunday,Afternoon,inpatint units,80<90,no injury,Yes/Family,Room,High,Slip,Yes,No,adverse event,F
+105,2015,8/17/2015,monday,Morning ,emergency department,80<90,no injury,No,Bathroom/shower,High,Slip,Yes,No,adverse event,F
+3,2015,1/15/2015,thursday,Night,inpatint units,≥ 90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+139,2015,10/13/2015,tuesday,Night,emergency department,≥ 90,excoriation,Yes/Nurse,Room,High,Slip,Yes,Yes,adverse event,F
+81,2015,7/9/2015,thursday,Night,emergency department,≥ 90,cut,No,Medication room,High,Mental confusion ,No,No,adverse event,F
+157,2015,11/13/2015,friday,Morning ,inpatint units,≥ 90,no injury,yes/Physical therapist,Hallway,Moderate,Trip,Yes,Yes,adverse event,F
+62,2015,5/28/2015,thursday,Morning ,diagnostic support,≥ 90,no injury,Yes/Nurse,Exam room ,High,Slip,Yes,No,adverse event,F
+131,2015,9/28/2015,monday,Afternoon,emergency department,≥ 90,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,F
+21,2015,3/8/2015,sunday,Morning ,inpatint units,≥ 90,no injury,Yes/Nurse,Room,Moderate,Equipment,Yes,Yes,adverse event,F
+16,2015,2/20/2015,friday,Afternoon,inpatint units,≥ 90,no injury,No,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+160,2015,11/24/2015,tuesday,Afternoon,inpatint units,≥ 90,no injury,Yes/Family,Room,High,Trip,Yes,Yes,adverse event,F
+78,2015,6/26/2015,friday,Afternoon,Ob&Gyb/Birth,< 1,no injury,Yes/Family,Room,High,Slip,Yes,No,adverse event,M
+1,2016,1/8/2016,friday,Afternoon,diagnostic support,60<70,cut,No,Exam room ,High,Muscle weakness,Yes,Yes,adverse event,M
+2,2016,1/11/2016,monday,Afternoon,diagnostic support,60<70,excoriation,No,Exam room ,Moderate,Muscle weakness,No,No,adverse event,F
+3,2016,1/13/2016,wednesday,Night,emergency department,70<80,no injury,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,F
+4,2016,1/17/2016,sunday,Afternoon,inpatint units,60<70,cut,Yes/Family,Bathroom/shower,Low,Loss of balance,Yes,No,adverse event,M
+5,2016,1/19/2016,tuesday,Morning ,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+6,2016,1/23/2016,saturday,Afternoon,inpatint units,≥ 90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+7,2016,1/24/2016,sunday,Afternoon,inpatint units,50<60,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+8,2016,1/23/2016,monday,Morning ,diagnostic support,80<90,excoriation,Yes/Family,Exam room ,Moderate,Loss of balance,No,No,adverse event,F
+9,2016,1/30/2016,saturday,Morning ,inpatint units,≥ 90,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+10,2016,2/1/2016,friday,Morning ,inpatint units,≥ 90,excoriation,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+11,2016,2/6/2016,saturday,Night,inpatint units,80<90,Bruising,Yes/ Caregiver,Room,High,Slip,Yes,Yes,adverse event,F
+12,2016,2/11/2016,thursday,Morning ,diagnostic support,60<70,Head trauma ,"Yes, Family",Waiting room,High,Loss of balance,Yes,Yes,serious adverse event,F
+13,2016,2/12/2016,friday,Afternoon,inpatint units,≥ 90,no injury,Yes/ Caregiver,Room,High,Loss of balance,Yes,Yes,adverse event,F
+14,2016,2/14/2016,sunday,Night,inpatint units,70<80,no injury,Yes/ Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+15,2016,2/16/2016,tuesday,Afternoon,inpatint units,60<70,no injury,No,Bathroom/shower,Moderate,Mental confusion,Yes,Yes,adverse event,F
+16,2016,2/17/2016,wednesday,Night,diagnostic support,50<60,no injury,yes/Physician,Hallway,Moderate,Hypotension,No,No,adverse event,F
+17,2016,2/18/2016,thursday,Night,inpatint units,70<80,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+18,2016,2/20/2016,saturday,Morning ,Ob&Gyb/Birth,30<40,no injury,"Yes, Family",Bathroom/shower,Moderate,Hypotension,No,No,adverse event,F
+19,2016,2/24/2016,wednesday,Morning ,inpatint units,80<90,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+20,2016,2/25/2016,thursday,Night,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,Low,Hypotension,Yes,Yes,adverse event,F
+21,2016,3/3/2016,thursday,Night,inpatint units,80<90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+22,2016,3/3/2016,thursday,Night,inpatint units,20<30,no injury,Yes/Family,Room,Moderate,Hypotension,Yes,No,adverse event,F
+23,2016,3/11/2016,friday,Morning ,emergency department,70<80,no injury,Yes/Family,Room,High,Hypotension,Yes,Yes,adverse event,M
+24,2016,3/12/2016,saturday,Morning ,inpatint units,60<70,no injury,Yes/Family,Room,High,Muscle weakness,Yes,No,adverse event,F
+25,2016,3/16/2016,wednesday,Morning ,diagnostic support,60<70,no injury,Yes/Nurse,Surgical prep adverse event ,Moderate,Hypotension,Yes,Yes,adverse event,M
+26,2016,3/16/2016,wednesday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,No,adverse event,M
+27,2016,3/18/2016,friday,Morning ,inpatint units,40<50,excoriation,Yes/Family,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+28,2016,3/19/2016,saturday,Night,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+29,2016,3/20/2016,sunday,Morning ,inpatint units,70<80,no injury,Yes/Family,Hallway,Moderate,Loss of balance,Yes,Yes,adverse event,M
+30,2016,3/22/2016,tuesday,Night,emergency department ,30<40,no injury,Yes/Family,Waiting room,Moderate,Muscle weakness,No,No,adverse event,M
+31,2016,3/23/2016,wednesday,Morning ,inpatint units,70<80,excoriation,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+32,2016,3/30/2016,wednesday,Afternoon,inpatint units,80<90,no injury,Yes/Family,Room,High,Slip,Yes,Yes,adverse event,M
+33,2016,3/31/2016,thursday,Night,inpatint units,50<60,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+34,2016,4/1/2016,friday,Night,inpatint units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+35,2016,4/3/2016,sunday,Morning ,inpatint units,60<70,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+36,2016,4/5/2016,tuesday,Morning ,inpatint units,60<70,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+37,2016,4/10/2016,sunday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+38,2016,4/13/2016,wednesday,Afternoon,oncology,13<20,cut,Yes/Family,Room,Moderate,Hypotension,Yes,Yes,adverse event,F
+39,2016,4/23/2016,saturday,Night,emergency department,70<80,cut,No,Exam room ,High,Loss of balance,Yes,No,adverse event,M
+40,2016,4/23/2016,saturday,Afternoon,comunity,30<40,excoriation,No,Exam room ,Low,Slip,No,No,adverse event,M
+41,2016,4/24/2016,sunday,Night,inpatint units,70<80,excoriation,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+42,2016,4/26/2016,tuesday,Afternoon,comunity,80<90,Fracture,Yes/Family,Exam room ,Moderate,Trip,No,No,adverse event,F
+43,2016,4/27/2016,wednesday,Morning ,inpatint units,80<90,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+44,2016,4/26/2016,tuesday,Night,inpatint units,70<80,no injury,Yes/Family,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+45,2016,4/28/2016,thursday,Night,inpatint units,70<80,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+46,2016,5/1/2016,sunday,Night,Ob&Gyb/Birth,< 1,no injury,Yes/Family,Room,High,Slip,Yes,No,adverse event,F
+47,2016,5/2/2016,monday,Night,inpatint units,80<90,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,M
+48,2016,5/4/2016,wednesday,Night,inpatint units,60<70,no injury,No,Room,Moderate,Slip,Yes,Yes,adverse event,F
+49,2016,5/6/2016,friday,Morning ,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+50,2016,5/6/2016,friday,Morning ,emergency department,80<90,cut,Yes/Family,Exam room ,High,Loss of balance,Yes,No,adverse event,F
+51,2016,5/7/2016,saturday,Night,inpatint units,50<60,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,No,adverse event,M
+52,2016,5/7/2016,saturday,Afternoon,inpatint units,70<80,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,M
+53,2016,5/9/2016,monday,Morning ,inpatint units,70<80,no injury,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+54,2016,5/10/2016,tuesday,Morning ,inpatint units,80<90,no injury,Yes/Family,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,M
+55,2016,5/10/2016,tuesday,Morning ,inpatint units,30<40,no injury,yes/Physical therapist,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+56,2016,5/10/2016,tuesday,Afternoon,inpatint units,70<80,no injury,No,Room,Moderate,Hypotension,Yes,No,adverse event,F
+57,2016,5/10/2016,tuesday,Afternoon,inpatint units,80<90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+58,2016,5/11/2016,wednesday,Night,inpatint units,60<70,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+59,2016,5/14/2016,saturday,Afternoon,inpatint units,70<80,excoriation,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+60,2016,5/16/2016,monday,Morning ,adult ICU,50<60,no injury,No,Room,Moderate,Mental confusion,Yes,Yes,adverse event,M
+61,2016,5/19/2016,thursday,Night,emergency department,70<80,no injury,Yes/Family,Exam room ,High,Slip,Yes,Yes,adverse event,F
+62,2016,5/19/2016,thursday,Morning ,inpatint units,60<70,no injury,No,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+63,2016,5/23/2016,monday,Afternoon,inpatint units,60<70,cut,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,M
+64,2016,5/24/2016,tuesday,Night,emergency department,≥ 90,excoriation,No,Room,High,Loss of balance,Yes,No,adverse event,F
+65,2016,5/26/2016,thursday,Night,inpatint units,50<60,no injury,Yes/Family,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+66,2016,5/28/2016,saturday,Afternoon,comunity,80<90,HEMATOMA,Yes/Family,Hallway,High,Loss of balance,Yes,Yes,adverse event,F
+67,2016,6/1/2016,wednesday,Morning ,inpatint units,60<70,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+68,2016,6/1/2016,wednesday,Afternoon,inpatint units,40<50,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+69,2016,6/2/2016,thursday,Morning ,inpatint units,30<40,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+70,2016,6/2/2016,thursday,Afternoon,inpatint units,70<80,Bruising,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+71,2016,6/2/2016,thursday,Afternoon,inpatint units,70<80,Bruising,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+72,2016,6/10/2016,friday,Morning ,emergency department,60<70,no injury,No,Exam room ,High,Mental confusion,Yes,No,adverse event,M
+73,2016,6/15/2016,wednesday,Night,emergency department,80<90,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+74,2016,6/16/2016,thursday,Afternoon,emergency department,60<70,no injury,No,Exam room ,High,Loss of balance,No,No,adverse event,M
+75,2016,6/19/2016,sunday,Morning ,emergency department,70<80,cut,No,Exam room ,High,Slip,Yes,Yes,adverse event,M
+76,2016,6/19/2016,sunday,Afternoon,inpatint units,50<60,EDEMA,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+77,2016,6/19/2016,sunday,Afternoon,emergency department,80<90,cut,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+78,2016,6/20/2016,monday,Night,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+79,2016,6/22/2016,wednesday,Morning ,inpatint units,70<80,no injury,Yes/Family,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+80,2016,6/23/2016,thursday,Morning ,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,F
+81,2016,6/24/2016,friday,Night,inpatint units,20<30,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+82,2016,6/27/2016,saturday,Afternoon,inpatint units,1<13 ,cut,Yes/Family,Room,Moderate,Slip,Yes,No,adverse event,F
+83,2016,6/26/2016,sunday,Night,inpatint units,40<50,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+84,2016,6/28/2016,tuesday,Night,inpatint units,80<90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+85,2016,6/30/2016,thursday,Night,inpatint units,40<50,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+86,2016,7/2/2016,saturday,Night,operating room/recovery,40<50,EDEMA,Yes/Nurse,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+87,2016,7/2/2016,saturday,Morning ,diagnostic support,40<50,no injury,Yes/Nurse,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,M
+88,2016,7/4/2016,monday,Afternoon,inpatint units,40<50,no injury,Yes/Family,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,F
+89,2016,7/4/2016,monday,Morning ,inpatint units,70<80,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+90,2016,7/6/2016,wednesday,Night,inpatint units,60<70,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+91,2016,7/10/2016,sunday,Night,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+92,2016,7/8/2016,friday,Morning ,inpatint units,60<70,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+93,2016,7/12/2016,tuesday,Night,inpatint units,80<90,no injury,Yes/Family,Room,High,Mental confusion,Yes,Yes,adverse event,F
+94,2016,7/17/2016,sunday,Night,inpatint units,30<40,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+95,2016,7/21/2016,thursday,Morning ,emergency department,70<80,no injury,Yes/Nurse,"
+Exam room ",Moderate,Slip,Yes,Yes,adverse event,M
+96,2016,7/23/2016,saturday,Morning ,inpatint units,80<90,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+97,2016,7/28/2016,thursday,Morning ,inpatint units,50<60,excoriation,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+98,2016,7/28/2016,thursday,Afternoon,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,M
+99,2016,7/28/2016,thursday,Morning ,diagnostic support,60<70,no injury,No,Waiting room,Moderate,Loss of balance,No,No,adverse event,F
+100,2016,8/2/2016,tuesday,Night,inpatint units,≥ 90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+101,2016,8/4/2016,thursday,Morning ,emergency department,70<80,EDEMA,Yes/Family,Exam room ,High,Trip,No,No,adverse event,F
+102,2016,8/5/2016,friday,Night,emergency department,70<80,Bruising,No,Room,Moderate,Hypotension,Yes,Yes,adverse event,F
+103,2016,8/7/2016,sunday,Night,inpatint units,60<70,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+104,2016,8/10/2016,wednesday,Morning ,Ob&Gyb/Birth,30<40,no injury,Yes/Nurse,Room,Moderate,Hypotension,Yes,Yes,adverse event,F
+105,2016,8/10/2016,wednesday,Morning ,inpatint units,60<70,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+106,2016,8/10/2016,wednesday,Morning ,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,M
+107,2016,8/10/2016,wednesday,Afternoon,operating room/recovery,60<70,no injury,Yes/Nurse,Exam room ,,Slip,Yes,Yes,adverse event,M
+108,2016,8/10/2016,wednesday,Afternoon,inpatint units,≥ 90,no injury,Yes/Family,Room,High,Muscle weakness,Yes,No,adverse event,F
+109,2016,8/11/2016,thursday,Night,inpatint units,40<50,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+110,2016,8/12/2016,friday,Night,inpatint units,40<50,no injury,Yes/Family,Room,High,Hypotension,Yes,No,adverse event,M
+111,2016,8/12/2016,friday,Morning ,inpatint units,60<70,excoriation,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+112,2016,8/12/2016,friday,Afternoon,oncology,60<70,no injury,Yes/Family,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+113,2016,8/16/2016,tuesday,Night,inpatint units,40<50,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+114,2016,8/16/2016,tuesday,Afternoon,inpatint units,50<60,no injury,Yes/Family,Bathroom/shower,Low,Slip,No,No,adverse event,M
+115,2016,8/17/2016,wednesday,Night,emergency department,60<70,no injury,No,Room,Moderate,Muscle weakness,Yes,No,adverse event,M
+116,2016,8/24/2016,wednesday,Afternoon,emergency department,30<40,no injury,No,Room,High,Loss of balance,Yes,No,adverse event,F
+117,2016,9/2/2016,friday,Afternoon,emergency department,80<90,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+118,2016,9/10/2016,saturday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+119,2016,9/10/2016,saturday,Afternoon,inpatint units,70<80,no injury,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,M
+120,2016,9/19/2016,monday,Afternoon,inpatint units,40<50,no injury,No,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,F
+121,2016,9/24/2016,saturday,Night,emergency department,60<70,Bruising,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+122,2016,9/26/2016,monday,Night,inpatint units,≥ 90,HEMATOMA,Yes/Family,Room,High,Loss of balance,Yes,Yes,adverse event,F
+123,2016,10/3/2016,monday,Afternoon,diagnostic support,80<90,no injury,No,Waiting room,High,Loss of balance,No,Yes,adverse event,M
+124,2016,10/5/2016,wednesday,Night,emergency department,70<80,excoriation,Yes,Room,High,Slip,Yes,Yes,adverse event,M
+125,2016,10/9/2016,sunday,Afternoon,inpatint units,60<70,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+126,2016,10/10/2016,monday,Morning ,inpatint units,50<60,no injury,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+127,2016,10/11/2016,tuesday,Morning ,inpatint units,1<13 ,HEMATOMA,Yes,Others,High,Trip,Yes,No,adverse event,F
+128,2016,10/11/2016,tuesday,Night,inpatint units,60<70,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+129,2016,10/12/2016,wednesday,Morning ,inpatint units,40<50,no injury,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+130,2016,10/14/2016,friday,Night,inpatint units,60<70,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+131,2016,10/15/2016,saturday,Morning ,inpatint units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+132,2016,10/20/2016,thursday,Morning ,inpatint units,70<80,no injury,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+133,2016,10/20/2016,thursday,Night,inpatint units,70<80,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+134,2016,10/22/2016,saturday,Morning ,emergency department,60<70,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,F
+135,2016,10/27/2016,thursday,Morning ,inpatint units,70<80,cut,No,Room,High,Slip,Yes,Yes,adverse event,F
+136,2016,10/31/2016,monday,Morning ,inpatint units,20<30,HEMATOMA,Yes,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+137,2016,11/1/2016,tuesday,Night,inpatint units,60<70,no injury,Yes/Nurse,Room,High,Loss of balance,Yes,Yes,adverse event,F
+138,2016,11/6/2016,sunday,Afternoon,inpatint units,60<70,no injury,Yes,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,M
+139,2016,11/5/2016,saturday,Morning ,diagnostic support,60<70,excoriation,yes/Physician,Exam room ,Low,Hypotension,Yes,No,adverse event,M
+140,2016,11/9/2016,wednesday,Night,inpatint units,80<90,cut,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+141,2016,11/11/2016,friday,Night,emergency department,60<70,excoriation,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+142,2016,11/15/2016,tuesday,Night,inpatint units,60<70,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+143,2016,11/12/2016,saturday,Afternoon,inpatint units,40<50,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+144,2016,11/12/2016,saturday,Night,inpatint units,70<80,cut,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+145,2016,11/16/2016,wednesday,Morning ,inpatint units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+146,2016,11/19/2016,saturday,Afternoon,inpatint units,60<70,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+147,2016,11/21/2016,monday,Morning ,emergency department,60<70,excoriation,No,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,M
+148,2016,11/24/2016,thursday,Night,inpatint units,70<80,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+149,2016,11/25/2016,friday,Night,inpatint units,80<90,no injury,No,Room,High,Slip,Yes,No,adverse event,F
+150,2016,11/25/2016,friday,Night,inpatint units,≥ 90,Fracture,Yes,Room,High,Mental confusion,Yes,Yes,serious adverse event,F
+151,2016,11/29/2016,tuesday,Afternoon,inpatint units,20<30,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+152,2016,11/29/2016,tuesday,Morning ,inpatint units,60<70,no injury,yes/Physician,Room,Low,Hypotension,No,No,adverse event,M
+153,2016,11/30/2016,wednesday,Morning ,inpatint units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+154,2016,11/30/2016,wednesday,Afternoon,inpatint units,70<80,no injury,Yes,Room,High,Trip,Yes,Yes,adverse event,M
+155,2016,12/4/2016,sunday,Morning ,inpatint units,80<90,excoriation,"Yes, Nurse",Room,High,Muscle weakness,Yes,Yes,adverse event,F
+156,2016,12/5/2016,monday,Morning ,inpatint units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+157,2016,12/8/2016,thursday,Morning ,inpatint units,80<90,excoriation,No,Room,High,Mental confusion,Yes,No,adverse event,M
+158,2016,12/9/2016,friday,Morning ,inpatint units,70<80,no injury,Yes,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+159,2016,12/9/2016,friday,Morning ,diagnostic support,60<70,no injury,Yes,Exam room ,Moderate,Hypotension,No,No,adverse event,M
+160,2016,12/9/2016,friday,Night,inpatint units,70<80,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+161,2016,12/11/2016,sunday,Morning ,inpatint units,≥ 90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+162,2016,12/11/2016,sunday,Afternoon,inpatint units,70<80,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+163,2016,12/14/2016,wednesday,Afternoon,dialysis,60<70,excoriation,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+164,2016,12/16/2016,friday,Afternoon,inpatint units,60<70,no injury,Yes,Room,High,Trip,Yes,Yes,adverse event,M
+165,2016,12/21/2016,wednesday,Afternoon,inpatint units,80<90,cut,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,F
+166,2016,12/21/2016,wednesday,Afternoon,inpatint units,40<50,no injury,Yes,Bathroom/shower,High,Muscle weakness,No,Yes,adverse event,F
+167,2016,12/22/2016,thursday,Night,emergency department,80<90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,F
+168,2016,12/26/2016,monday,Night,inpatint units,60<70,excoriation,No,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+169,2016,12/27/2016,tuesday,Night,inpatint units,60<70,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+170,2016,12/29/2016,thursday,Night,inpatint units,70<80,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+1,2017,1/1/2017,sunday,Morning ,inpatint units,60<70,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+2,2017,1/1/2017,sunday,Morning ,inpatint units,30<40,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+3,2017,1/3/2017,tuesday,Morning ,dialysis,60<70,no injury,No,Exam room ,High,Mental confusion,Yes,Yes,adverse event,M
+4,2017,1/4/2017,wednesday,Morning ,inpatint units,80<90,no injury,Yes/Nurse,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,M
+5,2017,1/6/2017,friday,Night,inpatint units,60<70,excoriation,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+6,2017,1/8/2017,sunday,Morning ,inpatint units,60<70,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+7,2017,1/10/2017,tuesday,Morning ,inpatint units,20<30,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+8,2017,1/12/2017,thursday,Afternoon,diagnostic support,1<13,no injury,Yes,Exam room ,High,Loss of balance,Yes,No,adverse event,F
+9,2017,13/01/2017,saturday,Afternoon,inpatint units,70<80,no injury,Yes,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+10,2017,15/01/2017,sunday,Afternoon,inpatint units,40<50,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+11,2017,19/01/2017,thursday,Morning ,inpatint units,80<90,HEMATOMA,Yes/Nurse,Bathroom/shower,High,Trip,Yes,Yes,adverse event,M
+12,2017,21/01/2017,saturday,Morning ,inpatint units,40<50,excoriation,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+13,2017,23/01/2017,monday,Night,emergency department,60<70,no injury,Yes/Nurse,Exam room ,High,Hypotension,No,No,adverse event,M
+14,2017,23/01/2017,monday,Morning ,inpatint units,80<90,Bruising,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+15,2017,27/01/2017,friday,Morning ,inpatint units,70<80,no injury,Yes/Nurse,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+16,2017,27/01/2017,friday,Afternoon,emergency department,80<90,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+17,2017,30/01/2017,monday,Night,emergency department,60<70,no injury,No,Room,High,Muscle weakness,Yes,No,adverse event,M
+18,2017,29/01/2017,sunday,Morning ,inpatint units,1<13,HEMATOMA,Yes,Room,High,Trip,Yes,No,adverse event,F
+19,2017,31/01/2017,tuesday,Afternoon,inpatint units,80<90,excoriation,No,Room,High,Mental confusion,Yes,No,adverse event,M
+20,2017,31/01/2017,tuesday,Afternoon,emergency department,70<80,Head trauma ,No,Hallway,High,Slip,No,No,serious adverse event,M
+21,2017,30/01/2017,monday,Night,inpatint units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+22,2017,31/01/2017,tuesday,Afternoon,diagnostic support,50<60,no injury,Yes/Nurse,Exam room ,Low,Loss of balance,No,No,adverse event,F
+23,2017,01/02/2017,wednesday,Morning ,inpatint units,70<80,Bruising,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+24,2017,02/02/2017,thursday,Night,inpatint units,50<60,excoriation,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+25,2017,03/02/2017,friday,Morning ,diagnostic support,80<90,no injury,Yes/Nurse,Waiting room,High,Slip,Yes,No,adverse event,F
+26,2017,04/02/2017,saturday,Afternoon,inpatint units,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+27,2017,04/02/2017,saturday,Afternoon,emergency department,70<80,excoriation,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+28,2017,05/02/2017,sunday,Morning ,inpatint units,20<30,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+29,2017,09/02/2017,thursday,Afternoon,oncology,60<70,excoriation,Yes,Bathroom/shower,High,Loss of balance,No,Yes,adverse event,M
+30,2017,10/02/2017,friday,Morning ,inpatint units,20<30,no injury,No,Room,High,Mental confusion,Yes,No,adverse event,M
+31,2017,14/02/2017,tuesday,Morning ,emergency department,70<80,no injury,No,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+32,2017,14/02/2017,tuesday,Night,inpatint units,30<40,no injury,Yes,Bathroom/shower,High,Hypotension,Yes,No,adverse event,F
+33,2017,16/02/2017,thursday,Night,inpatint units,70<80,no injury,No,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+34,2017,16/02/2017,thursday,Night,Ob&Gyn/Birth,30<40,no injury,Yes/Nurse,Room,Moderate,Hypotension,Yes,No,adverse event,F
+35,2017,17/02/2017,friday,Afternoon,comunity,40<50,no injury,No,Waiting room,Low,Hypotension,No,No,adverse event,F
+36,2017,27/02/2017,monday,Night,emergency department,60<70,no injury,No,Waiting room,Moderate,Muscle weakness,No,No,adverse event,F
+37,2017,27/02/2017,monday,Afternoon,inpatint units,30<40,cut,No,Bathroom/shower,Moderate,Muscle weakness,Yes,No,adverse event,M
+38,2017,02/03/2017,thursday,Night,inpatint units,50<60,no injury,Yes,Room,Moderate,Hypotension,Yes,No,adverse event,F
+39,2017,02/03/2017,thursday,Night,inpatint units,< 1,no injury,Yes/Nurse,Exam room ,Moderate,Human error,No,No,adverse event,M
+40,2017,03/03/2017,friday,Afternoon,diagnostic support,1<13,no injury,Yes,Waiting room,Moderate,Loss of balance,No,No,adverse event,F
+41,2017,04/03/2017,saturday,Morning ,inpatint units,≥ 90,excoriation,No,Room,High,Mental confusion,Yes,No,adverse event,F
+42,2017,04/03/2017,saturday,Night,inpatint units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+43,2017,05/03/2017,sunday,Morning ,Pediatric/Neonatal ICU,1<13,HEMATOMA,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+44,2017,05/03/2017,sunday,Night,inpatint units,70<80,excoriation,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+45,2017,07/03/2017,tuesday,Morning ,inpatint units,80<90,no injury,Yes,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+46,2017,07/03/2017,tuesday,Afternoon,inpatint units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,No,adverse event,F
+47,2017,08/03/2017,wednesday,Night,inpatint units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+48,2017,08/03/2017,wednesday,Morning ,emergency department,60<70,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+49,2017,13/03/2017,monday,Afternoon,inpatint units,≥ 90,HEMATOMA,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+50,2017,14/03/2017,tuesday,Morning ,inpatint units,50<60,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+51,2017,16/03/2017,thursday,Afternoon,emergency department,20<30,no injury,Yes,Room,Moderate,Loss of balance,Yes,No,adverse event,F
+52,2017,17/03/2017,friday,Night,inpatint units,80<90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+53,2017,19/03/2017,sunday,Morning ,inpatint units,70<80,excoriation,Yes,Hallway,High,Muscle weakness,Yes,Yes,adverse event,M
+54,2017,20/03/2017,monday,Morning ,inpatint units,30<40,no injury,Yes,Hallway,Moderate,Trip,Yes,Yes,adverse event,M
+55,2017,21/03/2017,tuesday,Night,inpatint units,80<90,no injury,Yes,Room,Moderate,Slip,Yes,Yes,adverse event,F
+56,2017,21/03/2017,tuesday,Morning ,inpatint units,60<70,no injury,Yes,Bathroom/shower,Moderate,Hypotension,Yes,No,adverse event,M
+57,2017,23/03/2017,thursday,Morning ,inpatint units,20<30,no injury,No,Hallway,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+58,2017,23/03/2017,thursday,Night,inpatint units,60<70,no injury,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+59,2017,29/03/2017,wednesday,Morning ,inpatint units,80<90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+60,2017,30/03/2017,thursday,Morning ,inpatint units,50<60,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+61,2017,30/03/2017,thursday,Morning ,inpatint units,30<40,Bruising,Yes,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,M
+62,2017,30/03/2017,thursday,Night,inpatint units,70<80,no injury,Yes,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+63,2017,31/03/2017,friday,Morning ,diagnostic support,60<70,excoriation,Yes,Waiting room,Moderate,Loss of balance,No,No,adverse event,M
+64,2017,31/03/2017,friday,Afternoon,inpatint units,40<50,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+65,2017,03/04/2017,monday,Night,inpatint units,30<40,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+66,2017,04/04/2017,tuesday,Morning ,diagnostic support,80<90,cut,No,Waiting room,Moderate,Trip,No,No,adverse event,M
+67,2017,05/04/2017,wednesday,Morning ,diagnostic support,70<80,no injury,Yes,Exam room ,Moderate,Trip,No,No,adverse event,F
+68,2017,06/04/2017,thursday,Night,inpatint units,20<30,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+69,2017,07/04/2017,friday,Morning ,inpatint units,80<90,excoriation,Yes,Room,High,Slip,Yes,No,adverse event,M
+70,2017,09/04/2017,sunday,Night,inpatint units,70<80,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+71,2017,10/04/2017,monday,Morning ,operating room,50<60,no injury,Yes/Nurse,Operating room,Moderate,Slip,Yes,No,adverse event,F
+72,2017,08/04/2017,saturday,Morning ,diagnostic support,60<70,no injury,Yes,Bathroom/shower,Moderate,Loss of balance,No,No,adverse event,M
+73,2017,11/04/2017,tuesday,Afternoon,inpatint units,70<80,no injury,Yes,Room,Moderate,Human error,Yes,Yes,adverse event,M
+74,2017,11/04/2017,tuesday,Afternoon,diagnostic support,70<80,no injury,No,Waiting room,High,Trip,No,No,adverse event,F
+75,2017,13/04/2017,thursday,Night,emergency department,80<90,no injury,Yes,Room,High,Mental confusion,Yes,No,adverse event,F
+76,2017,13/04/2017,thursday,Night,emergency department,60<70,no injury,Yes,Room,High,Mental confusion,Yes,No,adverse event,M
+77,2017,20/04/2017,thursday,Night,inpatint units,60<70,no injury,No,Bathroom/shower,Moderate,Slip,Yes,No,adverse event,F
+78,2017,21/04/2017,friday,Night,inpatint units,80<90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+79,2017,21/04/2017,friday,Night,inpatint units,60<70,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+80,2017,26/04/2017,wednesday,Morning ,inpatint units,40<50,no injury,Yes,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,M
+81,2017,01/05/2017,monday,Morning ,dialysis,80<90,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+82,2017,05/05/2017,friday,Night,inpatint units,50<60,no injury,Yes/Nurse,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+83,2017,10/05/2017,wednesday,Night,inpatint units,60<70,no injury,Yes,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,M
+84,2017,10/05/2017,wednesday,Night,inpatint units,50<60,Head trauma ,Yes,Room,High,Muscle weakness,Yes,Yes,serious adverse event,M
+85,2017,10/05/2017,wednesday,Morning ,diagnostic support,70<80,no injury,Yes/Nurse,Exam room ,High,Trip,Yes,Yes,adverse event,F
+86,2017,10/05/2017,wednesday,Afternoon,inpatint units,70<80,no injury,Yes,Room,High,Mental confusion,Yes,No,adverse event,M
+87,2017,12/05/2017,friday,Morning ,inpatint units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,No,adverse event,M
+88,2017,14/05/2017,sunday,Morning ,inpatint units,60<70,no injury,yes/Physical therapist,Room,Moderate,Muscle weakness,Yes,No,adverse event,F
+89,2017,15/05/2017,monday,Morning ,diagnostic support,1<13,no injury,Yes/Nurse,Exam room ,Moderate,Mental confusion,Yes,Yes,adverse event,M
+90,2017,11/05/2017,thursday,Afternoon,diagnostic support,80<90,HEMATOMA,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+91,2017,17/05/2017,wednesday,Afternoon,inpatint units,80<90,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+92,2017,19/05/2017,friday,Morning ,inpatint units,50<60,no injury,Yes,Room,Moderate,Hypotension,Yes,Yes,adverse event,M
+93,2017,22/05/2017,monday,Morning ,inpatint units,80<90,no injury,Yes/Nurse,Room,High,Slip,Yes,No,adverse event,M
+94,2017,22/05/2017,monday,Afternoon,inpatint units,70<80,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+95,2017,24/05/2017,wednesday,Afternoon,inpatint units,60<70,excoriation,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+96,2017,24/05/2017,wednesday,Afternoon,inpatint units,70<80,no injury,Yes,Room,Moderate,Loss of balance,No,Yes,adverse event,M
+97,2017,26/05/2017,friday,Afternoon,inpatint units,40<50,no injury,yes/Physical therapist,Exam room ,High,Loss of balance,Yes,No,adverse event,M
+98,2017,28/05/2017,sunday,Night,emergency department,< 1,no injury,Yes,Hallway,Low,Slip,No,No,adverse event,M
+99,2017,05/06/32017,monday,Night,inpatint units,50<60,no injury,Yes,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+100,2017,06/06/2017,tuesday,Morning ,diagnostic support,70<80,excoriation,Yes,Hallway,Moderate,Slip,Yes,Yes,adverse event,F
+101,2017,12/06/2017,monday,Morning ,inpatint units,80<90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+102,2017,14/06/2017,wednesday,Night,inpatint units,80<90,no injury,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+103,2017,14/06/2017,wednesday,Afternoon,diagnostic support,60<70,cut,Yes/Nurse,Exam room ,Moderate,Slip,No,Yes,adverse event,F
+104,2017,16/06/2017,friday,Night,inpatint units,80<90,cut,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+105,2017,17/06/2017,saturday,Morning ,inpatint units,80<90,no injury,Yes/Nurse,Bathroom/shower,Moderate,Slip,Yes,Yes,adverse event,F
+106,2017,17/06/2017,saturday,Afternoon,inpatint units,40<50,no injury,Yes,Bathroom/shower,High,Slip,Yes,No,adverse event,M
+107,2017,20/06/2017,tuesday,Night,inpatint units,60<70,no injury,Yes,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+108,2017,20/06/2017,tuesday,Morning ,inpatint units,50<60,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+109,2017,23/06/2017,friday,Afternoon,emergency department,80<90,no injury,Yes/Nurse,Bathroom/shower,Moderate,Loss of balance,Yes,No,adverse event,M
+110,2017,26/06/2017,monday,Night,inpatint units,50<60,no injury,Yes,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+111,2017,27/06/2017,tuesday,Night,inpatint units,60<70,no injury,Yes,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,F
+112,2017,27/06/2017,tuesday,Afternoon,diagnostic support,50<60,no injury,No,Surgical prep aradverse event ,Low,Hypotension,No,No,adverse event,M
+113,2017,30/06/2017,friday,Night,emergency department,70<80,no injury,No,Room,High,Mental confusion,No,No,adverse event,M
+114,2017,05/07/2017,wednesday,Night,emergency department,1<13,no injury,Yes,Others,High,Loss of balance,Yes,No,adverse event,M
+115,2017,05/07/2017,wednesday,Night,inpatint units,50<60,no injury,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+116,2017,05/07/2017,wednesday,Morning ,inpatint units,80<90,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+117,2017,07/07/2017,friday,Night,inpatint units,≥ 90,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+118,2017,07/07/2017,friday,Afternoon,diagnostic support,70<80,no injury,Yes,Exam room ,Moderate,Muscle weakness,Yes,No,adverse event,F
+119,2017,10/07/2017,monday,Night,emergency department,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+120,2017,10/07/2017,monday,Night,inpatint units,80<90,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+121,2017,12/07/2017,wednesday,Night,inpatint units,70<80,excoriation,No,Room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+122,2017,15/07/2017,saturday,Morning ,inpatint units,80<90,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+123,2017,16/07/2017,sunday,Morning ,inpatint units,70<80,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+124,2017,19/07/2017,wednesday,Night,inpatint units,60<70,no injury,No,Bathroom/shower,Moderate,Loss of balance,Yes,Yes,adverse event,M
+125,2017,19/07/2017,wednesday,Morning ,inpatint units,40<50,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,F
+126,2017,21/07/2017,friday,Afternoon,dialysis,70<80,no injury,Yes,Waiting room,Moderate,Loss of balance,No,Yes,adverse event,M
+127,2017,22/07/2017,saturday,Morning ,inpatint units,80<90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+128,2017,23/07/2017,sunday,Night,emergency department ,1<13,no injury,Yes,Room,High,Human error,No,No,adverse event,M
+129,2017,24/07/2017,monday,Afternoon,inpatint units,50<60,no injury,Yes,Bathroom/shower,Moderate,Trip,No,Yes,adverse event,F
+130,2017,01/08/2017,tuesday,Night,inpatint units,70<80,no injury,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+131,2017,02/08/2017,wednesday,Night,inpatint units,70<80,cut,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+132,2017,02/08/2017,wednesday,Morning ,inpatint units,50<60,no injury,No,Room,High,Slip,Yes,Yes,adverse event,F
+133,2017,02/08/2017,wednesday,Morning ,emergency department,20<30,Bruising,Yes,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+134,2017,03/08/2017,thursday,Night,emergency department,80<90,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,M
+135,2017,03/08/2017,thursday,Night,inpatint units,60<70,Fracture,Yes,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+136,2017,06/08/2017,sunday,Night,inpatint units,70<80,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,M
+137,2017,07/08/2017,monday,Morning ,inpatint units,60<70,no injury,Yes,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+138,2017,15/08/2017,tuesday,Morning ,inpatint units,80<90,no injury,Yes,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,F
+139,2017,02/08/2017,wednesday,Night,inpatint units,≥ 90,Fracture,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+140,2017,19/08/2017,saturday,Morning ,inpatint units,60<70,no injury,Yes,Bathroom/shower,High,Slip,Yes,Yes,adverse event,F
+141,2017,23/08/2017,wednesday,Night,inpatint units,30<40,no injury,Yes/Nurse,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,M
+142,2017,25/08/2017,friday,Morning ,inpatint units,60<70,no injury,Yes/Physician,Room,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+143,2017,29/08/2017,tuesday,Morning ,dialysis,40<50,no injury,Yes/Nurse,Room,High,Hypotension,Yes,Yes,adverse event,M
+144,2017,29/08/2017,tuesday,Morning ,diagnostic support,40<50,Bruising,Yes/Nurse,Others,Low,Hypotension,No,No,adverse event,M
+145,2017,29/08/2017,tuesday,Afternoon,dialysis,50<60,no injury,No,Hallway,Moderate,Muscle weakness,Yes,Yes,adverse event,M
+146,2017,30/08/2017,wednesday,Afternoon,comunity,60<70,Fracture,Yes,Exam room ,Moderate,Trip,No,No,serious adverse event,F
+147,2017,05/09/2017,tuesday,Morning ,inpatint units,70<80,no injury,No,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+148,2017,08/09/2017,friday,Night,inpatint units,70<80,excoriation,Yes,Room,Moderate,Loss of balance,Yes,Yes,adverse event,M
+149,2017,08/09/2017,friday,Morning ,diagnostic support,30<40,HEMATOMA,No,Bathroom/shower,High,Hypotension,Yes,Yes,adverse event,F
+150,2017,10/09/2017,sunday,Night,inpatint units,70<80,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+151,2017,10/09/2017,sunday,Night,inpatint units,70<80,Fracture,No,Bathroom/shower,High,Loss of balance,Yes,Yes,serious adverse event,F
+152,2017,12/09/2017,tuesday,Morning ,inpatint units,50<60,Wound dehiscence,Yes/Nurse,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+153,2017,15/09/2017,friday,Night,diagnostic support,30<40,no injury,No,Bathroom/shower,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+154,2017,15/09/2017,friday,Night,operating room,30<40,no injury,Yes/Nurse,Others,Moderate,Trip,Yes,No,adverse event,F
+155,2017,19/09/2017,tuesday,Night,diagnostic support,70<80,no injury,Yes/Nurse,Hallway,Moderate,Trip,Yes,No,adverse event,F
+156,2017,24/09/2017,sunday,Morning ,inpatint units,70<80,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+157,2017,27/09/2017,wednesday,Afternoon,operating room,30<40,excoriation,No,Bathroom/shower,Moderate,Hypotension,Yes,Yes,adverse event,F
+158,2017,03/10/2017,tuesday,Morning ,inpatint units,60<70,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+159,2017,05/10/2017,thursday,Night,inpatint units,80<90,no injury,Yes,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+160,2017,05/10/2017,thursday,Afternoon,inpatint units,80<90,no injury,Yes/Nurse,Room,High,Slip,Yes,Yes,adverse event,F
+161,2017,11/10/2017,wednesday,Afternoon,diagnostic support,50<60,no injury,Yes/Physician,Others,High,Trip,Yes,Yes,adverse event,F
+162,2017,16/10/2017,monday,Morning ,inpatint units,50<60,no injury,Yes/Nurse,Room,Moderate,Human error,Yes,Yes,adverse event,F
+163,2017,18/10/2017,wednesday,Night,inpatint units,70<80,excoriation,No,Bathroom/shower,High,Loss of balance,Yes,No,adverse event,F
+164,2017,19/10/2017,thursday,Afternoon,inpatint units,40<50,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+165,2017,22/10/2017,sunday,Night,inpatint units,80<90,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,M
+166,2017,23/10/2017,monday,Morning ,inpatint units,≥ 90,excoriation,Yes,Room,High,Loss of balance,Yes,No,adverse event,M
+167,2017,23/10/2017,monday,Afternoon,inpatint units,70<80,no injury,yes/Physical therapist,Room,High,Hypotension,Yes,Yes,adverse event,F
+168,2017,24/10/2017,tuesday,Night,inpatint units,80<90,no injury,No,Room,High,Trip,Yes,Yes,adverse event,M
+169,2017,27/10/2017,friday,Night,inpatint units,60<70,cut,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,M
+170,2017,27/10/2017,friday,Morning ,inpatint units,30<40,EDEMA,Yes,Room,High,Trip,Yes,Yes,adverse event,F
+171,2017,28/10/2017,saturday,Night,inpatint units,70<80,no injury,No,Room,Moderate,Slip,Yes,Yes,adverse event,F
+172,2017,28/10/2017,saturday,Afternoon,inpatint units,70<80,no injury,Yes,Hallway,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+173,2017,29/10/2017,sunday,Morning ,diagnostic support,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,M
+174,2017,31/10/2017,tuesday,Afternoon,inpatint units,50<60,no injury,yes/Physical therapist,Room,High,Slip,Yes,No,adverse event,F
+175,2017,31/10/2017,tuesday,Afternoon,inpatint units,70<80,no injury,No,Room,High,Mental confusion,Yes,Yes,adverse event,M
+176,2017,01/11/2017,wednesday,Night,inpatint units,30<40,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+177,2017,01/11/2017,wednesday,Night,inpatint units,60<70,no injury,No,Nursing station,High,Loss of balance,Yes,Yes,adverse event,F
+178,2017,02/11/2017,thursday,Night,inpatint units,70<80,no injury,Yes,Bathroom/shower,High,Human error,Yes,Yes,adverse event,M
+179,2017,03/11/2017,friday,Afternoon,inpatint units,70<80,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,M
+180,2017,04/11/2017,saturday,Night,inpatint units,60<70,excoriation,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,F
+181,2017,06/11/2017,monday,Morning ,inpatint units,20<30,no injury,Yes/Nurse,Bathroom/shower,Low,Muscle weakness,Yes,No,adverse event,F
+182,2017,07/11/2017,tuesday,Night,inpatint units,80<90,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+183,2017,08/11/2017,wednesday,Afternoon,adult ICU,50<60,no injury,yes/Physical therapist,Hallway,Moderate,Muscle weakness,Yes,Yes,adverse event,F
+184,2017,10/11/2017,friday,Afternoon,inpatint units,60<70,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,F
+185,2017,10/11/2017,friday,Night,inpatint units,80<90,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+186,2017,12/11/2017,sunday,Night,inpatint units,60<70,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,F
+187,2017,18/11/2017,saturday,Night,inpatint units,60<70,excoriation,No,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,F
+188,2017,18/11/2017,saturday,Afternoon,inpatint units,60<70,excoriation,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+189,2017,19/11/2017,sunday,Morning ,inpatint units,70<80,excoriation,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+190,2017,21/11/2017,tuesday,Morning ,inpatint units,≥ 90,no injury,Yes,Bathroom/shower,High,Muscle weakness,Yes,No,adverse event,M
+191,2017,21/11/2017,tuesday,Morning ,diagnostic support,70<80,no injury,No,Waiting room,Moderate,Loss of balance,Yes,Yes,adverse event,F
+192,2017,21/11/2017,tuesday,Afternoon,inpatint units,60<70,no injury,No,Bathroom/shower,High,Loss of balance,Yes,Yes,adverse event,M
+193,2017,22/11/2017,wednesday,Night,inpatint units,80<90,no injury,Yes,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+194,2017,27/11/2017,monday,Morning ,inpatint units,40<50,no injury,Yes/Nurse,Bathroom/shower,High,Slip,Yes,Yes,adverse event,M
+195,2017,30/11/2017,thursday,Night,inpatint units,60<70,no injury,No,Room,High,Muscle weakness,Yes,Yes,adverse event,M
+196,2017,30/112017,thursday,Night,inpatint units,60<70,no injury,Yes,Bathroom/shower,High,Mental confusion,Yes,Yes,adverse event,M
+197,2017,29/11/2017,wednesday,Night,inpatint units,60<70,no injury,No,Room,High,Loss of balance,Yes,Yes,adverse event,F
+198,2017,04/12/2017,monday,Afternoon,inpatint units,70<80,no injury,No,Room,High,Hypotension,Yes,Yes,adverse event,M
+199,2017,05/12/2017,tuesday,Night,inpatint units,40<50,no injury,No,Bathroom/shower,High,Muscle weakness,No,No,adverse event,M
+200,2017,07/12/2017,thursday,Morning ,diagnostic support,70<80,HEMATOMA,Yes/Nurse,Exam room ,High,Slip,Yes,No,adverse event,F
+201,2017,07/12/2017,thursday,Afternoon,dialysis,70<80,no injury,Yes/Nurse,Hallway,High,Loss of balance,Yes,No,adverse event,M
+202,2017,08/12/2017,friday,Afternoon,inpatint units,60<70,HEMATOMA,Yes,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+203,2017,08/12/2017,friday,Afternoon,inpatint units,40<50,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,No,adverse event,M
+204,2017,10/12/2017,sunday,Night,inpatint units,80<90,excoriation,Yes/Nurse,Room,High,Mental confusion,Yes,Yes,adverse event,F
+205,2017,13/12/2017,wednesday,Night,inpatint units,70<80,no injury,Yes,Room,High,Mental confusion,Yes,Yes,adverse event,M
+206,2017,15/12/2017,friday,Morning ,inpatint units,80<90,no injury,No,Room,High,Slip,Yes,Yes,adverse event,M
+207,2017,17/12/2017,sunday,Night,diagnostic support,30<40,no injury,Yes/Nurse,Room,High,Muscle weakness,Yes,Yes,adverse event,F
+208,2017,17/12/2017,sunday,Night,inpatint units,30<40,no injury,No,Bathroom/shower,High,Muscle weakness,Yes,Yes,adverse event,F
+209,2017,19/12/2017,tuesday,Afternoon,oncology,70<80,no injury,No,Others,Moderate,Loss of balance,Yes,Yes,adverse event,F
+210,2017,19/12/2017,tuesday,Afternoon,inpatint units,13<20,no injury,yes/Physical therapist,Room,High,Muscle weakness,Yes,No,adverse event,F
+211,2017,20/12/2017,wednesday,Afternoon,oncology,60<70,HEMATOMA,No,Hallway,Low,Trip,No,No,adverse event,F
+212,2017,22/12/2017,friday,Night,inpatint units,70<80,excoriation,Yes,Room,High,Loss of balance,Yes,Yes,adverse event,F
+213,2017,26/12/2017,tuesday,Morning ,oncology,80<90,Bruising,Yes/Nurse,Others,Moderate,Trip,No,No,adverse event,M
+214,2017,27/12/2017,wednesday,Morning ,oncology,80<90,excoriation,Yes,Hallway,High,Trip,No,No,adverse event,F
+215,2017,31/12/2017,sunday,Afternoon,inpatint units,80<90,no injury,Yes,Room,High,Slip,Yes,Yes,adverse event,M
