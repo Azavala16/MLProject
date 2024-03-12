@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from collections import Counter
 
 # file path here
-df = pd.read_csv('C:\\Users\\Alexi\\OneDrive\\Desktop\\Machine Learning\\Project\\FallRiskDataSet.csv')
+df = pd.read_csv('FallRiskOriginalDataSet.csv')
 
 # Dropped rows with any missing values in any column
 df.dropna(inplace=True)
